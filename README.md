@@ -37,6 +37,7 @@
 **12.**[Memory pair game](tasks/memory-pair-game.md) — real project!
 
 **13.**[Website Performance Optimization](tasks/app-design-performance.md)
+
 **14.**[Friends App](tasks/friends-app.md) - real project!
 
 ---
@@ -56,7 +57,7 @@
 <details><summary>My results</summary>
 <p>
 
-![Screenshot-image-link](git_basics/udacity.jpg)
+![Screenshot-image-link](git_basics/udacity.png)
 
 </p>
 </details>
