@@ -10,7 +10,7 @@
 
 **1.** [Linux CLI and Networking](tasks/linux-cli-http.md)
 
-**2.**[VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
+**2.** [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 
 ### Front-End Basics
 
@@ -18,7 +18,7 @@
 
 **4.** [Responsive Web Design](tasks/html-css-responsive.md)
 
-**5.**[HTML & CSS Practice](tasks/html-css-popup.md)
+**5.** [HTML & CSS Practice](tasks/html-css-popup.md)
 
 **6.** [JavaScript Basics](tasks/js-basics.md)
 
@@ -28,17 +28,17 @@
 
 **8.** [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
 
-**9.**[Object oriented JS](tasks/js-oop.md) - practice
+**9.** [Object oriented JS](tasks/js-oop.md) - practice
 
 **10.** [OOP exercise](tasks/js-post-oop.md) - practice
 
-**11.**[Offline Web Applications](tasks/app-design-offline.md)
+**11.** [Offline Web Applications](tasks/app-design-offline.md)
 
-**12.**[Memory pair game](tasks/memory-pair-game.md) — real project!
+**12.** [Memory pair game](tasks/memory-pair-game.md) — real project!
 
-**13.**[Website Performance Optimization](tasks/app-design-performance.md)
+**13.** [Website Performance Optimization](tasks/app-design-performance.md)
 
-**14.**[Friends App](tasks/friends-app.md) - real project!
+**14.** [Friends App](tasks/friends-app.md) - real project!
 
 ---
 
@@ -57,7 +57,7 @@
 <details><summary>My results</summary>
 <p>
 
-![Screenshot-image-link](git_basics/udacity.png)
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/git_basic/udacity.png)
 
 </p>
 </details>
@@ -67,7 +67,7 @@
 <details><summary>My results</summary>
 <p>
 
-![Screenshot-image-link](git_basics/learngitbranching_1.jpg)
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/git_basic/learngitbranching_1.jpg)
 
 </p>
 </details>
@@ -75,7 +75,7 @@
 <details><summary>My results</summary>
 <p>
 
-![Screenshot-image-link](git_basics/learngitbranching_1.jpg)
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/git_basic/learngitbranching_1.jpg)
 
 </p>
 </details>
