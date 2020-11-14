@@ -8,7 +8,7 @@
 
 [x] **0.** [Git Basics](#git-basics)
 
-[ ] **1.** [Linux CLI and Networking](#linux-cli-and-networking)
+[ ] **1.** [Linux CLI and Networking](#linux-cli,-and-http)
 
 [ ] **2.** [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 
@@ -46,7 +46,7 @@
 
 ---
 
-### Git Basics
+## Git Basics
 
 - One thing that was new to me: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push".
 - One thing that surprised me: It turns, I do not now anything about GIT AT ALL.
@@ -82,7 +82,7 @@
 
 ---
 
-### Linux CLI and Networking
+## Linux CLI, and HTTP
 
 #### Linux Survival
 
