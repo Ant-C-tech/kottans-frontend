@@ -57,7 +57,7 @@
 <details><summary>My results</summary>
 <p>
 
-![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/git_basic/udacity.jpg)
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_basic/udacity.jpg)
 
 </p>
 </details>
@@ -67,7 +67,7 @@
 <details><summary>My results</summary>
 <p>
 
-![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/git_basic/learngitbranching_1.jpg)
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_basic/learngitbranching_1.jpg)
 
 </p>
 </details>
@@ -75,7 +75,7 @@
 <details><summary>My results</summary>
 <p>
 
-![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/git_basic/learngitbranching_2.jpg)
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_basic/learngitbranching_2.jpg)
 
 </p>
 </details>
