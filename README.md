@@ -8,7 +8,7 @@
 
 [x] **0.** [Git Basics](#git-basics)
 
-[ ] **1.** [Linux CLI and Networking](tasks/linux-cli-http.md)
+[ ] **1.** [Linux CLI and Networking](#linux-cli-and-networking)
 
 [ ] **2.** [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 
@@ -76,6 +76,44 @@
 <p>
 
 ![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_basic/learngitbranching_2.jpg)
+
+</p>
+</details>
+
+---
+
+### Linux CLI and Networking
+
+#### Linux Survival
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_linux_cli/scr1.jpg)
+
+</p>
+</details>
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_linux_cli/scr2.jpg)
+
+</p>
+</details>
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_linux_cli/scr3.jpg)
+
+</p>
+</details>
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_linux_cli/scr4.jpg)
 
 </p>
 </details>
