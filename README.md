@@ -8,7 +8,7 @@
 
 [x] **0.** [Git Basics](#git-basics)
 
-[x] **1.** [Linux CLI and Networking](#linux-cli,-and-http)
+[x] **1.** [Linux CLI and Networking](#linux-cli-and-http)
 
 [ ] **2.** [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Linux CLI, and HTTP
+## Linux CLI and HTTP
 
 #### Linux Survival
 
