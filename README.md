@@ -10,7 +10,7 @@
 
 [x] **1.** [Linux CLI and Networking](#linux-cli,-and-http)
 
-[ ] **2.** [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
+[ ] **2.** [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
 ### Front-End Basics
 
@@ -127,3 +127,27 @@
  I cannot call the material presented in two parts of the article absolutely new for me, but this time the immersion into the material was much deeper than a simple listing of the server response status codes. I hope that repeated reading of the material allowed me to create a certain theoretical foundation, which will become the beginning of a deeper study of this topic for next practical creating of REST services.
 
  ---
+
+ ## Git Collaboration
+
+ #### GitHub & Collaboration
+
+#### Learn Git Branching
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_basic/learngitbranching_1.jpg)
+
+</p>
+</details>
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_basic/learngitbranching_2.jpg)
+
+</p>
+</details>
+
+---
