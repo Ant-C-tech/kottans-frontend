@@ -8,7 +8,7 @@
 
 [x] **0.** [Git Basics](#git-basics)
 
-[ ] **1.** [Linux CLI and Networking](#linux-cli,-and-http)
+[x] **1.** [Linux CLI and Networking](#linux-cli,-and-http)
 
 [ ] **2.** [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 
@@ -121,3 +121,9 @@
 
 </p>
 </details>
+
+#### HTTP: The Protocol Every Web Developer Must Know
+
+ I cannot call the material presented in two parts of the article absolutely new for me, but this time the immersion into the material was much deeper than a simple listing of the server response status codes. I hope that repeated reading of the material allowed me to create a certain theoretical foundation, which will become the beginning of a deeper study of this topic for next practical creating of REST services.
+
+ ---
