@@ -86,6 +86,10 @@
 
 #### Linux Survival
 
+- One thing that was new to me: it was absolutely new topic for me because all I could do with command terminal was "cd"-command. Now I know much more about it, so I think I will feel more confident with terminal in the future.
+- One thing that surprised me: I do not know yet why I need Linux CLI but I trust kottans teacher because last theme (Git Basics) was very useful for me and showed me the gaps in my knowledges.
+- One thing I intend to use in the future: I think "man"-command will help me resolve any problem with terminal. 
+
 <details><summary>My results</summary>
 <p>
 
