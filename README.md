@@ -14,7 +14,7 @@
 
 ### Front-End Basics
 
-[ ] **3.** [Intro to HTML & CSS](tasks/html-css-intro.md)
+[ ] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
 
 [ ] **4.** [Responsive Web Design](tasks/html-css-responsive.md)
 
@@ -149,5 +149,15 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 </p>
 </details>
+
+---
+
+## Intro to HTML and CSS
+
+#### Intro to HTML & CSS
+
+#### Learn HTML
+
+#### Learn CSS
 
 ---
