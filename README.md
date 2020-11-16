@@ -72,14 +72,6 @@
 </p>
 </details>
 
-<details><summary>My results</summary>
-<p>
-
-![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_basic/learngitbranching_2.jpg)
-
-</p>
-</details>
-
 ---
 
 ## Linux CLI and HTTP
@@ -130,22 +122,14 @@
 
  ## Git Collaboration
 
- #### GitHub & Collaboration
+ #### GitHub & Collaboration - Udacity course
 
 #### Learn Git Branching
 
 <details><summary>My results</summary>
 <p>
 
-![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_basic/learngitbranching_1.jpg)
-
-</p>
-</details>
-
-<details><summary>My results</summary>
-<p>
-
-![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_basic/learngitbranching_2.jpg)
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_collaboration/learngitbranching_2.jpg)
 
 </p>
 </details>
