@@ -48,7 +48,7 @@
 
 ## Git Basics
 
-- One thing that was new to me: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push".
+- One thing that was new to me: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
 - One thing that surprised me: It turns, I do not now anything about GIT AT ALL.
 - One thing I intend to use in the future: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
 
@@ -124,7 +124,23 @@
 
  #### GitHub & Collaboration - Udacity course
 
+After studying "Learn Git Branching - Remote", this Udacity course was mostly like some addition with deeper studying "git rebase" command. Anyway, all GIT-materials was very useful for me and I am sure I will come back to them many times in future to make my GIT technique perfect at the end.
+
+ <details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_collaboration/scr.jpg)
+
+</p>
+</details>
+
 #### Learn Git Branching
+
+I studied this set of lessons with part #0 Git Basic. So my emotions after studying were something like this:
+
+- One thing that was new to me: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
+- One thing that surprised me: It turns, I do not now anything about GIT AT ALL.
+- One thing I intend to use in the future: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
 
 <details><summary>My results</summary>
 <p>
