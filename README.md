@@ -156,6 +156,19 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 #### Intro to HTML & CSS
 
+- One thing that was new to me: I had never before use the tag "figure", I don't know why.
+- One thing that surprised me: In all HTML courses in Russian I have ever seen before always many time takes a question of symantics, but in this course do not mentioned this question at all.
+- One thing I intend to use in the future: I don't know - I always use all these tags and properties.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_intro_to_html_and_css/scr1.jpg)
+
+</p>
+</details>
+
+
 #### Learn HTML
 
 #### Learn CSS
