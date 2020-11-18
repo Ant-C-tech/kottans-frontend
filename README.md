@@ -154,7 +154,7 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 ## Intro to HTML and CSS
 
-#### Intro to HTML & CSS
+#### Intro to HTML & CSS - Udacity course
 
 - One thing that was new to me: I had never before use the tag "figure", I don't know why.
 - One thing that surprised me: In all HTML courses in Russian I have ever seen before always many time takes a question of symantics, but in this course do not mentioned this question at all.
@@ -169,7 +169,19 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 </details>
 
 
-#### Learn HTML
+#### Learn HTML - Codeacademy course
+
+- One thing that was new to me: in this course for me was very interesting to have known more about forms. It turns there were many posibility with this elements about which I even did not hear. 
+- One thing that surprised me: input-tag can support RegExp - guys, nothing can surprise me today any more. It is very cool news.
+- One thing I intend to use in the future: RegExp with input-tag.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_intro_to_html_and_css/scr2.jpg)
+
+</p>
+</details>
 
 #### Learn CSS
 
