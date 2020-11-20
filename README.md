@@ -14,7 +14,7 @@
 
 ### Front-End Basics
 
-[ ] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
+[x] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
 
 [ ] **4.** [Responsive Web Design](tasks/html-css-responsive.md)
 
