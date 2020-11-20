@@ -16,7 +16,7 @@
 
 [x] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
 
-[ ] **4.** [Responsive Web Design](tasks/html-css-responsive.md)
+[ ] **4.** [Responsive Web Design](#responsive-web-design)
 
 [ ] **5.** [HTML & CSS Practice](tasks/html-css-popup.md)
 
@@ -188,5 +188,25 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 </p>
 </details>
+
+---
+
+## Responsive Web Design
+
+#### Responsive Web Design Fundamentals - Udacity course
+
+- One thing that was new to me: I have never seen before that break points could be making in separate css files. Interesting practice. Maybe)
+- One thing that surprised me: There was a link to another course - "Responsive images" (maybe not) - I have tried to do this thing long time ago and something went wrong - now I have scheduled to study this course later.
+- One thing I intend to use in the future: all studied methods and hacks.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_responsive_web_design/scr1.jpg)
+
+</p>
+</details>
+
+#### Flexbox Froggy
 
 ---
