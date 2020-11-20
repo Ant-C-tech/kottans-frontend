@@ -175,6 +175,12 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 - One thing that surprised me: input-tag can support RegExp - guys, nothing can surprise me today any more. It is very cool news.
 - One thing I intend to use in the future: RegExp with input-tag.
 
+#### Learn CSS - Codeacademy course
+
+- One thing that was new to me: when I studied CSS, browsers support of Grid layout was not high and there weren't a lot of education materials in Russian, so I didn't practice with this wonderful features enough. Now, I think I have closed this problem in my education with this Codeacademy course.
+- One thing that surprised me: all the course was interesting and useful but there is no thing surprise for me.
+- One thing I intend to use in the future: formerly I studied it but forget it - "inline-flex" value for "display" - now I will use this value more often.
+
 <details><summary>My results</summary>
 <p>
 
@@ -182,7 +188,5 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 </p>
 </details>
-
-#### Learn CSS
 
 ---
