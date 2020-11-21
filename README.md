@@ -16,7 +16,7 @@
 
 [x] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
 
-[ ] **4.** [Responsive Web Design](#responsive-web-design)
+[x] **4.** [Responsive Web Design](#responsive-web-design)
 
 [ ] **5.** [HTML & CSS Practice](tasks/html-css-popup.md)
 
@@ -208,5 +208,16 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 </details>
 
 #### Flexbox Froggy
+
+I heard a lot about this game but I have never been playing it before. So, it was quite easy to won it except level 24 (that's because in my practice I never used property "wrap-reverse"). Long story short, first easy task in this course. Thanks, because it is Saturday today.   
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_responsive_web_design/scr2.jpg)
+
+</p>
+</details>
+
 
 ---
