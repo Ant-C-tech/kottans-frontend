@@ -20,7 +20,7 @@
 
 [x] **5.** [HTML & CSS Practice](#html-&-css-practice)
 
-[ ] **6.** [JavaScript Basics](tasks/js-basics.md)
+[ ] **6.** [JavaScript Basics](#javascript-basics)
 
 [ ] **7.** [Document Object Model](tasks/js-dom.md) - practice
 
@@ -227,3 +227,19 @@ I used to made dropdown menu with pure css but it was the first time when  this 
 Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request.
 
 ---
+
+## JavaScript Basics
+
+#### Intro to JS - Udacity course
+
+- One thing that was new to me: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to percieve.
+- One thing that surprised me: I had some difficulties with quizes - sometimes format of the answer was not completaly described (one of them is "FacebookProfile Object Task"). 
+- One thing I intend to use in the future: I very like Udacity courses and I am planing to study many of them in 2021. 
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_js_basics/scr1.jpg)
+
+</p>
+</details>
