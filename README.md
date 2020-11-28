@@ -224,7 +224,7 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 ## HTML & CSS practice
 
 I used to made dropdown menu with pure css but it was the first time when  this technique seems to me very convenient. It was a good practice.
-Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request.
+Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request. [Demo](https://ant-c-tech.github.io/-5-HTML-CSS-Practice/)
 
 ---
 
