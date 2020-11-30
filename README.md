@@ -257,3 +257,15 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 </p>
 </details>
+
+---
+
+## DOM
+
+#### JavaScript and the DOM - Udacity course
+
+#### FreeCodeCamp exercises
+
+#### Practical task
+
+---
