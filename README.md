@@ -20,7 +20,7 @@
 
 [x] **5.** [HTML & CSS Practice](#html-&-css-practice)
 
-[ ] **6.** [JavaScript Basics](#javascript-basics)
+[x] **6.** [JavaScript Basics](#javascript-basics)
 
 [ ] **7.** [Document Object Model](tasks/js-dom.md) - practice
 
@@ -245,3 +245,15 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </details>
 
 #### FreeCodeCamp exercises
+
+- One thing that was new to me: Next themes was new for me: "Rest Parameter", "Spread Operator", "Destructuring". Actually, I have read them before but I did not examine these themes deep and didn't use them in my practice. One more thing that I noticed, there was information about "Promice". Unfortunatelly, it was too little and I hope we will study it in next lessons.
+- One thing that surprised me: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty. 
+- One thing I intend to use in the future: I am planning to finished course "JavaScript Algorithms and Data Structures Certification (300 hours)" from "freeCodeCamp" after "Stage 0".
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_js_basics/scr2.jpg)
+
+</p>
+</details>
