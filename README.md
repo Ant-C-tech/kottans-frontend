@@ -22,7 +22,7 @@
 
 [x] **6.** [JavaScript Basics](#javascript-basics)
 
-[ ] **7.** [Document Object Model](tasks/js-dom.md) - practice
+[ ] **7.** [Document Object Model](#dom) - practice
 
 ### Advanced Topics
 
