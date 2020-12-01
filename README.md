@@ -278,6 +278,16 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 #### FreeCodeCamp exercises
 
+- One thing that was new to me and I intend to use in the future: it was translating of the binary string. Thanks, "stackoverflow.com" for help.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_js_dom/scr2.jpg)
+
+</p>
+</details>
+
 #### Practical task
 
 ---
