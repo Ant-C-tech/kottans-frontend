@@ -264,6 +264,18 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 #### JavaScript and the DOM - Udacity course
 
+- One thing that was new to me: I very liked this course. It helped me to uderstood more deeply Event Loop, Event Phases and .style.cssText() method. Further, I have rehearsed my knowledges about listeners and creating elements.
+- One thing that surprised me: I thought that example with setTimeout(, 0) use only for examinating of understanding Event Loop and not use in practice.
+- One thing I intend to use in the future: all knowledges that was received with this course are vitally important in my practice so I think I will use all of them in my projects constantly.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_js_dom/scr1.jpg)
+
+</p>
+</details>
+
 #### FreeCodeCamp exercises
 
 #### Practical task
