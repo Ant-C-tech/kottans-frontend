@@ -290,4 +290,6 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 #### Practical task
 
+Unfortunately, I have spent too much time for this task. Let's accelerating! [Demo](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
+
 ---
