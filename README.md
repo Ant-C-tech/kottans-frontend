@@ -26,7 +26,7 @@
 
 ### Advanced Topics
 
-[ ] **8.** [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
+[ ] **8.** [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-(pre-oop)) - practice
 
 [ ] **9.** [Object oriented JS](tasks/js-oop.md) - practice
 
@@ -290,6 +290,10 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 #### Practical task
 
-Unfortunately, I have spent too much time for this task. Let's accelerating! [Demo](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
+Unfortunately, I have spent too much time for this task. Let's accelerating! I want to thanks Bohdan Kovalchuk for his review. It made me thought again about many aspects of my code. I formerly worked as an engineer and I good undestanding how it is boring to check students works. But for me I think this code review was the most important part of this course. Now I understand why nobody wants to work with people without experience. Bohdan made greate job. [Demo](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
+
+---
+
+## Building a Tiny JS World (pre-OOP)
 
 ---
