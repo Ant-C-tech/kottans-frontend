@@ -306,4 +306,14 @@ I've made this task even though I not fully understand entire idea of this tiny 
 
 #### Codewars
 
+[My Profile Badge](https://www.codewars.com/users/Ant-C-tech/badges/large)
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_js_oop/scr2.jpg)
+
+</p>
+</details>
+
 ---
