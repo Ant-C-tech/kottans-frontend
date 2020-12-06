@@ -296,4 +296,7 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 ## Building a Tiny JS World (pre-OOP)
 
+I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause some difficulties with this task. I want to thanks Oleksiy Rudenko for his review. Every code review make my code better. [Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
+
+
 ---
