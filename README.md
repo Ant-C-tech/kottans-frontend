@@ -28,7 +28,7 @@
 
 [ ] **8.** [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-(pre-oop)) - practice
 
-[ ] **9.** [Object oriented JS](tasks/js-oop.md) - practice
+[ ] **9.** [Object oriented JS](#object-oriented-javascript) - practice
 
 [ ] **10.** [OOP exercise](tasks/js-post-oop.md) - practice
 
@@ -296,7 +296,14 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 ## Building a Tiny JS World (pre-OOP)
 
-I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause some difficulties with this task. I want to thanks Oleksiy Rudenko for his review. Every code review make my code better. [Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
+I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review. Every code review make my code better. [Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
 
+---
+
+## Object-Oriented JavaScript
+
+#### Object Oriented JS - Udacity course
+
+#### Codewars
 
 ---
