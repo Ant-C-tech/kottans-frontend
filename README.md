@@ -80,7 +80,7 @@
 
 - One thing that was new to me: it was absolutely new topic for me because all I could do with command terminal was "cd"-command. Now I know much more about it, so I think I will feel more confident with terminal in the future.
 - One thing that surprised me: I do not know yet why I need Linux CLI but I trust kottans teacher because last theme (Git Basics) was very useful for me and showed me the gaps in my knowledges.
-- One thing I intend to use in the future: I think "man"-command will help me resolve any problem with terminal. 
+- One thing I intend to use in the future: I think "man"-command will help me resolve any problem with terminal.
 
 <details><summary>My results</summary>
 <p>
@@ -171,7 +171,7 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 #### Learn HTML - Codeacademy course
 
-- One thing that was new to me: in this course for me was very interesting to have known more about forms. It turns there were many posibility with this elements about which I even did not hear. 
+- One thing that was new to me: in this course for me was very interesting to have known more about forms. It turns there were many posibility with this elements about which I even did not hear.
 - One thing that surprised me: input-tag can support RegExp - guys, nothing can surprise me today any more. It is very cool news.
 - One thing I intend to use in the future: RegExp with input-tag.
 
@@ -209,7 +209,7 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 #### Flexbox Froggy
 
-I heard a lot about this game but I have never been playing it before. So, it was quite easy to won it except level 24 (that's because in my practice I never used property "wrap-reverse"). Long story short, first easy task in this course. Thanks, because it is Saturday today.   
+I heard a lot about this game but I have never been playing it before. So, it was quite easy to won it except level 24 (that's because in my practice I never used property "wrap-reverse"). Long story short, first easy task in this course. Thanks, because it is Saturday today.
 
 <details><summary>My results</summary>
 <p>
@@ -233,8 +233,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 #### Intro to JS - Udacity course
 
 - One thing that was new to me: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to percieve.
-- One thing that surprised me: I had some difficulties with quizes - sometimes format of the answer was not completaly described (one of them is "FacebookProfile Object Task"). 
-- One thing I intend to use in the future: I very like Udacity courses and I am planing to study many of them in 2021. 
+- One thing that surprised me: I had some difficulties with quizes - sometimes format of the answer was not completaly described (one of them is "FacebookProfile Object Task").
+- One thing I intend to use in the future: I very like Udacity courses and I am planing to study many of them in 2021.
 
 <details><summary>My results</summary>
 <p>
@@ -247,7 +247,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 #### FreeCodeCamp exercises
 
 - One thing that was new to me: Next themes was new for me: "Rest Parameter", "Spread Operator", "Destructuring". Actually, I have read them before but I did not examine these themes deep and didn't use them in my practice. One more thing that I noticed, there was information about "Promice". Unfortunatelly, it was too little and I hope we will study it in next lessons.
-- One thing that surprised me: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty. 
+- One thing that surprised me: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty.
 - One thing I intend to use in the future: I am planning to finished course "JavaScript Algorithms and Data Structures Certification (300 hours)" from "freeCodeCamp" after "Stage 0".
 
 <details><summary>My results</summary>
@@ -303,6 +303,20 @@ I've made this task even though I not fully understand entire idea of this tiny 
 ## Object-Oriented JavaScript
 
 #### Object Oriented JS - Udacity course
+
+This Udacity course for me was like some Evolution Theory of JavaScript OOP. It was the way to combine my fragmentary knowledge together that I recieved earlier. Now I feel like I know more about OOP, but low level of understanding Lesson 10 (Prototype chains) do not let me to feel myself more comfort in these themes. I understand that I will return to this material later.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_js_oop/scr1.jpg)
+
+</p>
+</details>
+
+
+#### Frogger Game - Udacity course
+
 
 #### Codewars
 
