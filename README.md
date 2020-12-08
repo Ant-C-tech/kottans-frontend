@@ -32,7 +32,7 @@
 
 [ ] **10.** [OOP exercise](#oop-exercise) - practice
 
-[ ] **11.** [Offline Web Applications](tasks/app-design-offline.md)
+[ ] **11.** [Offline Web Applications](#offline-web-applications)
 
 [ ] **12.** [Memory pair game](tasks/memory-pair-game.md) — real project!
 
@@ -333,5 +333,9 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 ---
 
 ## OOP exercise
+
+---
+
+## Offline Web Applications - Udacity course
 
 ---
