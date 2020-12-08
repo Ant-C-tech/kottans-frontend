@@ -30,7 +30,7 @@
 
 [ ] **9.** [Object oriented JS](#object-oriented-javascript) - practice
 
-[ ] **10.** [OOP exercise](tasks/js-post-oop.md) - practice
+[ ] **10.** [OOP exercise](#oop-exercise) - practice
 
 [ ] **11.** [Offline Web Applications](tasks/app-design-offline.md)
 
@@ -329,5 +329,9 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 
 </p>
 </details>
+
+---
+
+## OOP exercise
 
 ---
