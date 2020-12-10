@@ -32,7 +32,7 @@
 
 [ ] **10.** [OOP exercise](#oop-exercise) - practice
 
-[ ] **11.** [Offline Web Applications](#offline-web-applications)
+[x] **11.** [Offline Web Applications](#offline-web-applications)
 
 [ ] **12.** [Memory pair game](tasks/memory-pair-game.md) — real project!
 
@@ -337,5 +337,17 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 ---
 
 ## Offline Web Applications - Udacity course
+
+- One thing that was new to me: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education  application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implemention "offline-first" conception with any application I need.
+- One thing that surprised me: I used to work with Local Storage with my previous educational projects (like "Personal Scheduling Service" for example) but now I know about IDB, its methods and possibilities, and I think it opens new   ways to implement much scale projects in my future actions.
+- One thing I intend to use in the future: I hope I will have chance to study this material more diply, have a lot of practice with it and then I think I would use it in my projects constantly.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_offline_web_app/scr.jpg)
+
+</p>
+</details>
 
 ---
