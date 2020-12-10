@@ -26,7 +26,7 @@
 
 ### Advanced Topics
 
-[ ] **8.** [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-(pre-oop)) - practice
+[ ] **8.** [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-pre-oop) - practice
 
 [ ] **9.** [Object oriented JS](#object-oriented-javascript) - practice
 
@@ -336,7 +336,7 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 
 ---
 
-## Offline Web Applications - Udacity course
+## Offline Web Applications
 
 - One thing that was new to me: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education  application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implemention "offline-first" conception with any application I need.
 - One thing that surprised me: I used to work with Local Storage with my previous educational projects (like "Personal Scheduling Service" for example) but now I know about IDB, its methods and possibilities, and I think it opens new   ways to implement much scale projects in my future actions.
