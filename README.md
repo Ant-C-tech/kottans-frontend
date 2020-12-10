@@ -6,35 +6,35 @@
 
 **General**
 
-[x] **0.** [Git Basics](#git-basics)
+[x] **0.** [Git Basics](#task0)
 
-[x] **1.** [Linux CLI and Networking](#linux-cli-and-http)
+[x] **1.** [Linux CLI and Networking](#task1)
 
-[x] **2.** [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+[x] **2.** [VCS (hello gitty), GitHub and Collaboration](#task2)
 
 ### Front-End Basics
 
-[x] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
+[x] **3.** [Intro to HTML & CSS](#task3)
 
-[x] **4.** [Responsive Web Design](#responsive-web-design)
+[x] **4.** [Responsive Web Design](#task4)
 
-[x] **5.** [HTML & CSS Practice](#html-&-css-practice)
+[x] **5.** [HTML & CSS Practice](#task5)
 
-[x] **6.** [JavaScript Basics](#javascript-basics)
+[x] **6.** [JavaScript Basics](#task6)
 
-[ ] **7.** [Document Object Model](#dom) - practice
+[ ] **7.** [Document Object Model](#task7) - practice
 
 ### Advanced Topics
 
-[ ] **8.** [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-pre-oop) - practice
+[ ] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
 
-[ ] **9.** [Object oriented JS](#object-oriented-javascript) - practice
+[ ] **9.** [Object oriented JS](#task9) - practice
 
-[ ] **10.** [OOP exercise](#oop-exercise) - practice
+[ ] **10.** [OOP exercise](#task10) - practice
 
-[x] **11.** [Offline Web Applications](#offline-web-applications)
+[x] **11.** [Offline Web Applications](#task11)
 
-[ ] **12.** [Memory pair game](tasks/memory-pair-game.md) — real project!
+[ ] **12.** [Memory pair game](#task12) — real project!
 
 [ ] **13.** [Website Performance Optimization](tasks/app-design-performance.md)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Git Basics
+## Git Basics <span id="task0"></span>
 
 - One thing that was new to me: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
 - One thing that surprised me: It turns, I do not now anything about GIT AT ALL.
@@ -76,7 +76,7 @@
 
 ---
 
-## Linux CLI and HTTP
+## Linux CLI and HTTP <span id="task1"></span>
 
 #### Linux Survival
 
@@ -124,7 +124,7 @@
 
  ---
 
- ## Git Collaboration
+ ## Git Collaboration <span id="task2"></span>
 
  #### GitHub & Collaboration - Udacity course
 
@@ -158,7 +158,7 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 ---
 
-## Intro to HTML and CSS
+## Intro to HTML and CSS <span id="task3"></span>
 
 #### Intro to HTML & CSS - Udacity course
 
@@ -199,7 +199,7 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 ---
 
-## Responsive Web Design
+## Responsive Web Design <span id="task4"></span>
 
 #### Responsive Web Design Fundamentals - Udacity course
 
@@ -231,7 +231,7 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 
 ---
 
-## HTML & CSS practice
+## HTML & CSS practice <span id="task5"></span>
 
 I used to made dropdown menu with pure css but it was the first time when  this technique seems to me very convenient. It was a good practice.
 Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request. [Demo](https://ant-c-tech.github.io/-5-HTML-CSS-Practice/)
@@ -240,7 +240,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ---
 
-## JavaScript Basics
+## JavaScript Basics <span id="task6"></span>
 
 #### Intro to JS - Udacity course
 
@@ -274,7 +274,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ---
 
-## DOM
+## DOM <span id="task7"></span>
 
 #### JavaScript and the DOM - Udacity course
 
@@ -310,7 +310,7 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 ---
 
-## Building a Tiny JS World (pre-OOP)
+## Building a Tiny JS World (pre-OOP) <span id="task8"></span>
 
 I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review. Every code review make my code better. [Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
 
@@ -318,7 +318,7 @@ I've made this task even though I not fully understand entire idea of this tiny 
 
 ---
 
-## Object-Oriented JavaScript
+## Object-Oriented JavaScript <span id="task9"></span>
 
 #### Object Oriented JS - Udacity course
 
@@ -352,13 +352,13 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 
 ---
 
-## OOP exercise
+## OOP exercise <span id="task10"></span>
 
 [Back to contents](#front-end-course-contents)
 
 ---
 
-## Offline Web Applications
+## Offline Web Applications <span id="task11"></span>
 
 - One thing that was new to me: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education  application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implemention "offline-first" conception with any application I need.
 - One thing that surprised me: I used to work with Local Storage with my previous educational projects (like "Personal Scheduling Service" for example) but now I know about IDB, its methods and possibilities, and I think it opens new   ways to implement much scale projects in my future actions.
@@ -371,6 +371,12 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 
 </p>
 </details>
+
+[Back to contents](#front-end-course-contents)
+
+---
+
+## Memory – Pair Game <span id="task12"></span>
 
 [Back to contents](#front-end-course-contents)
 
