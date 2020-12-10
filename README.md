@@ -72,6 +72,8 @@
 </p>
 </details>
 
+[Back to contents](#front-end-course-contents)
+
 ---
 
 ## Linux CLI and HTTP
@@ -118,6 +120,8 @@
 
  I cannot call the material presented in two parts of the article absolutely new for me, but this time the immersion into the material was much deeper than a simple listing of the server response status codes. I hope that repeated reading of the material allowed me to create a certain theoretical foundation, which will become the beginning of a deeper study of this topic for next practical creating of REST services.
 
+ [Back to contents](#front-end-course-contents)
+
  ---
 
  ## Git Collaboration
@@ -149,6 +153,8 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 </p>
 </details>
+
+[Back to contents](#front-end-course-contents)
 
 ---
 
@@ -189,6 +195,8 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 </p>
 </details>
 
+[Back to contents](#front-end-course-contents)
+
 ---
 
 ## Responsive Web Design
@@ -219,12 +227,16 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 </p>
 </details>
 
+[Back to contents](#front-end-course-contents)
+
 ---
 
 ## HTML & CSS practice
 
 I used to made dropdown menu with pure css but it was the first time when  this technique seems to me very convenient. It was a good practice.
 Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request. [Demo](https://ant-c-tech.github.io/-5-HTML-CSS-Practice/)
+
+[Back to contents](#front-end-course-contents)
 
 ---
 
@@ -257,6 +269,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 </p>
 </details>
+
+[Back to contents](#front-end-course-contents)
 
 ---
 
@@ -292,11 +306,15 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 Unfortunately, I have spent too much time for this task. Let's accelerating! I want to thanks Bohdan Kovalchuk for his review. It made me thought again about many aspects of my code. I formerly worked as an engineer and I good undestanding how it is boring to check students works. But for me I think this code review was the most important part of this course. Now I understand why nobody wants to work with people without experience. Bohdan made greate job. [Demo](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
 
+[Back to contents](#front-end-course-contents)
+
 ---
 
 ## Building a Tiny JS World (pre-OOP)
 
 I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review. Every code review make my code better. [Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
+
+[Back to contents](#front-end-course-contents)
 
 ---
 
@@ -330,9 +348,13 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 </p>
 </details>
 
+[Back to contents](#front-end-course-contents)
+
 ---
 
 ## OOP exercise
+
+[Back to contents](#front-end-course-contents)
 
 ---
 
@@ -349,5 +371,7 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 
 </p>
 </details>
+
+[Back to contents](#front-end-course-contents)
 
 ---
