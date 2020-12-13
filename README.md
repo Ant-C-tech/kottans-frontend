@@ -378,6 +378,8 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 
 ## Memory – Pair Game <span id="task12"></span>
 
+[Demo](https://ant-c-tech.github.io/Memory-Pair-Game/)
+
 [Back to contents](#front-end-course-contents)
 
 ---
