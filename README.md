@@ -36,7 +36,7 @@
 
 [ ] **12.** [Memory pair game](#task12) — real project!
 
-[ ] **13.** [Website Performance Optimization](tasks/app-design-performance.md)
+[ ] **13.** [Website Performance Optimization](#task13)
 
 [ ] **14.** [Friends App](tasks/friends-app.md) - real project!
 
@@ -379,6 +379,14 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 ## Memory – Pair Game <span id="task12"></span>
 
 [Demo](https://ant-c-tech.github.io/Memory-Pair-Game/)
+
+[Back to contents](#front-end-course-contents)
+
+---
+
+## Website Performance Optimization <span id="task13"></span>
+
+
 
 [Back to contents](#front-end-course-contents)
 
