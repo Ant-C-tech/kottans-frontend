@@ -26,7 +26,7 @@
 
 ### Advanced Topics
 
-[ ] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
+[x] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
 
 [ ] **9.** [Object oriented JS](#task9) - practice
 
@@ -312,7 +312,7 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 ## Building a Tiny JS World (pre-OOP) <span id="task8"></span>
 
-I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review. Every code review make my code better. [Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
+I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review - strictly but fair). Every code review make my code better. [Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
 
 [Back to contents](#front-end-course-contents)
 
