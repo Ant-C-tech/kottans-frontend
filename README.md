@@ -390,6 +390,9 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 
 When I started study HTML and CSS I have spended a lot of time learning Site Performance and conducting experiments on my landings with Google Page Speed to change performance index of them. Now it is obviously that some things I was doing correct, some things I was doing wrong, but I even did not know about most of patterns. Now I have a whole science named "Front-End Performance". It will takes a lot of time to study it but it is necessary. Thanks author and Kottans for this article.
 
+#### Website Performance Optimization - Udacity course
+
+
 [Back to contents](#front-end-course-contents)
 
 ---
