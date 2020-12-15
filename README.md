@@ -392,6 +392,15 @@ When I started study HTML and CSS I have spended a lot of time learning Site Per
 
 #### Website Performance Optimization - Udacity course
 
+Now I have the list of simple rules to optimizate my sites and I know how use Network tab of DevTools. These knowledges open many ways to practice with Google SpeedPage and other apps for analizing the performance of my projects.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_website_performance/scr1.jpg)
+
+</p>
+</details>
 
 [Back to contents](#front-end-course-contents)
 
