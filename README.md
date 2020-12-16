@@ -34,7 +34,7 @@
 
 [x] **11.** [Offline Web Applications](#task11)
 
-[ ] **12.** [Memory pair game](#task12) — real project!
+[x] **12.** [Memory pair game](#task12) — real project!
 
 [ ] **13.** [Website Performance Optimization](#task13)
 
@@ -377,6 +377,9 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 ---
 
 ## Memory – Pair Game <span id="task12"></span>
+
+I thank Maksym Kalashnyk for his time and work with my code. Code review is very important for me and always makes my code better.
+Having pay attention to his notices about using event delegation and template strings, I tried to implement them both by reconstruction my app. I hope that this deep changes didn't make his work harder with checking my code.
 
 [Demo](https://ant-c-tech.github.io/Memory-Pair-Game/)
 
