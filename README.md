@@ -405,6 +405,10 @@ Now I have the list of simple rules to optimizate my sites and I know how use Ne
 </p>
 </details>
 
+#### Inside a super fast CSS engine: Quantum CSS (aka Stylo)
+
+With this article I have started better understood building of CSSOM and working of CSS engine of browser. During the reading I always wanted to install this wonderful browser Mozilla and I have always remember that I have it and it is very slow and boring)
+
 [Back to contents](#front-end-course-contents)
 
 ---
