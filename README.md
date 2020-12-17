@@ -354,6 +354,10 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 
 ## OOP exercise <span id="task10"></span>
 
+With this task I got a set of articles that helped me to start my way in OOP. It is a good start but there is a lot of work and practice in the feature to feel at least the same confident that using functional programming. I am sure I will get this opportunity with "Kottans".
+
+[Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
+
 [Back to contents](#front-end-course-contents)
 
 ---
