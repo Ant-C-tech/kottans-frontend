@@ -28,7 +28,7 @@
 
 [x] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
 
-[ ] **9.** [Object oriented JS](#task9) - practice
+[x] **9.** [Object oriented JS](#task9) - practice
 
 [ ] **10.** [OOP exercise](#task10) - practice
 
@@ -333,6 +333,9 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 </details>
 
 #### Frogger Game - Udacity course
+
+I thank Oleksiy Rudenko for his time and work with my code. Code review is very important for me and always makes my code better.
+I made some mistakes in my code which I hope I wouldn't do next time.
 
 [Demo](https://ant-c-tech.github.io/frontend-nanodegree-arcade-game/)
 
