@@ -38,7 +38,7 @@
 
 [ ] **13.** [Website Performance Optimization](#task13)
 
-[ ] **14.** [Friends App](tasks/friends-app.md) - real project!
+[ ] **14.** [Friends App](#task13) - real project!
 
 ---
 
@@ -417,6 +417,14 @@ Now I have the list of simple rules to optimizate my sites and I know how use Ne
 With this article I have started better understood building of CSSOM and working of CSS engine of browser. During the reading I always wanted to install this wonderful browser Mozilla and I have always remember that I have it and it is very slow and boring)
 
 #### Browser Rendering Optimization - Udacity course
+
+[Back to contents](#front-end-course-contents)
+
+---
+
+## Friends App <span id="task12"></span>
+
+[Demo](https://ant-c-tech.github.io/friends_app/)
 
 [Back to contents](#front-end-course-contents)
 
