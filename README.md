@@ -424,8 +424,6 @@ With this article I have started better understood building of CSSOM and working
 - One thing that surprised me: I couldn't suggest that using BEM methodology may improve web page performance that much that we would see it.
 - One thing I intend to use in the future: Dev Tools doesn't not stop  surprise me. How many cool features it has! Unfortunately, professors in course use some old version of Chrome, so I have to find some newer material about it. Cool, that now I know what I need to find. And of course I need to know more about requestAnimationFrame() method.
 
-
-
 <details><summary>My results</summary>
 <p>
 
@@ -433,6 +431,8 @@ With this article I have started better understood building of CSSOM and working
 
 </p>
 </details>
+
+#### Responsive Images - Udacity course
 
 [Back to contents](#front-end-course-contents)
 
