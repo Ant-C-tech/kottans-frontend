@@ -420,6 +420,20 @@ With this article I have started better understood building of CSSOM and working
 
 #### Browser Rendering Optimization - Udacity course
 
+- One thing that was new to me: I have never heard before about "will-change" CSS property and it looks like using it is very good idea improve performance of the app. I watched many ru-chanels about creating of simple web pages like landings or so, but nobody didn't even mention about it.
+- One thing that surprised me: I couldn't suggest that using BEM methodology may improve web page performance that much that we would see it.
+- One thing I intend to use in the future: Dev Tools doesn't not stop  surprise me. How many cool features it has! Unfortunately, professors in course use some old version of Chrome, so I have to find some newer material about it. Cool, that now I know what I need to find. And of course I need to know more about requestAnimationFrame() method.
+
+
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_website_performance/scr2.jpg)
+
+</p>
+</details>
+
 [Back to contents](#front-end-course-contents)
 
 ---
