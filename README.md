@@ -30,7 +30,7 @@
 
 [x] **9.** [Object oriented JS](#task9) - practice
 
-[ ] **10.** [OOP exercise](#task10) - practice
+[x] **10.** [OOP exercise](#task10) - practice
 
 [x] **11.** [Offline Web Applications](#task11)
 
@@ -81,7 +81,7 @@
 #### Linux Survival
 
 - One thing that was new to me: it was absolutely new topic for me because all I could do with command terminal was "cd"-command. Now I know much more about it, so I think I will feel more confident with terminal in the future.
-- One thing that surprised me: I do not know yet why I need Linux CLI but I trust kottans teacher because last theme (Git Basics) was very useful for me and showed me the gaps in my knowledges.
+- One thing that surprised me: I do not know yet why I need Linux CLI but I trust Kottans teacher because last theme (Git Basics) was very useful for me and showed me the gaps in my knowledges.
 - One thing I intend to use in the future: I think "man"-command will help me resolve any problem with terminal.
 
 <details><summary>My results</summary>
@@ -163,7 +163,7 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 #### Intro to HTML & CSS - Udacity course
 
 - One thing that was new to me: I had never before use the tag "figure", I don't know why.
-- One thing that surprised me: In all HTML courses in Russian I have ever seen before always many time takes a question of symantics, but in this course do not mentioned this question at all.
+- One thing that surprised me: In all HTML courses in Russian I have ever seen before always many time takes a question of semantics, but in this course do not mentioned this question at all.
 - One thing I intend to use in the future: I don't know - I always use all these tags and properties.
 
 <details><summary>My results</summary>
@@ -177,13 +177,13 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 #### Learn HTML - Codeacademy course
 
-- One thing that was new to me: in this course for me was very interesting to have known more about forms. It turns there were many posibility with this elements about which I even did not hear.
+- One thing that was new to me: in this course for me was very interesting to have known more about forms. It turns there were many possibility with this elements about which I even did not hear.
 - One thing that surprised me: input-tag can support RegExp - guys, nothing can surprise me today any more. It is very cool news.
 - One thing I intend to use in the future: RegExp with input-tag.
 
 #### Learn CSS - Codeacademy course
 
-- One thing that was new to me: when I studied CSS, browsers support of Grid layout was not high and there weren't a lot of education materials in Russian, so I didn't practice with this wonderful features enough. Now, I think I have closed this problem in my education with this Codeacademy course.
+- One thing that was new to me: when I studied CSS, browsers support of Grid layout was not high and there weren't a lot of education materials in Russian, so I didn't practice with this wonderful features enough. Now, I think I have closed this problem in my education with this CodeAcademy course.
 - One thing that surprised me: all the course was interesting and useful but there is no thing surprise for me.
 - One thing I intend to use in the future: formerly I studied it but forget it - "inline-flex" value for "display" - now I will use this value more often.
 
@@ -244,8 +244,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 #### Intro to JS - Udacity course
 
-- One thing that was new to me: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to percieve.
-- One thing that surprised me: I had some difficulties with quizes - sometimes format of the answer was not completaly described (one of them is "FacebookProfile Object Task").
+- One thing that was new to me: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to perceive.
+- One thing that surprised me: I had some difficulties with quizzes - sometimes format of the answer was not completely described (one of them is "FacebookProfile Object Task").
 - One thing I intend to use in the future: I very like Udacity courses and I am planing to study many of them in 2021.
 
 <details><summary>My results</summary>
@@ -258,8 +258,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 #### FreeCodeCamp exercises
 
-- One thing that was new to me: Next themes was new for me: "Rest Parameter", "Spread Operator", "Destructuring". Actually, I have read them before but I did not examine these themes deep and didn't use them in my practice. One more thing that I noticed, there was information about "Promice". Unfortunatelly, it was too little and I hope we will study it in next lessons.
-- One thing that surprised me: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty.
+- One thing that was new to me: Next themes was new for me: "Rest Parameter", "Spread Operator", "Destructuring". Actually, I have read them before but I did not examine these themes deep and didn't use them in my practice. One more thing that I noticed, there was information about "Promice". Unfortunately, it was too little and I hope we will study it in next lessons.
+- One thing that surprised me: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "Kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty.
 - One thing I intend to use in the future: I am planning to finished course "JavaScript Algorithms and Data Structures Certification (300 hours)" from "freeCodeCamp" after "Stage 0".
 
 <details><summary>My results</summary>
@@ -278,8 +278,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 #### JavaScript and the DOM - Udacity course
 
-- One thing that was new to me: I very liked this course. It helped me to uderstood more deeply Event Loop, Event Phases and .style.cssText() method. Further, I have rehearsed my knowledges about listeners and creating elements.
-- One thing that surprised me: I thought that example with setTimeout(, 0) use only for examinating of understanding Event Loop and not use in practice.
+- One thing that was new to me: I very liked this course. It helped me to understand more deeply Event Loop, Event Phases and .style.cssText() method. Further, I have rehearsed my knowledges about listeners and creating elements.
+- One thing that surprised me: I thought that example with setTimeout(, 0) is using only for examination of understanding Event Loop and not use in practice.
 - One thing I intend to use in the future: all knowledges that was received with this course are vitally important in my practice so I think I will use all of them in my projects constantly.
 
 <details><summary>My results</summary>
@@ -304,7 +304,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 #### Practical task
 
-Unfortunately, I have spent too much time for this task. Let's accelerating! I want to thanks Bohdan Kovalchuk for his review. It made me thought again about many aspects of my code. I formerly worked as an engineer and I good undestanding how it is boring to check students works. But for me I think this code review was the most important part of this course. Now I understand why nobody wants to work with people without experience. Bohdan made greate job. [Demo](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
+Unfortunately, I have spent too much time for this task. Let's accelerating! I want to thanks Bohdan Kovalchuk for his review. It made me thought again about many aspects of my code. I formerly worked as an engineer and I good understanding how it is boring to check students works. But for me I think this code review was the most important part of this course. Now I understand why nobody wants to work with people without experience. Bohdan made a great job. [Demo](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
 
 [Back to contents](#front-end-course-contents)
 
@@ -312,7 +312,7 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 ## Building a Tiny JS World (pre-OOP) <span id="task8"></span>
 
-I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review - strictly but fair). Every code review make my code better. [Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
+I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review - strictly but fair). Every code review make my code better.
 
 [Back to contents](#front-end-course-contents)
 
@@ -322,7 +322,7 @@ I've made this task even though I not fully understand entire idea of this tiny 
 
 #### Object Oriented JS - Udacity course
 
-This Udacity course for me was like some Evolution Theory of JavaScript OOP. It was the way to combine my fragmentary knowledge together that I recieved earlier. Now I feel like I know more about OOP, but low level of understanding Lesson 10 (Prototype chains) do not let me to feel myself more comfort in these themes. I understand that I will return to this material later.
+This Udacity course for me was like some Evolution Theory of JavaScript OOP. It was the way to combine my fragmentary knowledge together that I received earlier. Now I feel like I know more about OOP, but low level of understanding Lesson 10 (Prototype chains) do not let me to feel myself more comfort in these themes. I understand that I will return to this material later.
 
 <details><summary>My results</summary>
 <p>
@@ -361,15 +361,17 @@ With this task I got a set of articles that helped me to start my way in OOP. It
 
 [Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
 
+In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most difficult task in this course. Sometimes the hope that one day I will finally do it properly left me. Anyway, I understand that my solution for this task  was approve as in advance and I will try to work more hardly to comprehend this Zen in my next steps. I want to thanks Oleksiy Rudenko for his reviews and patient in work with my code.
+
 [Back to contents](#front-end-course-contents)
 
 ---
 
 ## Offline Web Applications <span id="task11"></span>
 
-- One thing that was new to me: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education  application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implemention "offline-first" conception with any application I need.
+- One thing that was new to me: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education  application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implementation "offline-first" conception with any application I need.
 - One thing that surprised me: I used to work with Local Storage with my previous educational projects (like "Personal Scheduling Service" for example) but now I know about IDB, its methods and possibilities, and I think it opens new   ways to implement much scale projects in my future actions.
-- One thing I intend to use in the future: I hope I will have chance to study this material more diply, have a lot of practice with it and then I think I would use it in my projects constantly.
+- One thing I intend to use in the future: I hope I will have chance to study this material more deeply, have a lot of practice with it and then I think I would use it in my projects constantly.
 
 <details><summary>My results</summary>
 <p>
@@ -398,11 +400,11 @@ Having pay attention to his notices about using event delegation and template st
 
 #### Front-End Performance Checklist 2019
 
-When I started study HTML and CSS I have spended a lot of time learning Site Performance and conducting experiments on my landings with Google Page Speed to change performance index of them. Now it is obviously that some things I was doing correct, some things I was doing wrong, but I even did not know about most of patterns. Now I have a whole science named "Front-End Performance". It will takes a lot of time to study it but it is necessary. Thanks author and Kottans for this article.
+When I started study HTML and CSS I have spent a lot of time learning Site Performance and conducting experiments on my landings with Google Page Speed to change performance index of them. Now it is obviously that some things I was doing correct, some things I was doing wrong, but I even did not know about most of patterns. Now I have a whole science named "Front-End Performance". It will takes a lot of time to study it but it is necessary. Thanks author and Kottans for this article.
 
 #### Website Performance Optimization - Udacity course
 
-Now I have the list of simple rules to optimizate my sites and I know how use Network tab of DevTools. These knowledges open many ways to practice with Google SpeedPage and other apps for analizing the performance of my projects.
+Now I have the list of simple rules to optimizate my sites and I know how use Network tab of DevTools. These knowledges open many ways to practice with Google SpeedPage and other apps for analysing the performance of my projects.
 
 <details><summary>My results</summary>
 <p>
@@ -424,8 +426,8 @@ With this article I have started better understood building of CSSOM and working
 
 ## Friends App <span id="task14"></span>
 
-When I was starting to do this task I have remembered that I have always wanted to try some library with google like styles and some basic functionality. I have chosen MaterializeCss and it was the biggest mistake. Those problems that I have got did not cost it. When I was finishing my work with this task I have noticed, that I almost did not use any posibility of this library because I just did not need them instead I have many troubles with positioning elements with float that use MaterializeCss. Long story short "Never again".
-I want to thank Ivan Tytarenko for his time and work with review of my code. It was forgetless expirience for me and I am sure that it gave me huge new knowledges that I did not have before.
+When I was starting to do this task I have remembered that I have always wanted to try some library with google like styles and some basic functionality. I have chosen MaterializeCss and it was the biggest mistake. Those problems that I have got did not cost it. When I was finishing my work with this task I have noticed, that I almost did not use any possibility of this library because I just did not need them instead I have many troubles with positioning elements with float that use MaterializeCss. Long story short "Never again".
+I want to thank Ivan Tytarenko for his time and work with review of my code. I have tried to make all changes according his notices and video of AMA helped me very much. It was forgetless experience for me and I am sure that it gave me huge new knowledges that I did not have before.
 
 [Demo](https://ant-c-tech.github.io/friends_app/)
 
