@@ -434,6 +434,16 @@ With this article I have started better understood building of CSSOM and working
 
 #### Responsive Images - Udacity course
 
+I used try to figure out how to use a "picture" tag and attribute "srcset" when I did my first steps with landings. Honestly, with russian language resources it was difficult to do. Now I have a step-by-step manual to make it properly and I can't wait to try it and get cool SpeedPage index.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_website_performance/scr3.jpg)
+
+</p>
+</details>
+
 [Back to contents](#front-end-course-contents)
 
 ---
