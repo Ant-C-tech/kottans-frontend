@@ -446,6 +446,8 @@ I used try to figure out how to use a "picture" tag and attribute "srcset" when 
 
 [Back to contents](#front-end-course-contents)
 
+#### Анимации на GPU: делаем это правильно.
+
 ---
 
 ## Friends App <span id="task14"></span>
