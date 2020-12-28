@@ -444,7 +444,7 @@ I used try to figure out how to use a "picture" tag and attribute "srcset" when 
 </p>
 </details>
 
-#### Animation on GPU: do it in the correctly.
+#### Animation on GPU: do it correctly.
 
 Once again these magic "transform: translateZ(0)" and "will-change". I need help - I need practice. However, now the way is obvious. It was very useful article for me.
 
