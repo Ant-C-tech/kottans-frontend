@@ -448,6 +448,8 @@ I used try to figure out how to use a "picture" tag and attribute "srcset" when 
 
 #### Анимации на GPU: делаем это правильно.
 
+Once again these magic "transform: translateZ(0)" and "will-change". I need help - I need practice. However, now the way is obvious. It was very useful article for me.
+
 ---
 
 ## Friends App <span id="task14"></span>
