@@ -36,9 +36,9 @@
 
 [x] **12.** [Memory pair game](#task12) — real project!
 
-[ ] **13.** [Website Performance Optimization](#task13)
+[x] **13.** [Website Performance Optimization](#task13)
 
-[ ] **14.** [Friends App](#task13) - real project!
+[ ] **14.** [Friends App](#task14) - real project!
 
 ---
 
