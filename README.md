@@ -464,6 +464,10 @@ Once again these magic "transform: translateZ(0)" and "will-change". I need help
 
 - One thing I intend to use in the future: This article operates with complex concepts that will take time to fully understand.
 
+#### Asynchronous versus deferred JavaScript.
+
+The technique of choosing between the "async" and "defer" attributes of the "script" tag is explained and argued in a cool and accessible way.
+
 [Back to contents](#front-end-course-contents)
 
 ---
