@@ -450,6 +450,20 @@ Once again these magic "transform: translateZ(0)" and "will-change". I need help
 
 #### Web performance example.
 
+- One thing that was new to me:
+
+`<link rel="dns-prefetch" href="//hostname_to_resolve.com">`
+
+`<link rel="subresource"  href="/javascript/myapp.js">`
+
+`<link rel="prefetch"     href="/images/big.jpeg">`
+
+`<link rel="prerender"    href="//example.org/next_page.html">`
+
+- One thing that surprised me: "...we are not limited by the channel width. The problem is the latency between client and server."
+
+- One thing I intend to use in the future: This article operates with complex concepts that will take time to fully understand.
+
 [Back to contents](#front-end-course-contents)
 
 ---
