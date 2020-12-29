@@ -38,7 +38,7 @@
 
 [x] **13.** [Website Performance Optimization](#task13)
 
-[ ] **14.** [Friends App](#task14) - real project!
+[x] **14.** [Friends App](#task14) - real project!
 
 ---
 
@@ -482,3 +482,5 @@ I want to thank Ivan Tytarenko for his time and work with review of my code. I h
 [Back to contents](#front-end-course-contents)
 
 ---
+
+In the course I liked a thorough approach to the selection of material - a huge number of very useful materials and courses, the opportunity to improve the level of technical and spoken English (course materials, communication with mentors in GitHub), and, of course, code review from mentors - experience, which can hardly be obtained anywhere else but real work.
