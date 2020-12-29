@@ -76,6 +76,8 @@
 
 ##### Git in 30 minutes
 
+Basics of working with GIT - short, clear, with examples.
+
 [Back to contents](#front-end-course-contents)
 
 ---
