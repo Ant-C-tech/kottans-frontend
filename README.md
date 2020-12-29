@@ -72,6 +72,10 @@
 </p>
 </details>
 
+### Extras
+
+##### Git in 30 minutes
+
 [Back to contents](#front-end-course-contents)
 
 ---
