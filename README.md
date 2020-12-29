@@ -78,6 +78,8 @@
 
 Basics of working with GIT - short, clear, with examples.
 
+##### 7 Useful Git Tips for Beginners
+
 [Back to contents](#front-end-course-contents)
 
 ---
