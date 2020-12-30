@@ -1,10 +1,10 @@
-# Front-End Course. Contents
+# `Front-End Course. Contents`
 
 ---
 
-## Stage 0. Self-Study:
+## `Stage 0. Self-Study:`
 
-### General
+### `General`
 
 - [x] **0.** [Git Basics](#task0)
 
@@ -12,7 +12,7 @@
 
 - [x] **2.** [VCS (hello gitty), GitHub and Collaboration](#task2)
 
-### Front-End Basics
+### `Front-End Basics`
 
 - [x] **3.** [Intro to HTML & CSS](#task3)
 
@@ -24,7 +24,7 @@
 
 - [x] **7.** [Document Object Model](#task7) - practice
 
-### Advanced Topics
+### `Advanced Topics`
 
 - [x] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
 
@@ -42,17 +42,17 @@
 
 ---
 
-## General
+## `General`
 
 ---
 
-## Git Basics <span id="task0"></span>
+## `Git Basics` <span id="task0"></span>
 
 - *One thing that was new to me*: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
 - *One thing that surprised me*: It turns, I do not now anything about GIT AT ALL.
 - *One thing I intend to use in the future*: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
 
-### Version Control with Git - Udacity course
+### `Version Control with Git - Udacity course`
 
 <details><summary>My results</summary>
 <p>
@@ -62,7 +62,7 @@
 </p>
 </details>
 
-### Learn Git Branching
+### `Learn Git Branching`
 
 <details><summary>My results</summary>
 <p>
@@ -72,7 +72,7 @@
 </p>
 </details>
 
-### Extras
+### `Extras`
 
 ##### Git in 30 minutes
 
@@ -94,9 +94,9 @@ Step-by-step manual to resolve merge conflicts using the text editor.
 
 ---
 
-## Linux CLI and HTTP <span id="task1"></span>
+## `Linux CLI and HTTP` <span id="task1"></span>
 
-### Linux Survival
+### `Linux Survival`
 
 - *One thing that was new to me*: it was absolutely new topic for me because all I could do with command terminal was "cd"-command. Now I know much more about it, so I think I will feel more confident with terminal in the future.
 - *One thing that surprised me*: I do not know yet why I need Linux CLI but I trust Kottans teacher because last theme (Git Basics) was very useful for me and showed me the gaps in my knowledges.
@@ -134,7 +134,7 @@ Step-by-step manual to resolve merge conflicts using the text editor.
 </p>
 </details>
 
-### HTTP: The Protocol Every Web Developer Must Know
+### `HTTP: The Protocol Every Web Developer Must Know`
 
  I cannot call the material presented in two parts of the article absolutely new for me, but this time the immersion into the material was much deeper than a simple listing of the server response status codes. I hope that repeated reading of the material allowed me to create a certain theoretical foundation, which will become the beginning of a deeper study of this topic for next practical creating of REST services.
 
@@ -142,9 +142,9 @@ Step-by-step manual to resolve merge conflicts using the text editor.
 
  ---
 
- ## Git Collaboration <span id="task2"></span>
+ ## `Git Collaboration` <span id="task2"></span>
 
- ### GitHub & Collaboration - Udacity course
+ ### `GitHub & Collaboration - Udacity course`
 
 After studying "Learn Git Branching - Remote", this Udacity course was mostly like some addition with deeper studying "git rebase" command. Anyway, all GIT-materials was very useful for me and I am sure I will come back to them many times in future to make my GIT technique perfect at the end.
 
@@ -156,7 +156,7 @@ After studying "Learn Git Branching - Remote", this Udacity course was mostly li
 </p>
 </details>
 
-### Learn Git Branching
+### `Learn Git Branching`
 
 I studied this set of lessons with part #0 Git Basic. So my emotions after studying were something like this:
 
@@ -176,13 +176,13 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 ---
 
-## Front-End Basics
+## `Front-End Basics`
 
 ---
 
-## Intro to HTML and CSS <span id="task3"></span>
+## `Intro to HTML and CSS` <span id="task3"></span>
 
-### Intro to HTML & CSS - Udacity course
+### `Intro to HTML & CSS - Udacity course`
 
 - *One thing that was new to me*: I had never before use the tag "figure", I don't know why.
 - *One thing that surprised me*: In all HTML courses in Russian I have ever seen before always many time takes a question of semantics, but in this course do not mentioned this question at all.
@@ -197,13 +197,13 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 </details>
 
 
-### Learn HTML - Codeacademy course
+### `Learn HTML - Codeacademy course`
 
 - *One thing that was new to me*: in this course for me was very interesting to have known more about forms. It turns there were many possibility with this elements about which I even did not hear.
 - *One thing that surprised me*: input-tag can support RegExp - guys, nothing can surprise me today any more. It is very cool news.
 - *One thing I intend to use in the future*: RegExp with input-tag.
 
-### Learn CSS - Codeacademy course
+### `Learn CSS - Codeacademy course`
 
 - *One thing that was new to me*: when I studied CSS, browsers support of Grid layout was not high and there weren't a lot of education materials in Russian, so I didn't practice with this wonderful features enough. Now, I think I have closed this problem in my education with this CodeAcademy course.
 - *One thing that surprised me*: all the course was interesting and useful but there is no thing surprise for me.
@@ -221,9 +221,9 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 ---
 
-## Responsive Web Design <span id="task4"></span>
+## `Responsive Web Design` <span id="task4"></span>
 
-### Responsive Web Design Fundamentals - Udacity course
+### `Responsive Web Design Fundamentals - Udacity course`
 
 - *One thing that was new to me*: I have never seen before that break points could be making in separate css files. Interesting practice. Maybe)
 - *One thing that surprised me*: There was a link to another course - "Responsive images" (maybe not) - I have tried to do this thing long time ago and something went wrong - now I have scheduled to study this course later.
@@ -237,7 +237,7 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 </p>
 </details>
 
-### Flexbox Froggy
+### `Flexbox Froggy`
 
 I heard a lot about this game but I have never been playing it before. So, it was quite easy to won it except level 24 (that's because in my practice I never used property "wrap-reverse"). Long story short, first easy task in this course. Thanks, because it is Saturday today.
 
@@ -253,7 +253,7 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 
 ---
 
-## HTML & CSS practice <span id="task5"></span>
+## `HTML & CSS practice` <span id="task5"></span>
 
 I used to made dropdown menu with pure css but it was the first time when  this technique seems to me very convenient. It was a good practice.
 Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request. [Demo](https://ant-c-tech.github.io/-5-HTML-CSS-Practice/)
@@ -262,9 +262,9 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ---
 
-## JavaScript Basics <span id="task6"></span>
+## `JavaScript Basics` <span id="task6"></span>
 
-### Intro to JS - Udacity course
+### `Intro to JS - Udacity course`
 
 - *One thing that was new to me*: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to perceive.
 - *One thing that surprised me*: I had some difficulties with quizzes - sometimes format of the answer was not completely described (one of them is "FacebookProfile Object Task").
@@ -278,7 +278,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
-### FreeCodeCamp exercises
+### `FreeCodeCamp exercises`
 
 - *One thing that was new to me*: Next themes was new for me: "Rest Parameter", "Spread Operator", "Destructuring". Actually, I have read them before but I did not examine these themes deep and didn't use them in my practice. One more thing that I noticed, there was information about "Promice". Unfortunately, it was too little and I hope we will study it in next lessons.
 - *One thing that surprised me*: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "Kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty.
@@ -296,9 +296,9 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ---
 
-## DOM <span id="task7"></span>
+## `DOM` <span id="task7"></span>
 
-### JavaScript and the DOM - Udacity course
+### `JavaScript and the DOM - Udacity course`
 
 - *One thing that was new to me*: I very liked this course. It helped me to understand more deeply Event Loop, Event Phases and .style.cssText() method. Further, I have rehearsed my knowledges about listeners and creating elements.
 - *One thing that surprised me*: I thought that example with setTimeout(, 0) is using only for examination of understanding Event Loop and not use in practice.
@@ -312,7 +312,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
-### FreeCodeCamp exercises
+### `FreeCodeCamp exercises`
 
 - *One thing that was new to me* and I intend to use in the future: it was translating of the binary string. Thanks, stackoverflow.com for help.
 
@@ -324,19 +324,21 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
-### Practical task
+### `Practical task`
 
-Unfortunately, I have spent too much time for this task. Let's accelerating! I want to thanks Bohdan Kovalchuk for his review. It made me thought again about many aspects of my code. I formerly worked as an engineer and I good understanding how it is boring to check students works. But for me I think this code review was the most important part of this course. Now I understand why nobody wants to work with people without experience. Bohdan made a great job. [Demo](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
+Unfortunately, I have spent too much time for this task. Let's accelerating! I want to thanks Bohdan Kovalchuk for his review. It made me thought again about many aspects of my code. I formerly worked as an engineer and I good understanding how it is boring to check students works. But for me I think this code review was the most important part of this course. Now I understand why nobody wants to work with people without experience. Bohdan made a great job.
+
+[Demo](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
 
 [Back to contents](#front-end-course-contents)
 
 ---
 
-## Advanced Topics
+## `Advanced Topics`
 
 ---
 
-## Building a Tiny JS World (pre-OOP) <span id="task8"></span>
+## `Building a Tiny JS World (pre-OOP)` <span id="task8"></span>
 
 I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review - strictly but fair). Every code review make my code better.
 
@@ -344,9 +346,9 @@ I've made this task even though I not fully understand entire idea of this tiny 
 
 ---
 
-## Object-Oriented JavaScript <span id="task9"></span>
+## `Object-Oriented JavaScript` <span id="task9"></span>
 
-### Object Oriented JS - Udacity course
+### `Object Oriented JS - Udacity course`
 
 This Udacity course for me was like some Evolution Theory of JavaScript OOP. It was the way to combine my fragmentary knowledge together that I received earlier. Now I feel like I know more about OOP, but low level of understanding Lesson 10 (Prototype chains) do not let me to feel myself more comfort in these themes. I understand that I will return to this material later.
 
@@ -358,14 +360,14 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 </p>
 </details>
 
-### Frogger Game - Udacity course
+### `Frogger Game - Udacity course`
 
 I thank Oleksiy Rudenko for his time and work with my code. Code review is very important for me and always makes my code better.
 I made some mistakes in my code which I hope I wouldn't do next time.
 
 [Demo](https://ant-c-tech.github.io/frontend-nanodegree-arcade-game/)
 
-### Codewars
+### `Codewars`
 
 [My Profile Badge](https://www.codewars.com/users/Ant-C-tech/badges/large)
 
@@ -381,7 +383,7 @@ I made some mistakes in my code which I hope I wouldn't do next time.
 
 ---
 
-## OOP exercise <span id="task10"></span>
+## `OOP exercise` <span id="task10"></span>
 
 With this task I got a set of articles that helped me to start my way in OOP. It is a good start but there is a lot of work and practice in the feature to feel at least the same confident that using functional programming. I am sure I will get this opportunity with "Kottans".
 
@@ -393,7 +395,7 @@ In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most diffic
 
 ---
 
-## Offline Web Applications <span id="task11"></span>
+## `Offline Web Applications` <span id="task11"></span>
 
 - *One thing that was new to me*: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education  application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implementation "offline-first" conception with any application I need.
 - *One thing that surprised me*: I used to work with Local Storage with my previous educational projects (like "Personal Scheduling Service" for example) but now I know about IDB, its methods and possibilities, and I think it opens new   ways to implement much scale projects in my future actions.
@@ -411,7 +413,7 @@ In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most diffic
 
 ---
 
-## Memory – Pair Game <span id="task12"></span>
+## `Memory – Pair Game` <span id="task12"></span>
 
 I thank Maksym Kalashnyk for his time and work with my code. Code review is very important for me and always makes my code better.
 Having pay attention to his notices about using event delegation and template strings, I tried to implement them both by reconstruction my app. I hope that this deep changes didn't make his work harder with checking my code.
@@ -422,13 +424,13 @@ Having pay attention to his notices about using event delegation and template st
 
 ---
 
-## Website Performance Optimization <span id="task13"></span>
+## `Website Performance Optimization` <span id="task13"></span>
 
-### Front-End Performance Checklist 2019
+### `Front-End Performance Checklist 2019`
 
 When I started study HTML and CSS I have spent a lot of time learning Site Performance and conducting experiments on my landings with Google Page Speed to change performance index of them. Now it is obviously that some things I was doing correct, some things I was doing wrong, but I even did not know about most of patterns. Now I have a whole science named "Front-End Performance". It will takes a lot of time to study it but it is necessary. Thanks author and Kottans for this article.
 
-### Website Performance Optimization - Udacity course
+### `Website Performance Optimization - Udacity course`
 
 Now I have the list of simple rules to optimizate my sites and I know how use Network tab of DevTools. These knowledges open many ways to practice with Google SpeedPage and other apps for analysing the performance of my projects.
 
@@ -440,11 +442,11 @@ Now I have the list of simple rules to optimizate my sites and I know how use Ne
 </p>
 </details>
 
-### Inside a super fast CSS engine: Quantum CSS (aka Stylo)
+### `Inside a super fast CSS engine: Quantum CSS (aka Stylo)`
 
 With this article I have started better understood building of CSSOM and working of CSS engine of browser. During the reading I always wanted to install this wonderful browser Mozilla and I have always remember that I have it and it is very slow and boring)
 
-### Browser Rendering Optimization - Udacity course
+### `Browser Rendering Optimization - Udacity course`
 
 - *One thing that was new to me*: I have never heard before about "will-change" CSS property and it looks like using it is very good idea improve performance of the app. I watched many ru-chanels about creating of simple web pages like landings or so, but nobody didn't even mention about it.
 - *One thing that surprised me*: I couldn't suggest that using BEM methodology may improve web page performance that much that we would see it.
@@ -458,7 +460,7 @@ With this article I have started better understood building of CSSOM and working
 </p>
 </details>
 
-### Responsive Images - Udacity course
+### `Responsive Images - Udacity course`
 
 I used try to figure out how to use a "picture" tag and attribute "srcset" when I did my first steps with landings. Honestly, with russian language resources it was difficult to do. Now I have a step-by-step manual to make it properly and I can't wait to try it and get cool SpeedPage index.
 
@@ -470,11 +472,11 @@ I used try to figure out how to use a "picture" tag and attribute "srcset" when 
 </p>
 </details>
 
-### Animation on GPU: do it correctly.
+### `Animation on GPU: do it correctly`
 
 Once again these magic "transform: translateZ(0)" and "will-change". I need help - I need practice. However, now the way is obvious. It was very useful article for me.
 
-#### Web performance example.
+#### `Web performance example`
 
 - *One thing that was new to me*:
 
@@ -490,7 +492,7 @@ Once again these magic "transform: translateZ(0)" and "will-change". I need help
 
 - *One thing I intend to use in the future*: This article operates with complex concepts that will take time to fully understand.
 
-### Asynchronous versus deferred JavaScript.
+### `Asynchronous versus deferred JavaScript`
 
 The technique of choosing between the "async" and "defer" attributes of the "script" tag is explained and argued in a cool and accessible way.
 
@@ -498,7 +500,7 @@ The technique of choosing between the "async" and "defer" attributes of the "scr
 
 ---
 
-## Friends App <span id="task14"></span>
+## `Friends App` <span id="task14"></span>
 
 When I was starting to do this task I have remembered that I have always wanted to try some library with google like styles and some basic functionality. I have chosen MaterializeCss and it was the biggest mistake. Those problems that I have got did not cost it. When I was finishing my work with this task I have noticed, that I almost did not use any possibility of this library because I just did not need them instead I have many troubles with positioning elements with float that use MaterializeCss. Long story short "Never again".
 I want to thank Ivan Tytarenko for his time and work with review of my code. I have tried to make all changes according his notices and video of AMA helped me very much. It was forgetless experience for me and I am sure that it gave me huge new knowledges that I did not have before.
@@ -509,6 +511,6 @@ I want to thank Ivan Tytarenko for his time and work with review of my code. I h
 
 ---
 
-### Resume
+### `Resume`
 
 In the course I liked a thorough approach to the selection of material - a huge number of very useful materials and courses, the opportunity to improve the level of technical and spoken English (course materials, communication with mentors in GitHub), and, of course, code review from mentors - experience, which can hardly be obtained anywhere else but real work.
