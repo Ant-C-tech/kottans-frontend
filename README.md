@@ -84,7 +84,11 @@ Very cool! A huge library of materials, articles and quizzes about git. I watche
 
 ##### About merge conflicts
 
-Step-by-step manual to resolve merge conflicts.
+Step-by-step manual to resolve merge conflicts from GitHub page.
+
+##### Resoilving a Merge Conflict
+
+Step-by-step manual to resolve merge conflicts using the text editor.
 
 [Back to contents](#front-end-course-contents)
 
