@@ -90,6 +90,16 @@ Step-by-step manual to resolve merge conflicts from GitHub page.
 
 Step-by-step manual to resolve merge conflicts using the text editor.
 
+##### Communicating using Markdown
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_basic/scrEx1.jpg)
+
+</p>
+</details>
+
 [Back to contents](#front-end-course-contents)
 
 ---
