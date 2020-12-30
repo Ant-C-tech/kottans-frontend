@@ -48,9 +48,9 @@
 
 ## Git Basics <span id="task0"></span>
 
-- One thing that was new to me: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
-- One thing that surprised me: It turns, I do not now anything about GIT AT ALL.
-- One thing I intend to use in the future: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
+- *One thing that was new to me*: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
+- *One thing that surprised me*: It turns, I do not now anything about GIT AT ALL.
+- *One thing I intend to use in the future*: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
 
 ### Version Control with Git - Udacity course
 
@@ -98,9 +98,9 @@ Step-by-step manual to resolve merge conflicts using the text editor.
 
 ### Linux Survival
 
-- One thing that was new to me: it was absolutely new topic for me because all I could do with command terminal was "cd"-command. Now I know much more about it, so I think I will feel more confident with terminal in the future.
-- One thing that surprised me: I do not know yet why I need Linux CLI but I trust Kottans teacher because last theme (Git Basics) was very useful for me and showed me the gaps in my knowledges.
-- One thing I intend to use in the future: I think "man"-command will help me resolve any problem with terminal.
+- *One thing that was new to me*: it was absolutely new topic for me because all I could do with command terminal was "cd"-command. Now I know much more about it, so I think I will feel more confident with terminal in the future.
+- *One thing that surprised me*: I do not know yet why I need Linux CLI but I trust Kottans teacher because last theme (Git Basics) was very useful for me and showed me the gaps in my knowledges.
+- *One thing I intend to use in the future*: I think "man"-command will help me resolve any problem with terminal.
 
 <details><summary>My results</summary>
 <p>
@@ -160,9 +160,9 @@ After studying "Learn Git Branching - Remote", this Udacity course was mostly li
 
 I studied this set of lessons with part #0 Git Basic. So my emotions after studying were something like this:
 
-- One thing that was new to me: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
-- One thing that surprised me: It turns, I do not now anything about GIT AT ALL.
-- One thing I intend to use in the future: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
+- *One thing that was new to me*: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
+- *One thing that surprised me*: It turns, I do not now anything about GIT AT ALL.
+- *One thing I intend to use in the future*: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
 
 <details><summary>My results</summary>
 <p>
@@ -184,9 +184,9 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 ### Intro to HTML & CSS - Udacity course
 
-- One thing that was new to me: I had never before use the tag "figure", I don't know why.
-- One thing that surprised me: In all HTML courses in Russian I have ever seen before always many time takes a question of semantics, but in this course do not mentioned this question at all.
-- One thing I intend to use in the future: I don't know - I always use all these tags and properties.
+- *One thing that was new to me*: I had never before use the tag "figure", I don't know why.
+- *One thing that surprised me*: In all HTML courses in Russian I have ever seen before always many time takes a question of semantics, but in this course do not mentioned this question at all.
+- *One thing I intend to use in the future*: I don't know - I always use all these tags and properties.
 
 <details><summary>My results</summary>
 <p>
@@ -199,15 +199,15 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 ### Learn HTML - Codeacademy course
 
-- One thing that was new to me: in this course for me was very interesting to have known more about forms. It turns there were many possibility with this elements about which I even did not hear.
-- One thing that surprised me: input-tag can support RegExp - guys, nothing can surprise me today any more. It is very cool news.
-- One thing I intend to use in the future: RegExp with input-tag.
+- *One thing that was new to me*: in this course for me was very interesting to have known more about forms. It turns there were many possibility with this elements about which I even did not hear.
+- *One thing that surprised me*: input-tag can support RegExp - guys, nothing can surprise me today any more. It is very cool news.
+- *One thing I intend to use in the future*: RegExp with input-tag.
 
 ### Learn CSS - Codeacademy course
 
-- One thing that was new to me: when I studied CSS, browsers support of Grid layout was not high and there weren't a lot of education materials in Russian, so I didn't practice with this wonderful features enough. Now, I think I have closed this problem in my education with this CodeAcademy course.
-- One thing that surprised me: all the course was interesting and useful but there is no thing surprise for me.
-- One thing I intend to use in the future: formerly I studied it but forget it - "inline-flex" value for "display" - now I will use this value more often.
+- *One thing that was new to me*: when I studied CSS, browsers support of Grid layout was not high and there weren't a lot of education materials in Russian, so I didn't practice with this wonderful features enough. Now, I think I have closed this problem in my education with this CodeAcademy course.
+- *One thing that surprised me*: all the course was interesting and useful but there is no thing surprise for me.
+- *One thing I intend to use in the future*: formerly I studied it but forget it - "inline-flex" value for "display" - now I will use this value more often.
 
 <details><summary>My results</summary>
 <p>
@@ -225,9 +225,9 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 ### Responsive Web Design Fundamentals - Udacity course
 
-- One thing that was new to me: I have never seen before that break points could be making in separate css files. Interesting practice. Maybe)
-- One thing that surprised me: There was a link to another course - "Responsive images" (maybe not) - I have tried to do this thing long time ago and something went wrong - now I have scheduled to study this course later.
-- One thing I intend to use in the future: all studied methods and hacks.
+- *One thing that was new to me*: I have never seen before that break points could be making in separate css files. Interesting practice. Maybe)
+- *One thing that surprised me*: There was a link to another course - "Responsive images" (maybe not) - I have tried to do this thing long time ago and something went wrong - now I have scheduled to study this course later.
+- *One thing I intend to use in the future*: all studied methods and hacks.
 
 <details><summary>My results</summary>
 <p>
@@ -266,9 +266,9 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ### Intro to JS - Udacity course
 
-- One thing that was new to me: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to perceive.
-- One thing that surprised me: I had some difficulties with quizzes - sometimes format of the answer was not completely described (one of them is "FacebookProfile Object Task").
-- One thing I intend to use in the future: I very like Udacity courses and I am planing to study many of them in 2021.
+- *One thing that was new to me*: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to perceive.
+- *One thing that surprised me*: I had some difficulties with quizzes - sometimes format of the answer was not completely described (one of them is "FacebookProfile Object Task").
+- *One thing I intend to use in the future*: I very like Udacity courses and I am planing to study many of them in 2021.
 
 <details><summary>My results</summary>
 <p>
@@ -280,9 +280,9 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ### FreeCodeCamp exercises
 
-- One thing that was new to me: Next themes was new for me: "Rest Parameter", "Spread Operator", "Destructuring". Actually, I have read them before but I did not examine these themes deep and didn't use them in my practice. One more thing that I noticed, there was information about "Promice". Unfortunately, it was too little and I hope we will study it in next lessons.
-- One thing that surprised me: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "Kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty.
-- One thing I intend to use in the future: I am planning to finished course "JavaScript Algorithms and Data Structures Certification (300 hours)" from "freeCodeCamp" after "Stage 0".
+- *One thing that was new to me*: Next themes was new for me: "Rest Parameter", "Spread Operator", "Destructuring". Actually, I have read them before but I did not examine these themes deep and didn't use them in my practice. One more thing that I noticed, there was information about "Promice". Unfortunately, it was too little and I hope we will study it in next lessons.
+- *One thing that surprised me*: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "Kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty.
+- *One thing I intend to use in the future*: I am planning to finished course "JavaScript Algorithms and Data Structures Certification (300 hours)" from "freeCodeCamp" after "Stage 0".
 
 <details><summary>My results</summary>
 <p>
@@ -300,9 +300,9 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ### JavaScript and the DOM - Udacity course
 
-- One thing that was new to me: I very liked this course. It helped me to understand more deeply Event Loop, Event Phases and .style.cssText() method. Further, I have rehearsed my knowledges about listeners and creating elements.
-- One thing that surprised me: I thought that example with setTimeout(, 0) is using only for examination of understanding Event Loop and not use in practice.
-- One thing I intend to use in the future: all knowledges that was received with this course are vitally important in my practice so I think I will use all of them in my projects constantly.
+- *One thing that was new to me*: I very liked this course. It helped me to understand more deeply Event Loop, Event Phases and .style.cssText() method. Further, I have rehearsed my knowledges about listeners and creating elements.
+- *One thing that surprised me*: I thought that example with setTimeout(, 0) is using only for examination of understanding Event Loop and not use in practice.
+- *One thing I intend to use in the future*: all knowledges that was received with this course are vitally important in my practice so I think I will use all of them in my projects constantly.
 
 <details><summary>My results</summary>
 <p>
@@ -314,7 +314,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ### FreeCodeCamp exercises
 
-- One thing that was new to me and I intend to use in the future: it was translating of the binary string. Thanks, stackoverflow.com for help.
+- *One thing that was new to me* and I intend to use in the future: it was translating of the binary string. Thanks, stackoverflow.com for help.
 
 <details><summary>My results</summary>
 <p>
@@ -395,9 +395,9 @@ In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most diffic
 
 ## Offline Web Applications <span id="task11"></span>
 
-- One thing that was new to me: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education  application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implementation "offline-first" conception with any application I need.
-- One thing that surprised me: I used to work with Local Storage with my previous educational projects (like "Personal Scheduling Service" for example) but now I know about IDB, its methods and possibilities, and I think it opens new   ways to implement much scale projects in my future actions.
-- One thing I intend to use in the future: I hope I will have chance to study this material more deeply, have a lot of practice with it and then I think I would use it in my projects constantly.
+- *One thing that was new to me*: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education  application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implementation "offline-first" conception with any application I need.
+- *One thing that surprised me*: I used to work with Local Storage with my previous educational projects (like "Personal Scheduling Service" for example) but now I know about IDB, its methods and possibilities, and I think it opens new   ways to implement much scale projects in my future actions.
+- *One thing I intend to use in the future*: I hope I will have chance to study this material more deeply, have a lot of practice with it and then I think I would use it in my projects constantly.
 
 <details><summary>My results</summary>
 <p>
@@ -446,9 +446,9 @@ With this article I have started better understood building of CSSOM and working
 
 ### Browser Rendering Optimization - Udacity course
 
-- One thing that was new to me: I have never heard before about "will-change" CSS property and it looks like using it is very good idea improve performance of the app. I watched many ru-chanels about creating of simple web pages like landings or so, but nobody didn't even mention about it.
-- One thing that surprised me: I couldn't suggest that using BEM methodology may improve web page performance that much that we would see it.
-- One thing I intend to use in the future: Dev Tools doesn't not stop  surprise me. How many cool features it has! Unfortunately, professors in course use some old version of Chrome, so I have to find some newer material about it. Cool, that now I know what I need to find. And of course I need to know more about requestAnimationFrame() method.
+- *One thing that was new to me*: I have never heard before about "will-change" CSS property and it looks like using it is very good idea improve performance of the app. I watched many ru-chanels about creating of simple web pages like landings or so, but nobody didn't even mention about it.
+- *One thing that surprised me*: I couldn't suggest that using BEM methodology may improve web page performance that much that we would see it.
+- *One thing I intend to use in the future*: Dev Tools doesn't not stop  surprise me. How many cool features it has! Unfortunately, professors in course use some old version of Chrome, so I have to find some newer material about it. Cool, that now I know what I need to find. And of course I need to know more about requestAnimationFrame() method.
 
 <details><summary>My results</summary>
 <p>
@@ -476,7 +476,7 @@ Once again these magic "transform: translateZ(0)" and "will-change". I need help
 
 #### Web performance example.
 
-- One thing that was new to me:
+- *One thing that was new to me*:
 
 `<link rel="dns-prefetch" href="//hostname_to_resolve.com">`
 
@@ -486,9 +486,9 @@ Once again these magic "transform: translateZ(0)" and "will-change". I need help
 
 `<link rel="prerender"    href="//example.org/next_page.html">`
 
-- One thing that surprised me: "...we are not limited by the channel width. The problem is the latency between client and server."
+- *One thing that surprised me*: "...we are not limited by the channel width. The problem is the latency between client and server."
 
-- One thing I intend to use in the future: This article operates with complex concepts that will take time to fully understand.
+- *One thing I intend to use in the future*: This article operates with complex concepts that will take time to fully understand.
 
 ### Asynchronous versus deferred JavaScript.
 
