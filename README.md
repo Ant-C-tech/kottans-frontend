@@ -74,19 +74,19 @@
 
 ### Extras
 
-#### Git in 30 minutes
+##### Git in 30 minutes
 
 Basics of working with GIT - short, clear, with many examples.
 
-#### 7 Useful Git Tips for Beginners
+##### 7 Useful Git Tips for Beginners
 
 Very cool! A huge library of materials, articles and quizzes about git. I watched not all of them but I will returning here again and again when I will have some troubles with GIT. Cheat sheet is great, saved it.
 
-#### About merge conflicts
+##### About merge conflicts
 
 Step-by-step manual to resolve merge conflicts from GitHub page.
 
-#### Resoilving a Merge Conflict
+##### Resoilving a Merge Conflict
 
 Step-by-step manual to resolve merge conflicts using the text editor.
 
