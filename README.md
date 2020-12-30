@@ -4,7 +4,7 @@
 
 ## Stage 0. Self-Study:
 
-### **General**
+### General
 
 - [x] **0.** [Git Basics](#task0)
 
@@ -42,7 +42,7 @@
 
 ---
 
-## **General**
+## General
 
 ---
 
@@ -176,7 +176,7 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 ---
 
-## **Front-End Basics**
+## Front-End Basics
 
 ---
 
@@ -314,7 +314,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ### FreeCodeCamp exercises
 
-- One thing that was new to me and I intend to use in the future: it was translating of the binary string. Thanks, "stackoverflow.com" for help.
+- One thing that was new to me and I intend to use in the future: it was translating of the binary string. Thanks, stackoverflow.com for help.
 
 <details><summary>My results</summary>
 <p>
@@ -332,7 +332,7 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 ---
 
-## **Advanced Topics**
+## Advanced Topics
 
 ---
 
@@ -508,5 +508,7 @@ I want to thank Ivan Tytarenko for his time and work with review of my code. I h
 [Back to contents](#front-end-course-contents)
 
 ---
+
+### Resume
 
 In the course I liked a thorough approach to the selection of material - a huge number of very useful materials and courses, the opportunity to improve the level of technical and spoken English (course materials, communication with mentors in GitHub), and, of course, code review from mentors - experience, which can hardly be obtained anywhere else but real work.
