@@ -82,6 +82,10 @@ Basics of working with GIT - short, clear, with many examples.
 
 Very cool! A huge library of materials, articles and quizzes about git. I watched not all of them but I will returning here again and again when I will have some troubles with GIT. Cheat sheet is great, saved it.
 
+##### About merge conflicts
+
+Step-by-step manual to resolve merge conflicts.
+
 [Back to contents](#front-end-course-contents)
 
 ---
