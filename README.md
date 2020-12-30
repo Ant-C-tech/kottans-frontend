@@ -76,9 +76,11 @@
 
 ##### Git in 30 minutes
 
-Basics of working with GIT - short, clear, with examples.
+Basics of working with GIT - short, clear, with many examples.
 
 ##### 7 Useful Git Tips for Beginners
+
+Very cool! A huge library of materials, articles and quizzes about git. I watched not all of them but I will returning here again and again when I will have some troubles with GIT. Cheat sheet is great, saved it.
 
 [Back to contents](#front-end-course-contents)
 
