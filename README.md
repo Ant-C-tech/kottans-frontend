@@ -6,39 +6,39 @@
 
 **General**
 
-[x] **0.** [Git Basics](#task0)
+- [x] **0.** [Git Basics](#task0)
 
-[x] **1.** [Linux CLI and Networking](#task1)
+- [x] **1.** [Linux CLI and Networking](#task1)
 
-[x] **2.** [VCS (hello gitty), GitHub and Collaboration](#task2)
+- [x] **2.** [VCS (hello gitty), GitHub and Collaboration](#task2)
 
 ### Front-End Basics
 
-[x] **3.** [Intro to HTML & CSS](#task3)
+- [x] **3.** [Intro to HTML & CSS](#task3)
 
-[x] **4.** [Responsive Web Design](#task4)
+- [x] **4.** [Responsive Web Design](#task4)
 
-[x] **5.** [HTML & CSS Practice](#task5)
+- [x] **5.** [HTML & CSS Practice](#task5)
 
-[x] **6.** [JavaScript Basics](#task6)
+- [x] **6.** [JavaScript Basics](#task6)
 
-[x] **7.** [Document Object Model](#task7) - practice
+- [x] **7.** [Document Object Model](#task7) - practice
 
 ### Advanced Topics
 
-[x] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
+- [x] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
 
-[x] **9.** [Object oriented JS](#task9) - practice
+- [x] **9.** [Object oriented JS](#task9) - practice
 
-[x] **10.** [OOP exercise](#task10) - practice
+- [x] **10.** [OOP exercise](#task10) - practice
 
-[x] **11.** [Offline Web Applications](#task11)
+- [x] **11.** [Offline Web Applications](#task11)
 
-[x] **12.** [Memory pair game](#task12) — real project!
+- [x] **12.** [Memory pair game](#task12) — real project!
 
-[x] **13.** [Website Performance Optimization](#task13)
+- [x] **13.** [Website Performance Optimization](#task13)
 
-[x] **14.** [Friends App](#task14) - real project!
+- [x] **14.** [Friends App](#task14) - real project!
 
 ---
 
