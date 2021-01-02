@@ -102,7 +102,11 @@ Step-by-step manual to resolve merge conflicts using the text editor.
 
 ##### Learn anything front-end
 
-Here I found the portal leading to endless world of modern web development. I have remembered out this place and I will research it step by step. Thanks Kottans for the useful links.
+Here I found the portal leading to the endless world of modern web development. I have remembered out this place and I will research it step by step. Thanks Kottans for the useful links.
+
+##### TypingClub — improve your typing speed
+
+Began to practice. Ten lessons a day and see what would be...
 
 [Back to contents](#front-end-course-contents)
 
