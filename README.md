@@ -100,6 +100,10 @@ Step-by-step manual to resolve merge conflicts using the text editor.
 </p>
 </details>
 
+##### Learn anything front-end
+
+Here I found the portal leading to endless world of modern web development. I have remembered out this place and I will research it step by step. Thanks Kottans for the useful links.
+
 [Back to contents](#front-end-course-contents)
 
 ---
