@@ -160,17 +160,21 @@ Very good motivation article. I always have been liking Rahim with his clear and
 
  I cannot call the material presented in two parts of the article absolutely new for me, but this time the immersion into the material was much deeper than a simple listing of the server response status codes. I hope that repeated reading of the material allowed me to create a certain theoretical foundation, which will become the beginning of a deeper study of this topic for next practical creating of REST services.
 
- [Back to contents](#front-end-course-contents)
+### `Extras`
 
- ---
+##### Command Line Basics (RUS) - Hexlet
 
- ## `Git Collaboration` <span id="task2"></span>
+[Back to contents](#front-end-course-contents)
 
- ### `GitHub & Collaboration - Udacity course`
+---
+
+## `Git Collaboration` <span id="task2"></span>
+
+### `GitHub & Collaboration - Udacity course`
 
 After studying "Learn Git Branching - Remote", this Udacity course was mostly like some addition with deeper studying "git rebase" command. Anyway, all GIT-materials was very useful for me and I am sure I will come back to them many times in future to make my GIT technique perfect at the end.
 
- <details><summary>My results</summary>
+<details><summary>My results</summary>
 <p>
 
 ![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_collaboration/scr.jpg)
