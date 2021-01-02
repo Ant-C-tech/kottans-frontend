@@ -108,6 +108,10 @@ Here I found the portal leading to the endless world of modern web development. 
 
 Began to practice. Ten lessons a day and see what would be...
 
+##### How to learn and deal with negative thoughts
+
+Very good motivation article. I always have been liking Rahim with his clear and deep explanations. Thanks for it.
+
 [Back to contents](#front-end-course-contents)
 
 ---
