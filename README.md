@@ -164,6 +164,14 @@ Very good motivation article. I always have been liking Rahim with his clear and
 
 ##### Command Line Basics (RUS) - Hexlet
 
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_linux_cli/scrEx1.jpg)
+
+</p>
+</details>
+
 [Back to contents](#front-end-course-contents)
 
 ---
