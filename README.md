@@ -178,6 +178,10 @@ I liked this course because it gave me more confidence in my work with IDE termi
 
 Reading this article improved my knowledge about HTTP one more time. Earlier I did not notice some details or just did not understand them properly. But still I have some difficulties with understanding of practical using these data. Until now I did not made any requests just "fetch" in my "Friends App". I hope next practices give me more material for comprehending and studying and I will catch the purpose of such articles. At the moment for me it is a bit abstraction knowledge.
 
+##### How I Taught Myself to Code in Eight Weeks
+
+ I think that the best in this article is this words: "It goes without saying that there’s a huge difference between the relatively cursory amount of knowledge needed to build a simple prototype (the focus of this post) and the depth of knowledge and experience needed to be a truly qualified software engineer.".
+
 [Back to contents](#front-end-course-contents)
 
 ---
