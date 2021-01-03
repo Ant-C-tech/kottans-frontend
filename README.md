@@ -186,6 +186,18 @@ Reading this article improved my knowledge about HTTP one more time. Earlier I d
 
 I had many difficulties with this article. First, it's English was too complicated for me, the second was that the material itself was new  and difficult for me. Anyway, it was interesting and I hope useful. I am planning to return one day and read all set of articles from this author.
 
+### `Optional`
+
+##### Command Line Power User
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_linux_cli/scrEx2.jpg)
+
+</p>
+</details>
+
 [Back to contents](#front-end-course-contents)
 
 ---
