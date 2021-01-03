@@ -172,6 +172,10 @@ Very good motivation article. I always have been liking Rahim with his clear and
 </p>
 </details>
 
+##### HTTP: A protocol that every web developer should understand (Part 1)
+
+Reading this article improved my knowledge about HTTP one more time. Earlier I did not notice some details or just did not understand them properly. But still I have some difficulties with understanding of practical using these data. Until now I did not made any requests just "fetch" in my "Friends App". I hope next practices give me more material for comprehending and studying and I will catch the purpose of such articles. At the moment for me it is a bit abstraction knowledge.
+
 [Back to contents](#front-end-course-contents)
 
 ---
