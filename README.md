@@ -182,6 +182,10 @@ Reading this article improved my knowledge about HTTP one more time. Earlier I d
 
  I think that the best in this article is this words: "It goes without saying that there’s a huge difference between the relatively cursory amount of knowledge needed to build a simple prototype (the focus of this post) and the depth of knowledge and experience needed to be a truly qualified software engineer.".
 
+##### How JavaScript works: Deep dive into WebSockets and HTTP/2
+
+I had many difficulties with this article. First, it's English was too complicated for me, the second was that the material itself was new  and difficult for me. Anyway, it was interesting and I hope useful. I am planning to return one day and read all set of articles from this author.
+
 [Back to contents](#front-end-course-contents)
 
 ---
