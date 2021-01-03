@@ -172,6 +172,8 @@ Very good motivation article. I always have been liking Rahim with his clear and
 </p>
 </details>
 
+I liked this course because it gave me more confidence in my work with IDE terminal. One more thing - practical part was not difficult, so I liked it. It is very pleasant when you do something correct.
+
 ##### HTTP: A protocol that every web developer should understand (Part 1)
 
 Reading this article improved my knowledge about HTTP one more time. Earlier I did not notice some details or just did not understand them properly. But still I have some difficulties with understanding of practical using these data. Until now I did not made any requests just "fetch" in my "Friends App". I hope next practices give me more material for comprehending and studying and I will catch the purpose of such articles. At the moment for me it is a bit abstraction knowledge.
