@@ -193,12 +193,22 @@ I had many difficulties with this article. First, it's English was too complicat
 <details><summary>My results</summary>
 <p>
 
-![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_linux_cli/scrEx2.jpg)
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_linux_cli/scrOp1.jpg)
 
 </p>
 </details>
 
 ##### `Configuring Linux Web Servers - Udacity course`
+
+I had some difficulties with this task. First of all I had Windows 10 Home that doesn't support Hyper V so I couldn't use virtual machine with my PC. I changed the version of my operation system to Windows 10 Pro for Workstations. And then I had troubles with installing VirtualBox and Vagrant. Udacity doesn't give enough information to do it. So I spent a lot of time collecting information that I need. Anyway, it was very interesting and useful course.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_linux_cli/scrOp2.jpg)
+
+</p>
+</details>
 
 [Back to contents](#front-end-course-contents)
 
