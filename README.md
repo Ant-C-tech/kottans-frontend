@@ -256,6 +256,10 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 </p>
 </details>
 
+### `Extras`
+
+##### `An Introduction to Git and GitHub by Brian Yu`
+
 [Back to contents](#front-end-course-contents)
 
 ---
