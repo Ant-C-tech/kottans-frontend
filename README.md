@@ -212,6 +212,16 @@ I had some difficulties with this task. First of all I had Windows 10 Home that 
 
 ##### `Networking for Web Developers - Udacity course`
 
+This course was a good way to understand of basics of Internet's work like Netcat using, names and addresses, firewals, etc. Moreover all the course I had the opportunity practicing with Linux terminal so my Ubuntu from course before was useful. Even through it was sometimes a bit complicated the course was interesting and helpful for my next steps.
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_linux_cli/scrOp3.jpg)
+
+</p>
+</details>
+
 [Back to contents](#front-end-course-contents)
 
 ---
