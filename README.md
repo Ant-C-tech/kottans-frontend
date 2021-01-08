@@ -262,6 +262,10 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 It was a good seminar. One thing I want to mentioned is that after all courses and quizzes in tasks "Git intro" and "Git for Team Collaboration" that I did before, particularly after all practical task that I did (because I made this task after the end of Stage0), after all code reviews that mentors made for my code and fixing all the mistakes this information seemed a bit like basics of using Git. But, anyway, thanks authors of this FrontEnd course for this great material.
 
+##### `Oh shit, git!`
+
+I like when it is useful and so funny. Cool article.
+
 [Back to contents](#front-end-course-contents)
 
 ---
