@@ -266,6 +266,8 @@ It was a good seminar. One thing I want to mentioned is that after all courses a
 
 I like when it is useful and so funny. Cool article.
 
+##### `Flight rules for git`
+
 [Back to contents](#front-end-course-contents)
 
 ---
