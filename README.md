@@ -270,6 +270,8 @@ I like when it is useful and so funny. Cool article.
 
 It is one of the most completed manual for Git troubles. One part of these issues I have already been faced, another part I can imagine that I would face in nearest future. Unequivocally I save this repo because I am sure it would be very helpful for me.
 
+##### `GitHub Learning Lab - GitHub courses`
+
 [Back to contents](#contents)
 
 ---
