@@ -1,8 +1,8 @@
-# `Front-End Course. Contents`
+<h1 id="contents" align="center">Front-End Course. Contents</h1>
 
 ---
 
-## `Stage 0. Self-Study:`
+<h2 align="center">Stage 0. Self-Study:</h2>
 
 ### `General`
 
@@ -42,7 +42,7 @@
 
 ---
 
-## `General`
+<h3 align="center">General</h3>
 
 ---
 
@@ -112,7 +112,7 @@ Began to practice. Ten lessons a day and see what would be...
 
 Very good motivation article. I always have been liking Rahim with his clear and deep explanations. Thanks for it.
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -222,7 +222,7 @@ This course was a good way to understand of basics of Internet's work like Netca
 </p>
 </details>
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -270,11 +270,11 @@ I like when it is useful and so funny. Cool article.
 
 It is one of the most completed manual for Git troubles. One part of these issues I have already been faced, another part I can imagine that I would face in nearest future. Unequivocally I save this repo because I am sure it would be very helpful for me.
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
-## `Front-End Basics`
+<h3 align="center">Front-End Basics</h3>
 
 ---
 
@@ -315,7 +315,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -347,7 +347,7 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 </p>
 </details>
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -356,7 +356,7 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 I used to made dropdown menu with pure css but it was the first time when  this technique seems to me very convenient. It was a good practice.
 Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request. [Demo](https://ant-c-tech.github.io/-5-HTML-CSS-Practice/)
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -390,7 +390,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -428,11 +428,11 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 [Demo](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
-## `Advanced Topics`
+<h3 align="center">Advanced Topics<h2>
 
 ---
 
@@ -440,7 +440,7 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review - strictly but fair). Every code review make my code better.
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -477,7 +477,7 @@ I made some mistakes in my code which I hope I wouldn't do next time.
 </p>
 </details>
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -489,7 +489,7 @@ With this task I got a set of articles that helped me to start my way in OOP. It
 
 In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most difficult task in this course. Sometimes the hope that one day I will finally do it properly left me. Anyway, I understand that my solution for this task  was approve as in advance and I will try to work more hardly to comprehend this Zen in my next steps. I want to thanks Oleksiy Rudenko for his reviews and patient in work with my code.
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -507,7 +507,7 @@ In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most diffic
 </p>
 </details>
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -518,7 +518,7 @@ Having pay attention to his notices about using event delegation and template st
 
 [Demo](https://ant-c-tech.github.io/Memory-Pair-Game/)
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -594,7 +594,7 @@ Once again these magic "transform: translateZ(0)" and "will-change". I need help
 
 The technique of choosing between the "async" and "defer" attributes of the "script" tag is explained and argued in a cool and accessible way.
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
@@ -605,10 +605,12 @@ I want to thank Ivan Tytarenko for his time and work with review of my code. I h
 
 [Demo](https://ant-c-tech.github.io/friends_app/)
 
-[Back to contents](#front-end-course-contents)
+[Back to contents](#contents)
 
 ---
 
-### `Resume`
+<h3 align="center">Resume</h3>
 
 In the course I liked a thorough approach to the selection of material - a huge number of very useful materials and courses, the opportunity to improve the level of technical and spoken English (course materials, communication with mentors in GitHub), and, of course, code review from mentors - experience, which can hardly be obtained anywhere else but real work.
+
+[Back to contents](#contents)
