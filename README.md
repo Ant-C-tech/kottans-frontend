@@ -337,6 +337,10 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
+### `Extras`
+
+###### Basic HTML and HTML5 - freeCodeCamp course
+
 [Back to contents](#contents)
 
 ---
