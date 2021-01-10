@@ -339,7 +339,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 ### `Extras`
 
-###### Basic HTML and HTML5 - freeCodeCamp course
+##### `Basic HTML and HTML5 - freeCodeCamp course`
 
 [Back to contents](#contents)
 
