@@ -282,6 +282,16 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
+###### First Week on GitHub
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_git_collaboration/scrEx2.jpg)
+
+</p>
+</details>
+
 [Back to contents](#contents)
 
 ---
