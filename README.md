@@ -351,6 +351,8 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
+###### Basic CSS
+
 [Back to contents](#contents)
 
 ---
