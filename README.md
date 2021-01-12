@@ -156,13 +156,14 @@ Very good motivation article. I always have been liking Rahim with his clear and
 </p>
 </details>
 
-### [HTTP: The Protocol Every Web Developer Must Know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+### [HTTP: The Protocol Every Web Developer Must Know. Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+### [HTTP: The Protocol Every Web Developer Must Know. Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
  I cannot call the material presented in two parts of the article absolutely new for me, but this time the immersion into the material was much deeper than a simple listing of the server response status codes. I hope that repeated reading of the material allowed me to create a certain theoretical foundation, which will become the beginning of a deeper study of this topic for next practical creating of REST services.
 
 ### `Extras`
 
-##### Command Line Basics (RUS) - Hexlet
+##### [Command Line Basics (RUS) - Hexlet course](https://ru.hexlet.io/courses/cli-basics)
 
 <details><summary>My results</summary>
 <p>
@@ -174,21 +175,21 @@ Very good motivation article. I always have been liking Rahim with his clear and
 
 I liked this course because it gave me more confidence in my work with IDE terminal. One more thing - practical part was not difficult, so I liked it. It is very pleasant when you do something correct.
 
-##### HTTP: A protocol that every web developer should understand (Part 1)
+##### [HTTP: A protocol that every web developer should understand. Part 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
 Reading this article improved my knowledge about HTTP one more time. Earlier I did not notice some details or just did not understand them properly. But still I have some difficulties with understanding of practical using these data. Until now I did not made any requests just "fetch" in my "Friends App". I hope next practices give me more material for comprehending and studying and I will catch the purpose of such articles. At the moment for me it is a bit abstraction knowledge.
 
-##### How I Taught Myself to Code in Eight Weeks
+##### [How I Taught Myself to Code in Eight Weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
 
  I think that the best in this article is this words: "It goes without saying that there’s a huge difference between the relatively cursory amount of knowledge needed to build a simple prototype (the focus of this post) and the depth of knowledge and experience needed to be a truly qualified software engineer.".
 
-##### How JavaScript works: Deep dive into WebSockets and HTTP/2
+##### [How JavaScript works: Deep dive into WebSockets and HTTP/2](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
 
 I had many difficulties with this article. First, it's English was too complicated for me, the second was that the material itself was new  and difficult for me. Anyway, it was interesting and I hope useful. I am planning to return one day and read all set of articles from this author.
 
 ### `Optional`
 
-##### Command Line Power User
+##### [Command Line Power User](https://commandlinepoweruser.com/)
 
 <details><summary>My results</summary>
 <p>
@@ -198,7 +199,7 @@ I had many difficulties with this article. First, it's English was too complicat
 </p>
 </details>
 
-##### `Configuring Linux Web Servers - Udacity course`
+##### [Configuring Linux Web Servers - Udacity course](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
 I had some difficulties with this task. First of all I had Windows 10 Home that doesn't support Hyper V so I couldn't use virtual machine with my PC. I changed the version of my operation system to Windows 10 Pro for Workstations. And then I had troubles with installing VirtualBox and Vagrant. Udacity doesn't give enough information to do it. So I spent a lot of time collecting information that I need. Anyway, it was very interesting and useful course.
 
@@ -210,7 +211,7 @@ I had some difficulties with this task. First of all I had Windows 10 Home that 
 </p>
 </details>
 
-##### `Networking for Web Developers - Udacity course`
+##### [Networking for Web Developers - Udacity course](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
 This course was a good way to understand of basics of Internet's work like Netcat using, names and addresses, firewals, etc. Moreover all the course I had the opportunity practicing with Linux terminal so my Ubuntu from course before was useful. Even through it was sometimes a bit complicated the course was interesting and helpful for my next steps.
 
