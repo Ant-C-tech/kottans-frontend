@@ -363,6 +363,14 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 ##### `Intro to HTML @github`
 
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_intro_to_html_and_css/scrEx3.jpg)
+
+</p>
+</details>
+
 [Back to contents](#contents)
 
 ---
