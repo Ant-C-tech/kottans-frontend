@@ -229,7 +229,7 @@ This course was a good way to understand of basics of Internet's work like Netca
 
 ## `Git Collaboration` <span id="task2"></span>
 
-### `GitHub & Collaboration - Udacity course`
+### [GitHub & Collaboration - Udacity course](https://classroom.udacity.com/courses/ud456)
 
 After studying "Learn Git Branching - Remote", this Udacity course was mostly like some addition with deeper studying "git rebase" command. Anyway, all GIT-materials was very useful for me and I am sure I will come back to them many times in future to make my GIT technique perfect at the end.
 
@@ -241,7 +241,7 @@ After studying "Learn Git Branching - Remote", this Udacity course was mostly li
 </p>
 </details>
 
-### `Learn Git Branching`
+### [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
 
 I studied this set of lessons with part #0 Git Basic. So my emotions after studying were something like this:
 
@@ -259,21 +259,21 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 
 ### `Extras`
 
-##### `An Introduction to Git and GitHub by Brian Yu`
+##### [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A&feature=youtu.be)
 
 It was a good seminar. One thing I want to mentioned is that after all courses and quizzes in tasks "Git intro" and "Git for Team Collaboration" that I did before, particularly after all practical task that I did (because I made this task after the end of Stage0), after all code reviews that mentors made for my code and fixing all the mistakes this information seemed a bit like basics of using Git. But, anyway, thanks authors of this FrontEnd course for this great material.
 
-##### `Oh shit, git!`
+##### [Oh shit, git!](https://ohshitgit.com/)
 
 I like when it is useful and so funny. Cool article.
 
-##### `Flight rules for git`
+##### [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 
 It is one of the most completed manual for Git troubles. One part of these issues I have already been faced, another part I can imagine that I would face in nearest future. Unequivocally I save this repo because I am sure it would be very helpful for me.
 
 ##### `GitHub Learning Lab - GitHub courses`
 
-###### First Day on GitHub
+###### [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
 
 <details><summary>My results</summary>
 <p>
@@ -283,7 +283,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
-###### First Week on GitHub
+###### [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github)
 
 <details><summary>My results</summary>
 <p>
