@@ -52,7 +52,7 @@
 - *One thing that surprised me*: It turns, I do not now anything about GIT AT ALL.
 - *One thing I intend to use in the future*: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
 
-### `Version Control with Git - Udacity course`
+#### [Version Control with Git - Udacity course](https://www.udacity.com/course/version-control-with-git--ud123)
 
 <details><summary>My results</summary>
 <p>
@@ -62,7 +62,7 @@
 </p>
 </details>
 
-### `Learn Git Branching`
+#### [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
 
 <details><summary>My results</summary>
 <p>
@@ -74,23 +74,23 @@
 
 ### `Extras`
 
-##### Git in 30 minutes
+##### [Git in 30 minutes](https://codeguida.com/post/453)
 
 Basics of working with GIT - short, clear, with many examples.
 
-##### 7 Useful Git Tips for Beginners
+##### [7 Useful Git Tips for Beginners](https://www.webfx.com/blog/web-design/git-tips/amp/)
 
 Very cool! A huge library of materials, articles and quizzes about git. I watched not all of them but I will returning here again and again when I will have some troubles with GIT. Cheat sheet is great, saved it.
 
-##### About merge conflicts
+##### [About merge conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
 
 Step-by-step manual to resolve merge conflicts from GitHub page.
 
-##### Resoilving a Merge Conflict
+##### [Resolving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
 
 Step-by-step manual to resolve merge conflicts using the text editor.
 
-##### Communicating using Markdown
+##### [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 
 <details><summary>My results</summary>
 <p>
@@ -100,15 +100,15 @@ Step-by-step manual to resolve merge conflicts using the text editor.
 </p>
 </details>
 
-##### Learn anything front-end
+##### [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 
 Here I found the portal leading to the endless world of modern web development. I have remembered out this place and I will research it step by step. Thanks Kottans for the useful links.
 
-##### TypingClub — improve your typing speed
+##### [TypingClub — improve your typing speed](https://www.typingclub.com/)
 
-Began to practice. Ten lessons a day and see what would be...
+Began to practice. 50 lessons a day and see what would be...
 
-##### How to learn and deal with negative thoughts
+##### [How to learn and deal with negative thoughts](https://guides.hexlet.io/learning/)
 
 Very good motivation article. I always have been liking Rahim with his clear and deep explanations. Thanks for it.
 
