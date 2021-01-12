@@ -303,7 +303,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 ## `Intro to HTML and CSS` <span id="task3"></span>
 
-### `Intro to HTML & CSS - Udacity course`
+### [Intro to HTML & CSS - Udacity course](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
 - *One thing that was new to me*: I had never before use the tag "figure", I don't know why.
 - *One thing that surprised me*: In all HTML courses in Russian I have ever seen before always many time takes a question of semantics, but in this course do not mentioned this question at all.
@@ -318,13 +318,13 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </details>
 
 
-### `Learn HTML - Codeacademy course`
+### [Learn HTML - Codeacademy course](https://www.codecademy.com/learn/learn-html)
 
 - *One thing that was new to me*: in this course for me was very interesting to have known more about forms. It turns there were many possibility with this elements about which I even did not hear.
 - *One thing that surprised me*: input-tag can support RegExp - guys, nothing can surprise me today any more. It is very cool news.
 - *One thing I intend to use in the future*: RegExp with input-tag.
 
-### `Learn CSS - Codeacademy course`
+### [Learn CSS - Codeacademy course](https://www.codecademy.com/learn/learn-css)
 
 - *One thing that was new to me*: when I studied CSS, browsers support of Grid layout was not high and there weren't a lot of education materials in Russian, so I didn't practice with this wonderful features enough. Now, I think I have closed this problem in my education with this CodeAcademy course.
 - *One thing that surprised me*: all the course was interesting and useful but there is no thing surprise for me.
@@ -342,7 +342,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 ##### `freeCodeCamp courses`
 
-###### Basic HTML and HTML5
+###### [Basic HTML and HTML5](https://www.freecodecamp.org/)
 
 <details><summary>My results</summary>
 <p>
@@ -352,7 +352,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
-###### Basic CSS
+###### [Basic CSS](https://www.freecodecamp.org/)
 
 <details><summary>My results</summary>
 <p>
@@ -362,7 +362,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
-##### `Intro to HTML @github`
+##### [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
 
 <details><summary>My results</summary>
 <p>
@@ -372,7 +372,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
-##### `Basics of HTML, CSS and Web Design - Hexlet course`
+##### [Basics of HTML, CSS and Web Design - Hexlet course](https://ru.hexlet.io/courses/html)
 
 [Back to contents](#contents)
 
