@@ -371,7 +371,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
-##### `Basics of HTML, CSS and Web Design`
+##### `Basics of HTML, CSS and Web Design - Hexlet course`
 
 [Back to contents](#contents)
 
