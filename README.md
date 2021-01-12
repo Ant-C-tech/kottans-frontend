@@ -52,7 +52,7 @@
 - *One thing that surprised me*: It turns, I do not now anything about GIT AT ALL.
 - *One thing I intend to use in the future*: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
 
-#### [Version Control with Git - Udacity course](https://www.udacity.com/course/version-control-with-git--ud123)
+### [Version Control with Git - Udacity course](https://www.udacity.com/course/version-control-with-git--ud123)
 
 <details><summary>My results</summary>
 <p>
@@ -62,7 +62,7 @@
 </p>
 </details>
 
-#### [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
+### [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
 
 <details><summary>My results</summary>
 <p>
@@ -118,7 +118,7 @@ Very good motivation article. I always have been liking Rahim with his clear and
 
 ## `Linux CLI and HTTP` <span id="task1"></span>
 
-### `Linux Survival`
+### [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/)
 
 - *One thing that was new to me*: it was absolutely new topic for me because all I could do with command terminal was "cd"-command. Now I know much more about it, so I think I will feel more confident with terminal in the future.
 - *One thing that surprised me*: I do not know yet why I need Linux CLI but I trust Kottans teacher because last theme (Git Basics) was very useful for me and showed me the gaps in my knowledges.
@@ -156,7 +156,7 @@ Very good motivation article. I always have been liking Rahim with his clear and
 </p>
 </details>
 
-### `HTTP: The Protocol Every Web Developer Must Know`
+### [HTTP: The Protocol Every Web Developer Must Know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
  I cannot call the material presented in two parts of the article absolutely new for me, but this time the immersion into the material was much deeper than a simple listing of the server response status codes. I hope that repeated reading of the material allowed me to create a certain theoretical foundation, which will become the beginning of a deeper study of this topic for next practical creating of REST services.
 
