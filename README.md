@@ -374,6 +374,14 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 ##### [Basics of HTML, CSS and Web Design - Hexlet course](https://ru.hexlet.io/courses/html)
 
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_intro_to_html_and_css/scrEx5.jpg)
+
+</p>
+</details>
+
 ##### [Can't Unsee - brilliant and useful challenge](https://cantunsee.space/)
 
 <details><summary>My results</summary>
