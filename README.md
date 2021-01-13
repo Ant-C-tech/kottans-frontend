@@ -384,6 +384,8 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
+##### [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+
 [Back to contents](#contents)
 
 ---
