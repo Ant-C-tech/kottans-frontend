@@ -568,7 +568,7 @@ I made some mistakes in my code which I hope I wouldn't do next time.
 
 With this task I got a set of articles that helped me to start my way in OOP. It is a good start but there is a lot of work and practice in the feature to feel at least the same confident that using functional programming. I am sure I will get this opportunity with "Kottans".
 
-[Demo](https://ant-c-tech.github.io/a-tiny-JS-world/)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr3.jpg">](https://ant-c-tech.github.io/a-tiny-JS-world/)
 
 In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most difficult task in this course. Sometimes the hope that one day I will finally do it properly left me. Anyway, I understand that my solution for this task  was approve as in advance and I will try to work more hardly to comprehend this Zen in my next steps. I want to thanks Oleksiy Rudenko for his reviews and patient in work with my code.
 
