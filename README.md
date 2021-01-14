@@ -438,6 +438,9 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 
 ##### [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 
+- *One thing that was new to me*: .foo[style*="color: red"] {color: firebrick !important;}
+- *One thing that surprised me*: As a nonsense special case for (2), duplicate simple selectors to increase specificity when you have nothing more to specify. #myId#myId span { color: yellow; }
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
