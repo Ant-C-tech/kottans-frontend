@@ -529,7 +529,7 @@ I've made this task even though I not fully understand entire idea of this tiny 
 
 ## `Object-Oriented JavaScript` <span id="task9"></span>
 
-### `Object Oriented JS - Udacity course`
+### [Object Oriented JS - Udacity course](https://classroom.udacity.com/courses/ud015)
 
 This Udacity course for me was like some Evolution Theory of JavaScript OOP. It was the way to combine my fragmentary knowledge together that I received earlier. Now I feel like I know more about OOP, but low level of understanding Lesson 10 (Prototype chains) do not let me to feel myself more comfort in these themes. I understand that I will return to this material later.
 
@@ -541,14 +541,14 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 </p>
 </details>
 
-### `Frogger Game - Udacity course`
+### [Frogger Game - Udacity course](https://classroom.udacity.com/courses/ud015)
 
 I thank Oleksiy Rudenko for his time and work with my code. Code review is very important for me and always makes my code better.
 I made some mistakes in my code which I hope I wouldn't do next time.
 
-[Demo](https://ant-c-tech.github.io/frontend-nanodegree-arcade-game/)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr4.jpg">](https://ant-c-tech.github.io/frontend-nanodegree-arcade-game/)
 
-### `Codewars`
+### [Codewars](https://www.codewars.com/)
 
 [My Profile Badge](https://www.codewars.com/users/Ant-C-tech/badges/large)
 
