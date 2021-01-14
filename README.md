@@ -394,6 +394,14 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 ##### [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_intro_to_html_and_css/scrEx6.jpg)
+
+</p>
+</details>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
