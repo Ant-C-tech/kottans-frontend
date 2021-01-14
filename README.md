@@ -688,7 +688,7 @@ The technique of choosing between the "async" and "defer" attributes of the "scr
 When I was starting to do this task I have remembered that I have always wanted to try some library with google like styles and some basic functionality. I have chosen MaterializeCss and it was the biggest mistake. Those problems that I have got did not cost it. When I was finishing my work with this task I have noticed, that I almost did not use any possibility of this library because I just did not need them instead I have many troubles with positioning elements with float that use MaterializeCss. Long story short "Never again".
 I want to thank Ivan Tytarenko for his time and work with review of my code. I have tried to make all changes according his notices and video of AMA helped me very much. It was forgetless experience for me and I am sure that it gave me huge new knowledges that I did not have before.
 
-[Demo](https://ant-c-tech.github.io/friends_app/)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr6.jpg">](https://ant-c-tech.github.io/friends_app/)
 
 [Back to contents](#contents)
 
