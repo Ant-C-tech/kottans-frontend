@@ -434,6 +434,10 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 </p>
 </details>
 
+### `Extras`
+
+##### [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
