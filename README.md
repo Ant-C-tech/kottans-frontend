@@ -223,7 +223,7 @@ This course was a good way to understand of basics of Internet's work like Netca
 </p>
 </details>
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -293,7 +293,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -394,7 +394,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 ##### [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -426,7 +426,7 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 </p>
 </details>
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -437,7 +437,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr1.jpg">](https://ant-c-tech.github.io/-5-HTML-CSS-Practice/)
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -471,7 +471,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -509,7 +509,7 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr2.jpg">](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -523,7 +523,7 @@ I've made this task even though I not fully understand entire idea of this tiny 
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr3.jpg">](https://ant-c-tech.github.io/a-tiny-JS-world/)
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -560,7 +560,7 @@ I made some mistakes in my code which I hope I wouldn't do next time.
 </p>
 </details>
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -572,7 +572,7 @@ With this task I got a set of articles that helped me to start my way in OOP. It
 
 In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most difficult task in this course. Sometimes the hope that one day I will finally do it properly left me. Anyway, I understand that my solution for this task  was approve as in advance and I will try to work more hardly to comprehend this Zen in my next steps. I want to thanks Oleksiy Rudenko for his reviews and patient in work with my code.
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -592,7 +592,7 @@ In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most diffic
 </p>
 </details>
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -603,7 +603,7 @@ Having pay attention to his notices about using event delegation and template st
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr5.jpg">](https://ant-c-tech.github.io/Memory-Pair-Game/)
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -679,7 +679,7 @@ Once again these magic "transform: translateZ(0)" and "will-change". I need help
 
 The technique of choosing between the "async" and "defer" attributes of the "script" tag is explained and argued in a cool and accessible way.
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -690,7 +690,7 @@ I want to thank Ivan Tytarenko for his time and work with review of my code. I h
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr6.jpg">](https://ant-c-tech.github.io/friends_app/)
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
@@ -698,4 +698,4 @@ I want to thank Ivan Tytarenko for his time and work with review of my code. I h
 
 In the course I liked a thorough approach to the selection of material - a huge number of very useful materials and courses, the opportunity to improve the level of technical and spoken English (course materials, communication with mentors in GitHub), and, of course, code review from mentors - experience, which can hardly be obtained anywhere else but real work.
 
-[Back to contents](#contents)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
