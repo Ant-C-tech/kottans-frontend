@@ -609,11 +609,11 @@ Having pay attention to his notices about using event delegation and template st
 
 ## `Website Performance Optimization` <span id="task13"></span>
 
-### `Front-End Performance Checklist 2019`
+### [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 
 When I started study HTML and CSS I have spent a lot of time learning Site Performance and conducting experiments on my landings with Google Page Speed to change performance index of them. Now it is obviously that some things I was doing correct, some things I was doing wrong, but I even did not know about most of patterns. Now I have a whole science named "Front-End Performance". It will takes a lot of time to study it but it is necessary. Thanks author and Kottans for this article.
 
-### `Website Performance Optimization - Udacity course`
+### [Website Performance Optimization - Udacity course](https://www.udacity.com/course/website-performance-optimization--ud884)
 
 Now I have the list of simple rules to optimizate my sites and I know how use Network tab of DevTools. These knowledges open many ways to practice with Google SpeedPage and other apps for analysing the performance of my projects.
 
@@ -625,11 +625,11 @@ Now I have the list of simple rules to optimizate my sites and I know how use Ne
 </p>
 </details>
 
-### `Inside a super fast CSS engine: Quantum CSS (aka Stylo)`
+### [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 
 With this article I have started better understood building of CSSOM and working of CSS engine of browser. During the reading I always wanted to install this wonderful browser Mozilla and I have always remember that I have it and it is very slow and boring)
 
-### `Browser Rendering Optimization - Udacity course`
+### [Browser Rendering Optimization - Udacity course](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 
 - *One thing that was new to me*: I have never heard before about "will-change" CSS property and it looks like using it is very good idea improve performance of the app. I watched many ru-chanels about creating of simple web pages like landings or so, but nobody didn't even mention about it.
 - *One thing that surprised me*: I couldn't suggest that using BEM methodology may improve web page performance that much that we would see it.
@@ -643,7 +643,7 @@ With this article I have started better understood building of CSSOM and working
 </p>
 </details>
 
-### `Responsive Images - Udacity course`
+### [Responsive Images - Udacity course](https://www.udacity.com/course/responsive-images--ud882)
 
 I used try to figure out how to use a "picture" tag and attribute "srcset" when I did my first steps with landings. Honestly, with russian language resources it was difficult to do. Now I have a step-by-step manual to make it properly and I can't wait to try it and get cool SpeedPage index.
 
@@ -655,11 +655,11 @@ I used try to figure out how to use a "picture" tag and attribute "srcset" when 
 </p>
 </details>
 
-### `Animation on GPU: do it correctly`
+### [Animation on GPU: do it correctly](https://habr.com/ru/company/odnoklassniki/blog/313978/)
 
 Once again these magic "transform: translateZ(0)" and "will-change". I need help - I need practice. However, now the way is obvious. It was very useful article for me.
 
-#### `Web performance example`
+#### [Web performance example](https://habr.com/ru/company/infobox/blog/226289/)
 
 - *One thing that was new to me*:
 
@@ -675,7 +675,7 @@ Once again these magic "transform: translateZ(0)" and "will-change". I need help
 
 - *One thing I intend to use in the future*: This article operates with complex concepts that will take time to fully understand.
 
-### `Asynchronous versus deferred JavaScript`
+### [Asynchronous versus deferred JavaScript](https://habr.com/ru/post/323790/)
 
 The technique of choosing between the "async" and "defer" attributes of the "script" tag is explained and argued in a cool and accessible way.
 
