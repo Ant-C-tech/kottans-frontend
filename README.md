@@ -443,7 +443,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ## `JavaScript Basics` <span id="task6"></span>
 
-### [Intro to JS - Udacity course]((https://classroom.udacity.com/courses/ud803))
+### [Intro to JS - Udacity course](https://classroom.udacity.com/courses/ud803)
 
 - *One thing that was new to me*: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to perceive.
 - *One thing that surprised me*: I had some difficulties with quizzes - sometimes format of the answer was not completely described (one of them is "FacebookProfile Object Task").
