@@ -400,7 +400,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 ## `Responsive Web Design` <span id="task4"></span>
 
-### `Responsive Web Design Fundamentals - Udacity course`
+### [Responsive Web Design Fundamentals - Udacity course](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
 - *One thing that was new to me*: I have never seen before that break points could be making in separate css files. Interesting practice. Maybe)
 - *One thing that surprised me*: There was a link to another course - "Responsive images" (maybe not) - I have tried to do this thing long time ago and something went wrong - now I have scheduled to study this course later.
@@ -414,7 +414,7 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
-### `Flexbox Froggy`
+### [Flexbox Froggy](http://flexboxfroggy.com/#ru)
 
 I heard a lot about this game but I have never been playing it before. So, it was quite easy to won it except level 24 (that's because in my practice I never used property "wrap-reverse"). Long story short, first easy task in this course. Thanks, because it is Saturday today.
 
@@ -433,7 +433,9 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 ## `HTML & CSS practice` <span id="task5"></span>
 
 I used to made dropdown menu with pure css but it was the first time when  this technique seems to me very convenient. It was a good practice.
-Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request. [Demo](https://ant-c-tech.github.io/-5-HTML-CSS-Practice/)
+Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request.
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr1.jpg">](https://ant-c-tech.github.io/-5-HTML-CSS-Practice/)
 
 [Back to contents](#contents)
 
