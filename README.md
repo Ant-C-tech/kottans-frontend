@@ -578,6 +578,8 @@ In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most diffic
 
 ## `Offline Web Applications` <span id="task11"></span>
 
+### [Offline Web Applications - Udacity course](https://www.udacity.com/course/offline-web-applications--ud899)
+
 - *One thing that was new to me*: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education  application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implementation "offline-first" conception with any application I need.
 - *One thing that surprised me*: I used to work with Local Storage with my previous educational projects (like "Personal Scheduling Service" for example) but now I know about IDB, its methods and possibilities, and I think it opens new   ways to implement much scale projects in my future actions.
 - *One thing I intend to use in the future*: I hope I will have chance to study this material more deeply, have a lot of practice with it and then I think I would use it in my projects constantly.
