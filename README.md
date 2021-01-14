@@ -112,7 +112,7 @@ Began to practice. 50 lessons a day and see what would be...
 
 Very good motivation article. I always have been liking Rahim with his clear and deep explanations. Thanks for it.
 
-[<img style="width:20px;" src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+[<img style="width:20px; margin-right: 10px;" src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
