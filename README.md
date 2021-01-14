@@ -601,7 +601,7 @@ In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most diffic
 I thank Maksym Kalashnyk for his time and work with my code. Code review is very important for me and always makes my code better.
 Having pay attention to his notices about using event delegation and template strings, I tried to implement them both by reconstruction my app. I hope that this deep changes didn't make his work harder with checking my code.
 
-[Demo](https://ant-c-tech.github.io/Memory-Pair-Game/)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr5.jpg">](https://ant-c-tech.github.io/Memory-Pair-Game/)
 
 [Back to contents](#contents)
 
