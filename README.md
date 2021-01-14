@@ -477,7 +477,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ## `DOM` <span id="task7"></span>
 
-### `JavaScript and the DOM - Udacity course`
+### [JavaScript and the DOM - Udacity course](https://classroom.udacity.com/courses/ud117)
 
 - *One thing that was new to me*: I very liked this course. It helped me to understand more deeply Event Loop, Event Phases and .style.cssText() method. Further, I have rehearsed my knowledges about listeners and creating elements.
 - *One thing that surprised me*: I thought that example with setTimeout(, 0) is using only for examination of understanding Event Loop and not use in practice.
@@ -491,7 +491,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
-### `FreeCodeCamp exercises`
+### [Algorithm Scripting Challenges - freeCodeCamp exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
 
 - *One thing that was new to me* and I intend to use in the future: it was translating of the binary string. Thanks, stackoverflow.com for help.
 
@@ -507,7 +507,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 Unfortunately, I have spent too much time for this task. Let's accelerating! I want to thanks Bohdan Kovalchuk for his review. It made me thought again about many aspects of my code. I formerly worked as an engineer and I good understanding how it is boring to check students works. But for me I think this code review was the most important part of this course. Now I understand why nobody wants to work with people without experience. Bohdan made a great job.
 
-[Demo](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr2.jpg">](https://ant-c-tech.github.io/-7-Document-Object-Model-Practice/)
 
 [Back to contents](#contents)
 
