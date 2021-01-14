@@ -521,6 +521,8 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review - strictly but fair). Every code review make my code better.
 
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr3.jpg">](https://ant-c-tech.github.io/a-tiny-JS-world/)
+
 [Back to contents](#contents)
 
 ---
