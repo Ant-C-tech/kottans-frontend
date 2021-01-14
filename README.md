@@ -443,7 +443,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ## `JavaScript Basics` <span id="task6"></span>
 
-### `Intro to JS - Udacity course`
+### [Intro to JS - Udacity course]((https://classroom.udacity.com/courses/ud803))
 
 - *One thing that was new to me*: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to perceive.
 - *One thing that surprised me*: I had some difficulties with quizzes - sometimes format of the answer was not completely described (one of them is "FacebookProfile Object Task").
@@ -457,7 +457,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
-### `FreeCodeCamp exercises`
+### [Basic JavaScript - freeCodeCamp exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
 - *One thing that was new to me*: Next themes was new for me: "Rest Parameter", "Spread Operator", "Destructuring". Actually, I have read them before but I did not examine these themes deep and didn't use them in my practice. One more thing that I noticed, there was information about "Promice". Unfortunately, it was too little and I hope we will study it in next lessons.
 - *One thing that surprised me*: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "Kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty.
