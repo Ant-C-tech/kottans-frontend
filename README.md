@@ -472,6 +472,8 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 }
 ```
 
+##### [Flexbox Zombies (game)](https://flexboxzombies.com/p/flexbox-zombies)
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
