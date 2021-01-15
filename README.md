@@ -446,6 +446,14 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 
 ##### [Grid Garden](http://cssgridgarden.com/#ru)
 
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_responsive_web_design/scrEx1.jpg)
+
+</p>
+</details>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
