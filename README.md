@@ -442,8 +442,9 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 - *One thing that surprised me*: As a nonsense special case for (2), duplicate simple selectors to increase specificity when you have nothing more to specify. #myId#myId span { color: yellow; }
 
 ##### [Specificity calculator](https://specificity.keegan.st/)
-
 A visual way to get an understanding of how CSS Specificity works, and how you can write better CSS as a result.
+
+##### [Grid Garden](http://cssgridgarden.com/#ru)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
