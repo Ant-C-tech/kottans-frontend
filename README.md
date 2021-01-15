@@ -454,6 +454,8 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 </p>
 </details>
 
+##### [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
