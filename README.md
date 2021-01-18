@@ -504,6 +504,31 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ##### [Custom checkboxes properly](https://www.youtube.com/watch?v=E6kLaaQFctU&ab_channel=VadimMakeev)
 
+- *One thing I intend to use in the future*: Hide native checkbox with:
+```CSS
+.check__input {
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+}
+```
+
+- *One more thing I intend to use in the future*: Hide native checkbox with: [URL-encoder for SVG](https://yoksel.github.io/url-encoder/)
+
+- *One more thing I intend to use in the future*: Hide native checkbox with: visually-hidden:
+```CSS
+.visually-hidden {
+  position:absolute;
+  width:1px;
+  height:1px;
+  margin:-1px;
+  border:0;
+  padding:0;
+  clip:rect(0 0 0 0);
+  overflow:hidden;
+}
+```
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
