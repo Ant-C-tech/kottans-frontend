@@ -500,6 +500,10 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr1.jpg">](https://ant-c-tech.github.io/-5-HTML-CSS-Practice/)
 
+### `Extras`
+
+##### [Custom checkboxes properly](https://www.youtube.com/watch?v=E6kLaaQFctU&ab_channel=VadimMakeev)
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
