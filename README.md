@@ -484,6 +484,8 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 
 ##### [A simple explanation of High DPI screens](https://broken-links.com/2013/10/02/simple-explanation-high-dpi-screens/)
 
+- *One thing I intend to use in the future*: [screensiz.es.](https://screensiz.es/)
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
