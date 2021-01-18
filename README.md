@@ -492,6 +492,9 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 
 ## `HTML & CSS practice` <span id="task5"></span>
 
+#### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
+
+My comment:
 I used to made dropdown menu with pure css but it was the first time when  this technique seems to me very convenient. It was a good practice.
 Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request.
 
