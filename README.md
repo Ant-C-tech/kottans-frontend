@@ -786,8 +786,10 @@ I want to thank Ivan Tytarenko for his time and work with review of my code. I h
 
 ---
 
-<h3 align="center">Resume</h3>
+<h3 align="center">Stage 0. Self-Study resume</h3>
 
 In the course I liked a thorough approach to the selection of material - a huge number of very useful materials and courses, the opportunity to improve the level of technical and spoken English (course materials, communication with mentors in GitHub), and, of course, code review from mentors - experience, which can hardly be obtained anywhere else but real work.
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+<h2 align="center">Stage 1</h2>
