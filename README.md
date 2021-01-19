@@ -563,6 +563,10 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
+### `Extras`
+
+##### [Introduction to programming (RUS) - Hexlet course](https://ru.hexlet.io/courses/introduction_to_programming)
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
