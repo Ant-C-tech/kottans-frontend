@@ -567,6 +567,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ##### [Introduction to programming (RUS) - Hexlet course](https://ru.hexlet.io/courses/introduction_to_programming)
 
+##### [JavaScript for beginners (RUS) - Hexlet course](https://ru.code-basics.com/languages/javascript)
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
