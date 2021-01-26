@@ -2,44 +2,58 @@
 
 ---
 
-<h2 align="center">Stage 0. Self-Study:</h2>
+## `Stage 0`
 
 ### `General`
 
 - [x] **0.** [Git Basics](#task0)
 
-- [x] **1.** [Linux CLI and Networking](#task1)
+- [x] **0.1** [Linux CLI and Networking](#task1)
 
-- [x] **2.** [VCS (hello gitty), GitHub and Collaboration](#task2)
+- [x] **0.2** [VCS (hello gitty), GitHub and Collaboration](#task2)
 
 ### `Front-End Basics`
 
-- [x] **3.** [Intro to HTML & CSS](#task3)
+- [x] **0.3** [Intro to HTML & CSS](#task3)
 
-- [x] **4.** [Responsive Web Design](#task4)
+- [x] **0.4** [Responsive Web Design](#task4)
 
-- [x] **5.** [HTML & CSS Practice](#task5)
+- [x] **0.5** [HTML & CSS Practice](#task5)
 
-- [x] **6.** [JavaScript Basics](#task6)
+- [x] **0.6** [JavaScript Basics](#task6)
 
-- [x] **7.** [Document Object Model](#task7) - practice
+- [x] **0.7** [Document Object Model](#task7) - practice
 
 ### `Advanced Topics`
 
-- [x] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
+- [x] **0.8** [Building a Tiny JS World (pre-OOP)](#task8) - practice
 
-- [x] **9.** [Object oriented JS](#task9) - practice
+- [x] **0.9** [Object oriented JS](#task9) - practice
 
-- [x] **10.** [OOP exercise](#task10) - practice
+- [x] **0.10** [OOP exercise](#task10) - practice
 
-- [x] **11.** [Offline Web Applications](#task11)
+- [x] **0.11** [Offline Web Applications](#task11)
 
-- [x] **12.** [Memory pair game](#task12) — real project!
+- [x] **0.12** [Memory pair game](#task12) — real project!
 
-- [x] **13.** [Website Performance Optimization](#task13)
+- [x] **0.13** [Website Performance Optimization](#task13)
 
-- [x] **14.** [Friends App](#task14) - real project!
+- [x] **0.14** [Friends App](#task14) - real project!
 
+---
+
+## `Kottans Frontend 2021`
+
+### `Module 1. HTML/CSS JS DOM`</h2>`
+
+- [x] **1.1** [Lection 1. Стандарты W3C and WHATWG. Разметка HTML. Введение в CSS. Сетки.](#task15)
+
+---
+---
+
+<h2 align="center">Stage 0. Self-Study:</h2>
+
+---
 ---
 
 <h3 align="center">General</h3>
@@ -804,4 +818,23 @@ In the course I liked a thorough approach to the selection of material - a huge 
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
-<h2 align="center">Stage 1</h2>
+---
+---
+
+<h2 align="center">Kottans Frontend 2021</h2>
+
+---
+---
+
+<h2 align="center">Module 1. HTML/CSS JS DOM</h2>
+
+---
+
+## `Lection 1. Стандарты W3C and WHATWG. Разметка HTML. Введение в CSS. Сетки.` <span id="task15"></span>
+
+[Video](https://www.youtube.com/watch?v=xogSwtgiEJ0&t=1s)
+[Text](https://www.notion.so/Kottans-Frontend-2021-353da14284ef4c5f93f91c7323172995?p=782a902a21834eb39075dd54d491dbb0)
+Homework
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr7.jpg">](https://ant-c-tech.github.io/Cinema-Application/)
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
