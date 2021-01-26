@@ -48,9 +48,9 @@
 
 ## `Git Basics` <span id="task0"></span>
 
-- *One thing that was new to me*: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
-- *One thing that surprised me*: It turns, I do not now anything about GIT AT ALL.
-- *One thing I intend to use in the future*: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
+- _One thing that was new to me_: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
+- _One thing that surprised me_: It turns, I do not now anything about GIT AT ALL.
+- _One thing I intend to use in the future_: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
 
 ### [Version Control with Git - Udacity course](https://www.udacity.com/course/version-control-with-git--ud123)
 
@@ -120,9 +120,9 @@ Very good motivation article. I always have been liking Rahim with his clear and
 
 ### [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/)
 
-- *One thing that was new to me*: it was absolutely new topic for me because all I could do with command terminal was "cd"-command. Now I know much more about it, so I think I will feel more confident with terminal in the future.
-- *One thing that surprised me*: I do not know yet why I need Linux CLI but I trust Kottans teacher because last theme (Git Basics) was very useful for me and showed me the gaps in my knowledges.
-- *One thing I intend to use in the future*: I think "man"-command will help me resolve any problem with terminal.
+- _One thing that was new to me_: it was absolutely new topic for me because all I could do with command terminal was "cd"-command. Now I know much more about it, so I think I will feel more confident with terminal in the future.
+- _One thing that surprised me_: I do not know yet why I need Linux CLI but I trust Kottans teacher because last theme (Git Basics) was very useful for me and showed me the gaps in my knowledges.
+- _One thing I intend to use in the future_: I think "man"-command will help me resolve any problem with terminal.
 
 <details><summary>My results</summary>
 <p>
@@ -157,9 +157,10 @@ Very good motivation article. I always have been liking Rahim with his clear and
 </details>
 
 ### [HTTP: The Protocol Every Web Developer Must Know. Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+
 ### [HTTP: The Protocol Every Web Developer Must Know. Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
- I cannot call the material presented in two parts of the article absolutely new for me, but this time the immersion into the material was much deeper than a simple listing of the server response status codes. I hope that repeated reading of the material allowed me to create a certain theoretical foundation, which will become the beginning of a deeper study of this topic for next practical creating of REST services.
+I cannot call the material presented in two parts of the article absolutely new for me, but this time the immersion into the material was much deeper than a simple listing of the server response status codes. I hope that repeated reading of the material allowed me to create a certain theoretical foundation, which will become the beginning of a deeper study of this topic for next practical creating of REST services.
 
 ### `Extras`
 
@@ -181,11 +182,11 @@ Reading this article improved my knowledge about HTTP one more time. Earlier I d
 
 ##### [How I Taught Myself to Code in Eight Weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
 
- I think that the best in this article is this words: "It goes without saying that there’s a huge difference between the relatively cursory amount of knowledge needed to build a simple prototype (the focus of this post) and the depth of knowledge and experience needed to be a truly qualified software engineer.".
+I think that the best in this article is this words: "It goes without saying that there’s a huge difference between the relatively cursory amount of knowledge needed to build a simple prototype (the focus of this post) and the depth of knowledge and experience needed to be a truly qualified software engineer.".
 
 ##### [How JavaScript works: Deep dive into WebSockets and HTTP/2](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
 
-I had many difficulties with this article. First, it's English was too complicated for me, the second was that the material itself was new  and difficult for me. Anyway, it was interesting and I hope useful. I am planning to return one day and read all set of articles from this author.
+I had many difficulties with this article. First, it's English was too complicated for me, the second was that the material itself was new and difficult for me. Anyway, it was interesting and I hope useful. I am planning to return one day and read all set of articles from this author.
 
 ### `Optional`
 
@@ -245,9 +246,9 @@ After studying "Learn Git Branching - Remote", this Udacity course was mostly li
 
 I studied this set of lessons with part #0 Git Basic. So my emotions after studying were something like this:
 
-- *One thing that was new to me*: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
-- *One thing that surprised me*: It turns, I do not now anything about GIT AT ALL.
-- *One thing I intend to use in the future*: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
+- _One thing that was new to me_: I used to think that GIT is "git add ." + "git commit -m "some comments" + "git push". I absolutely did not understand the difference between GIT and GitHub.
+- _One thing that surprised me_: It turns, I do not now anything about GIT AT ALL.
+- _One thing I intend to use in the future_: Now I like GIT. It seems to me very flexible and useful. I will try to improve my level of using GIT in the future with right branches and commits.
 
 <details><summary>My results</summary>
 <p>
@@ -305,9 +306,9 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 ### [Intro to HTML & CSS - Udacity course](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
-- *One thing that was new to me*: I had never before use the tag "figure", I don't know why.
-- *One thing that surprised me*: In all HTML courses in Russian I have ever seen before always many time takes a question of semantics, but in this course do not mentioned this question at all.
-- *One thing I intend to use in the future*: I don't know - I always use all these tags and properties.
+- _One thing that was new to me_: I had never before use the tag "figure", I don't know why.
+- _One thing that surprised me_: In all HTML courses in Russian I have ever seen before always many time takes a question of semantics, but in this course do not mentioned this question at all.
+- _One thing I intend to use in the future_: I don't know - I always use all these tags and properties.
 
 <details><summary>My results</summary>
 <p>
@@ -317,18 +318,17 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
-
 ### [Learn HTML - Codeacademy course](https://www.codecademy.com/learn/learn-html)
 
-- *One thing that was new to me*: in this course for me was very interesting to have known more about forms. It turns there were many possibility with this elements about which I even did not hear.
-- *One thing that surprised me*: input-tag can support RegExp - guys, nothing can surprise me today any more. It is very cool news.
-- *One thing I intend to use in the future*: RegExp with input-tag.
+- _One thing that was new to me_: in this course for me was very interesting to have known more about forms. It turns there were many possibility with this elements about which I even did not hear.
+- _One thing that surprised me_: input-tag can support RegExp - guys, nothing can surprise me today any more. It is very cool news.
+- _One thing I intend to use in the future_: RegExp with input-tag.
 
 ### [Learn CSS - Codeacademy course](https://www.codecademy.com/learn/learn-css)
 
-- *One thing that was new to me*: when I studied CSS, browsers support of Grid layout was not high and there weren't a lot of education materials in Russian, so I didn't practice with this wonderful features enough. Now, I think I have closed this problem in my education with this CodeAcademy course.
-- *One thing that surprised me*: all the course was interesting and useful but there is no thing surprise for me.
-- *One thing I intend to use in the future*: formerly I studied it but forget it - "inline-flex" value for "display" - now I will use this value more often.
+- _One thing that was new to me_: when I studied CSS, browsers support of Grid layout was not high and there weren't a lot of education materials in Russian, so I didn't practice with this wonderful features enough. Now, I think I have closed this problem in my education with this CodeAcademy course.
+- _One thing that surprised me_: all the course was interesting and useful but there is no thing surprise for me.
+- _One thing I intend to use in the future_: formerly I studied it but forget it - "inline-flex" value for "display" - now I will use this value more often.
 
 <details><summary>My results</summary>
 <p>
@@ -410,9 +410,9 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 ### [Responsive Web Design Fundamentals - Udacity course](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
-- *One thing that was new to me*: I have never seen before that break points could be making in separate css files. Interesting practice. Maybe)
-- *One thing that surprised me*: There was a link to another course - "Responsive images" (maybe not) - I have tried to do this thing long time ago and something went wrong - now I have scheduled to study this course later.
-- *One thing I intend to use in the future*: all studied methods and hacks.
+- _One thing that was new to me_: I have never seen before that break points could be making in separate css files. Interesting practice. Maybe)
+- _One thing that surprised me_: There was a link to another course - "Responsive images" (maybe not) - I have tried to do this thing long time ago and something went wrong - now I have scheduled to study this course later.
+- _One thing I intend to use in the future_: all studied methods and hacks.
 
 <details><summary>My results</summary>
 <p>
@@ -438,10 +438,11 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 
 ##### [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 
-- *One thing that was new to me*: .foo[style*="color: red"] {color: firebrick !important;}
-- *One thing that surprised me*: As a nonsense special case for (2), duplicate simple selectors to increase specificity when you have nothing more to specify. #myId#myId span { color: yellow; }
+- _One thing that was new to me_: .foo[style*="color: red"] {color: firebrick !important;}
+- _One thing that surprised me_: As a nonsense special case for (2), duplicate simple selectors to increase specificity when you have nothing more to specify. #myId#myId span { color: yellow; }
 
 ##### [Specificity calculator](https://specificity.keegan.st/)
+
 A visual way to get an understanding of how CSS Specificity works, and how you can write better CSS as a result.
 
 ##### [Grid Garden](http://cssgridgarden.com/#ru)
@@ -456,10 +457,11 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 
 ##### [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 
-- *One thing that was new to me*: The phrase "What in the George W Bush was going on?"
-- *my favorite quote from any spec ever*:
-"Note: This variance sucks, but it accurately captures the current state of the world (no consensus among implementations, and no consensus within the CSSWG)…"
-- *One thing I intend to use in the future*: Cool solution for long words on small screens (suggested behavior right from the spec.):
+- _One thing that was new to me_: The phrase "What in the George W Bush was going on?"
+- _my favorite quote from any spec ever_:
+  "Note: This variance sucks, but it accurately captures the current state of the world (no consensus among implementations, and no consensus within the CSSWG)…"
+- _One thing I intend to use in the future_: Cool solution for long words on small screens (suggested behavior right from the spec.):
+
 ```CSS
 .book {
   display: flex;
@@ -484,7 +486,7 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 
 ##### [A simple explanation of High DPI screens](https://broken-links.com/2013/10/02/simple-explanation-high-dpi-screens/)
 
-- *One thing I intend to use in the future*: [screensiz.es.](https://screensiz.es/)
+- _One thing I intend to use in the future_: [screensiz.es.](https://screensiz.es/)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
@@ -495,7 +497,7 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 
 My comment:
-I used to made dropdown menu with pure css but it was the first time when  this technique seems to me very convenient. It was a good practice.
+I used to made dropdown menu with pure css but it was the first time when this technique seems to me very convenient. It was a good practice.
 Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request.
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr1.jpg">](https://ant-c-tech.github.io/-5-HTML-CSS-Practice/)
@@ -504,7 +506,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ##### [Custom checkboxes properly](https://www.youtube.com/watch?v=E6kLaaQFctU&ab_channel=VadimMakeev)
 
-- *One thing I intend to use in the future*: Hide native checkbox with:
+- _One thing I intend to use in the future_: Hide native checkbox with:
+
 ```CSS
 .check__input {
   -webkit-appearance:none;
@@ -513,9 +516,10 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 }
 ```
 
-- *One more thing I intend to use in the future*: Hide native checkbox with: [URL-encoder for SVG](https://yoksel.github.io/url-encoder/)
+- _One more thing I intend to use in the future_: Hide native checkbox with: [URL-encoder for SVG](https://yoksel.github.io/url-encoder/)
 
-- *One more thing I intend to use in the future*: Hide native checkbox with: visually-hidden:
+- _One more thing I intend to use in the future_: Hide native checkbox with: visually-hidden:
+
 ```CSS
 .visually-hidden {
   position:absolute;
@@ -537,9 +541,9 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ### [Intro to JS - Udacity course](https://classroom.udacity.com/courses/ud803)
 
-- *One thing that was new to me*: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to perceive.
-- *One thing that surprised me*: I had some difficulties with quizzes - sometimes format of the answer was not completely described (one of them is "FacebookProfile Object Task").
-- *One thing I intend to use in the future*: I very like Udacity courses and I am planing to study many of them in 2021.
+- _One thing that was new to me_: I think, now I mach better understand the function expressions - presentation of this material was very clear and easy to perceive.
+- _One thing that surprised me_: I had some difficulties with quizzes - sometimes format of the answer was not completely described (one of them is "FacebookProfile Object Task").
+- _One thing I intend to use in the future_: I very like Udacity courses and I am planing to study many of them in 2021.
 
 <details><summary>My results</summary>
 <p>
@@ -551,9 +555,9 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ### [Basic JavaScript - freeCodeCamp exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
-- *One thing that was new to me*: Next themes was new for me: "Rest Parameter", "Spread Operator", "Destructuring". Actually, I have read them before but I did not examine these themes deep and didn't use them in my practice. One more thing that I noticed, there was information about "Promice". Unfortunately, it was too little and I hope we will study it in next lessons.
-- *One thing that surprised me*: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "Kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty.
-- *One thing I intend to use in the future*: I am planning to finished course "JavaScript Algorithms and Data Structures Certification (300 hours)" from "freeCodeCamp" after "Stage 0".
+- _One thing that was new to me_: Next themes was new for me: "Rest Parameter", "Spread Operator", "Destructuring". Actually, I have read them before but I did not examine these themes deep and didn't use them in my practice. One more thing that I noticed, there was information about "Promice". Unfortunately, it was too little and I hope we will study it in next lessons.
+- _One thing that surprised me_: I have very liked exercises from "freeCodeCamp". Unlike "CodeWars" where I have "Kata 5" and where exercises are or too difficult or too easy these exercises were picked up evenly with small increasing of difficulty.
+- _One thing I intend to use in the future_: I am planning to finished course "JavaScript Algorithms and Data Structures Certification (300 hours)" from "freeCodeCamp" after "Stage 0".
 
 <details><summary>My results</summary>
 <p>
@@ -577,9 +581,9 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ### [JavaScript and the DOM - Udacity course](https://classroom.udacity.com/courses/ud117)
 
-- *One thing that was new to me*: I very liked this course. It helped me to understand more deeply Event Loop, Event Phases and .style.cssText() method. Further, I have rehearsed my knowledges about listeners and creating elements.
-- *One thing that surprised me*: I thought that example with setTimeout(, 0) is using only for examination of understanding Event Loop and not use in practice.
-- *One thing I intend to use in the future*: all knowledges that was received with this course are vitally important in my practice so I think I will use all of them in my projects constantly.
+- _One thing that was new to me_: I very liked this course. It helped me to understand more deeply Event Loop, Event Phases and .style.cssText() method. Further, I have rehearsed my knowledges about listeners and creating elements.
+- _One thing that surprised me_: I thought that example with setTimeout(, 0) is using only for examination of understanding Event Loop and not use in practice.
+- _One thing I intend to use in the future_: all knowledges that was received with this course are vitally important in my practice so I think I will use all of them in my projects constantly.
 
 <details><summary>My results</summary>
 <p>
@@ -591,7 +595,7 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ### [Algorithm Scripting Challenges - freeCodeCamp exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
 
-- *One thing that was new to me* and I intend to use in the future: it was translating of the binary string. Thanks, stackoverflow.com for help.
+- _One thing that was new to me_ and I intend to use in the future: it was translating of the binary string. Thanks, stackoverflow.com for help.
 
 <details><summary>My results</summary>
 <p>
@@ -668,7 +672,7 @@ With this task I got a set of articles that helped me to start my way in OOP. It
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr3.jpg">](https://ant-c-tech.github.io/a-tiny-JS-world/)
 
-In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most difficult task in this course. Sometimes the hope that one day I will finally do it properly left me. Anyway, I understand that my solution for this task  was approve as in advance and I will try to work more hardly to comprehend this Zen in my next steps. I want to thanks Oleksiy Rudenko for his reviews and patient in work with my code.
+In fact, the "Tiny JS world" and its "Post-OOP" part for me was the most difficult task in this course. Sometimes the hope that one day I will finally do it properly left me. Anyway, I understand that my solution for this task was approve as in advance and I will try to work more hardly to comprehend this Zen in my next steps. I want to thanks Oleksiy Rudenko for his reviews and patient in work with my code.
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
@@ -678,9 +682,9 @@ In fact,  the "Tiny JS world" and its "Post-OOP" part for me was the most diffic
 
 ### [Offline Web Applications - Udacity course](https://www.udacity.com/course/offline-web-applications--ud899)
 
-- *One thing that was new to me*: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education  application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implementation "offline-first" conception with any application I need.
-- *One thing that surprised me*: I used to work with Local Storage with my previous educational projects (like "Personal Scheduling Service" for example) but now I know about IDB, its methods and possibilities, and I think it opens new   ways to implement much scale projects in my future actions.
-- *One thing I intend to use in the future*: I hope I will have chance to study this material more deeply, have a lot of practice with it and then I think I would use it in my projects constantly.
+- _One thing that was new to me_: I very liked this course. I have never heard before about "offline-first" conception. Even though I failed to got opportunity to worked with education application "Wittr" because of the version conflict my NPM and application's Gulp I could got the structural knowledges about implementation "offline-first" conception with any application I need.
+- _One thing that surprised me_: I used to work with Local Storage with my previous educational projects (like "Personal Scheduling Service" for example) but now I know about IDB, its methods and possibilities, and I think it opens new ways to implement much scale projects in my future actions.
+- _One thing I intend to use in the future_: I hope I will have chance to study this material more deeply, have a lot of practice with it and then I think I would use it in my projects constantly.
 
 <details><summary>My results</summary>
 <p>
@@ -729,9 +733,9 @@ With this article I have started better understood building of CSSOM and working
 
 ### [Browser Rendering Optimization - Udacity course](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 
-- *One thing that was new to me*: I have never heard before about "will-change" CSS property and it looks like using it is very good idea improve performance of the app. I watched many ru-chanels about creating of simple web pages like landings or so, but nobody didn't even mention about it.
-- *One thing that surprised me*: I couldn't suggest that using BEM methodology may improve web page performance that much that we would see it.
-- *One thing I intend to use in the future*: Dev Tools doesn't not stop  surprise me. How many cool features it has! Unfortunately, professors in course use some old version of Chrome, so I have to find some newer material about it. Cool, that now I know what I need to find. And of course I need to know more about requestAnimationFrame() method.
+- _One thing that was new to me_: I have never heard before about "will-change" CSS property and it looks like using it is very good idea improve performance of the app. I watched many ru-chanels about creating of simple web pages like landings or so, but nobody didn't even mention about it.
+- _One thing that surprised me_: I couldn't suggest that using BEM methodology may improve web page performance that much that we would see it.
+- _One thing I intend to use in the future_: Dev Tools doesn't not stop surprise me. How many cool features it has! Unfortunately, professors in course use some old version of Chrome, so I have to find some newer material about it. Cool, that now I know what I need to find. And of course I need to know more about requestAnimationFrame() method.
 
 <details><summary>My results</summary>
 <p>
@@ -759,19 +763,19 @@ Once again these magic "transform: translateZ(0)" and "will-change". I need help
 
 #### [Web performance example](https://habr.com/ru/company/infobox/blog/226289/)
 
-- *One thing that was new to me*:
+- _One thing that was new to me_:
 
 `<link rel="dns-prefetch" href="//hostname_to_resolve.com">`
 
-`<link rel="subresource"  href="/javascript/myapp.js">`
+`<link rel="subresource" href="/javascript/myapp.js">`
 
-`<link rel="prefetch"     href="/images/big.jpeg">`
+`<link rel="prefetch" href="/images/big.jpeg">`
 
-`<link rel="prerender"    href="//example.org/next_page.html">`
+`<link rel="prerender" href="//example.org/next_page.html">`
 
-- *One thing that surprised me*: "...we are not limited by the channel width. The problem is the latency between client and server."
+- _One thing that surprised me_: "...we are not limited by the channel width. The problem is the latency between client and server."
 
-- *One thing I intend to use in the future*: This article operates with complex concepts that will take time to fully understand.
+- _One thing I intend to use in the future_: This article operates with complex concepts that will take time to fully understand.
 
 ### [Asynchronous versus deferred JavaScript](https://habr.com/ru/post/323790/)
 
@@ -795,6 +799,8 @@ I want to thank Ivan Tytarenko for his time and work with review of my code. I h
 <h3 align="center">Stage 0. Self-Study resume</h3>
 
 In the course I liked a thorough approach to the selection of material - a huge number of very useful materials and courses, the opportunity to improve the level of technical and spoken English (course materials, communication with mentors in GitHub), and, of course, code review from mentors - experience, which can hardly be obtained anywhere else but real work.
+
+[Frontend Course Stage 0 (self-study). Finalists](https://github.com/kottans/frontend/blob/master/students/stage0-finishers.md)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
