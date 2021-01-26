@@ -833,8 +833,11 @@ In the course I liked a thorough approach to the selection of material - a huge 
 ## `Lection 1. Стандарты W3C and WHATWG. Разметка HTML. Введение в CSS. Сетки.` <span id="task15"></span>
 
 [Video](https://www.youtube.com/watch?v=xogSwtgiEJ0&t=1s)
+
 [Text](https://www.notion.so/Kottans-Frontend-2021-353da14284ef4c5f93f91c7323172995?p=782a902a21834eb39075dd54d491dbb0)
+
 Homework
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr7.jpg">](https://ant-c-tech.github.io/Cinema-Application/)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
