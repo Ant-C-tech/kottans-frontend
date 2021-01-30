@@ -841,6 +841,8 @@ Lecturer:
 
 [Text](https://www.notion.so/Kottans-Frontend-2021-353da14284ef4c5f93f91c7323172995?p=782a902a21834eb39075dd54d491dbb0)
 
+[Slides](https://slides.com/antonchyvikov/html-css)
+
 Homework:
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr7.jpg">](https://ant-c-tech.github.io/Cinema-Application/)
