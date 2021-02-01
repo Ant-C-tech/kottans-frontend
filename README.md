@@ -835,7 +835,7 @@ In the course I liked a thorough approach to the selection of material - a huge 
 ## `Lection 1. Стандарты W3C and WHATWG. Разметка HTML. Введение в CSS. Сетки.` <span id="task15"></span>
 
 Lecturer:
-[Александр Островной]()
+[Alexandr Ostrovny](https://www.linkedin.com/in/alexandr-ostrovny-514a39172/)
 
 [Video](https://www.youtube.com/watch?v=xogSwtgiEJ0&t=1s)
 
