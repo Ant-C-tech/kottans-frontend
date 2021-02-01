@@ -2,7 +2,7 @@
 
 ---
 
-## `Stage 0`
+# `Stage 0`
 
 ### `General`
 
@@ -42,7 +42,7 @@
 
 ---
 
-## `Kottans Frontend 2021`
+# `Kottans Frontend 2021`
 
 ### `Module 1. HTML/CSS JS DOM`</h2>`
 
@@ -823,7 +823,7 @@ In the course I liked a thorough approach to the selection of material - a huge 
 ---
 ---
 
-<h2 align="center">Kottans Frontend 2021</h2>
+<h1 align="center">Kottans Frontend 2021</h1>
 
 ---
 ---
@@ -844,6 +844,8 @@ Lecturer:
 #### [Slides for Lection](https://slides.com/antonchyvikov/html-css)
 
 #### Additional materials:
+
+---
 
 ##### HTML
 
@@ -898,3 +900,137 @@ Homework:
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr7.jpg">](https://ant-c-tech.github.io/Cinema-Application/)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 2. Графика в интернете. А11Y и формы. Работа с контентом.` <span id="task16"></span>
+
+Lecturer:
+[Alexandr Ostrovny](https://www.linkedin.com/in/alexandr-ostrovny-514a39172/)
+
+#### [Video of Lection (3h 02m)](https://www.youtube.com/watch?v=7Q7jEa5h3FY)
+
+#### [Text of Lection](https://www.notion.so/Kottans-Frontend-2021-353da14284ef4c5f93f91c7323172995?p=8c6c12c1df264cbd82dfc6e5839ca346)
+
+#### [Slides for Lection](https://slides.com/antonchyvikov/frontend)
+
+#### Additional materials:
+
+---
+
+##### Graphiсs on the Web
+
+* [Как отличить контентное изображение от декоративного](https://htmlacademy.ru/blog/education/all/content-or-decor-img)
+
+* [The Image Embed element](https://developer.mozilla.org/en-us/docs/Web/HTML/Element/img)
+
+* [The Picture element](https://developer.mozilla.org/en-us/docs/Web/HTML/Element/picture)
+
+* [The Figure with Optional Caption element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+
+* [Letting the browser pick the most appropriate CSS image from a given set](https://developer.mozilla.org/en-US/docs/Web/CSS/image-set())
+
+
+* [AVIF has landed](https://jakearchibald.com/2020/avif-has-landed/)
+
+* [Browser-level image lazy-loading for the web](https://web.dev/browser-level-image-lazy-loading/)
+
+* [Using Intersection Observer as a custom lazy-loading](https://web.dev/lazy-loading-images/#images-inline-intersection-observer)
+
+* [Using event handlers for Internet Explorer support](https://web.dev/lazy-loading-images/#images-inline-event-handlers)
+
+* [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+
+* [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/)
+
+* [Задавать Height и Width для изображений снова важно](https://habr.com/ru/post/524918/)
+
+* [The aspect-ratio CSS media feature](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/aspect-ratio)
+
+* [Картинки как коробки — что внутри? Доклад в Яндексе](https://habr.com/ru/company/yandex/blog/493616/)
+
+##### HTML \<FORM>
+
+* [The form element - specification](https://html.spec.whatwg.org/multipage/forms.html#the-form-element)
+
+* [Input type = ''text'' native validation](https://codepen.io/a-ostrovnyy/pen/BvKebM?editors=1100)
+
+* [Input type = ''email'' native validation](https://codepen.io/a-ostrovnyy/pen/zyqQmK?editors=1100)
+
+* [Input type = ''password'' native validation](https://codepen.io/a-ostrovnyy/pen/KbroWV?editors=1000)
+
+* [The select element - specification](https://html.spec.whatwg.org/multipage/form-elements.html#the-select-element)
+
+* [Custom select label](https://codepen.io/a-ostrovnyy/pen/roaXVa?editors=1100)
+
+* [Input type = ''file'' - specification](https://html.spec.whatwg.org/multipage/input.html#file-upload-state-(type=file))
+
+* [Custom input type =' 'file''](https://codepen.io/a-ostrovnyy/pen/VqYKoq)
+
+* [Input type = ''radio'' - specification](https://html.spec.whatwg.org/multipage/input.html#radio-button-state-(type%3Dradio))
+
+* [Custom input type = ''radio''](https://codepen.io/a-ostrovnyy/pen/roNRyE)
+
+* [Custom input type = ''checkbox''](https://codepen.io/a-ostrovnyy/pen/WLbwxG?editors=1100#0)
+
+* [Input type = ''range'' - specification](https://html.spec.whatwg.org/multipage/input.html#range-state-(type%3Drange))
+
+* [Custom input type = ''range''](https://codepen.io/a-ostrovnyy/pen/zyGqQm?editors=1100#0)
+
+##### Accessibility
+
+* [W3C Accessibility Guidelines (WCAG) 3.0](https://www.w3.org/TR/wcag-3.0/)
+
+* [WCAG 3 Introduction](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
+
+* [Что но­во­го в WCAG 3.0](https://web-standards.ru/articles/wcag3-changes/)
+
+* [Notes on ARIA Use in HTML](https://www.w3.org/TR/using-aria/#NOTES)
+
+* [Using ARIA: Roles, states, and properties](https://developer.mozilla.org/en-us/docs/Web/Accessibility/ARIA/ARIA_Techniques)
+
+* [The tabindex global attribute](https://developer.mozilla.org/en-us/docs/Web/HTML/Global_attributes/tabindex)
+
+* [Accordion Example acc. WCAG](https://w3c.github.io/aria-practices/examples/accordion/accordion.html)
+
+* [Breadcrumb Example acc. WCAG](https://w3c.github.io/aria-practices/examples/accordion/accordion.html)
+
+* [Modal Dialog Example acc. WCAG](https://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
+
+* [Navigation Menu Button Example acc. WCAG](https://w3c.github.io/aria-practices/examples/menu-button/menu-button-links.html)
+
+* [Scrollable Listbox Example acc. WCAG](https://w3c.github.io/aria-practices/examples/listbox/listbox-scrollable.html)
+
+* [Example of Tabs with Automatic Activation acc. WCAG](https://w3c.github.io/aria-practices/examples/tabs/tabs-1/tabs.html)
+
+* [Example of Tabs with Manual Activation acc. WCAG](https://w3c.github.io/aria-practices/examples/tabs/tabs-2/tabs.html)
+
+* [Как помочь слепым на вашем сайте](https://weblind.ru/)
+
+* [Inclusive Components](https://inclusive-components.design/)
+
+* [WAI-ARIA Authoring Practices 1.2](https://w3c.github.io/aria-practices/)
+
+##### Work with content
+
+* [The overflow-wrap CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap)
+
+CSS свойство overflow-wrap применяется к строковым элементам, устанавливая должен ли браузер расставлять переносы строк внутри неразрывной строки, чтобы избежать выхода текста за границы элемента.
+
+* [The hyphens CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
+
+CSS свойство hyphens указывает, как следует переносить слова через дефис, когда текст переносится на несколько строк. Оно может полность запретить перенос, делать перенос в местах, заданных вручную или позволять браузеру автоматически расставлять переносы, где это необходимо.
+
+* [Line Clampin’ (Truncating Multiple Line Text)](https://css-tricks.com/line-clampin/)
+
+##### More useful links for Web Development
+
+* [CSS Triks](https://css-tricks.com/)
+
+* [Веб-стандарты. Сообщество разработчиков](https://web-standards.ru/)
+
+* [Дайджест свежих материалов из мира фронтенда за последнюю неделю](https://habr.com/ru/post/538972/)
+
+* [Smashing Magazine](https://www.smashingmagazine.com/)
+
+* [The online studio of Ahmad Shadeed](https://ishadeed.com/)
