@@ -48,7 +48,7 @@
 
 - [x] **1.1** [Lection 1. Стандарты W3C and WHATWG. Разметка HTML. Введение в CSS. Сетки.](#task15)
 
-- [ ] **1.2** [Lection 2. Графика в интернете. А11Y и формы. Работа с контентом.](#task16)
+- [x] **1.2** [Lection 2. Графика в интернете. А11Y и формы. Работа с контентом.](#task16)
 
 ---
 ---
@@ -837,11 +837,61 @@ In the course I liked a thorough approach to the selection of material - a huge 
 Lecturer:
 [Alexandr Ostrovny](https://www.linkedin.com/in/alexandr-ostrovny-514a39172/)
 
-[Video](https://www.youtube.com/watch?v=xogSwtgiEJ0&t=1s)
+#### [Video of Lection (2h 55m)](https://www.youtube.com/watch?v=xogSwtgiEJ0&t=1s)
 
-[Text](https://www.notion.so/Kottans-Frontend-2021-353da14284ef4c5f93f91c7323172995?p=782a902a21834eb39075dd54d491dbb0)
+#### [Text of Lection](https://www.notion.so/Kottans-Frontend-2021-353da14284ef4c5f93f91c7323172995?p=782a902a21834eb39075dd54d491dbb0)
 
-[Slides](https://slides.com/antonchyvikov/html-css)
+#### [Slides for Lection](https://slides.com/antonchyvikov/html-css)
+
+#### Additional materials:
+
+##### HTML
+
+* [Memorandum of Understanding Between W3C and WHATWG](https://www.w3.org/2019/04/WHATWG-W3C-MOU.html)
+
+* [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
+
+* [Простые правила разметки](http://yoksel.github.io/easy-markup/first-steps/):
+
+Разметка страницы может быть непростым занятием, особенно поначалу. Какой тег выбрать? Какой класс добавить? Какой должна быть разметка, чтобы стили одного элемента не поломали другой?
+
+На все эти случаи есть простые правила, следуя которым вы сможете писать легко писать чистый, хорошо структурированный HTML-код, который будет удобно читать и приятно поддерживать.
+
+* [Markup Validation Service](https://validator.w3.org/#validate_by_uri)
+
+* [Can I Include](https://caninclude.glitch.me/)
+
+* [Генератор HTML-дерева](https://yoksel.github.io/html-tree/)
+
+##### CSS
+
+* [Cascading Style Sheets](https://www.w3.org/Style/CSS/)
+
+* [«Блочных и строчных элементов» в HTML больше нет](https://css-live.ru/articles/blochnyx-i-strochnyx-elementov-v-html-bolshe-net.html)
+
+* [Kinds of content - instead of "inline" and "block"](https://html.spec.whatwg.org/multipage/dom.html#kinds-of-content)
+
+* [Reset CSS](https://cssdeck.com/blog/scripts/html5-doctor-css-reset-stylesheet/)
+
+* [Normalize.css](https://necolas.github.io/normalize.css/)
+
+* [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words/)
+
+* [Specificity Calculator](https://specificity.keegan.st/)
+
+* [Удивительный и неизвестный inline-block](https://css-live.ru/articles-css/udivitelnyj-i-neizvestnyj-inline-block.html)
+
+* [When do you use inline-block?](https://css-tricks.com/when-do-you-use-inline-block/)
+
+* [What The Flexbox?! - Wes Bos - course](https://flexbox.io/)
+
+* [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+* [Things I’ve Learned About CSS Grid Layout](https://css-tricks.com/things-ive-learned-css-grid-layout/)
+
+* [Grid by Example. Everything you need to learn CSS Grid Layout](https://gridbyexample.com/)
+
+* [CSS Grid - Wes Bos - course](https://www.youtube.com/watch?v=T-slCsOrLcc&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG&ab_channel=WesBos)
 
 Homework:
 
