@@ -50,6 +50,8 @@
 
 - [x] **1.2** [Lection 2. Графика в интернете. А11Y и формы. Работа с контентом.](#task16)
 
+- [ ] **1.3** [Lection 3. DOM and Layout Trees](#task17)
+
 ---
 ---
 
@@ -1034,3 +1036,12 @@ CSS свойство hyphens указывает, как следует пере�
 * [Smashing Magazine](https://www.smashingmagazine.com/)
 
 * [The online studio of Ahmad Shadeed](https://ishadeed.com/)
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 3. DOM and Layout Trees` <span id="task17"></span>
+
+Lecturer:
+[Christina Landvytovych](https://github.com/Croftyland)
