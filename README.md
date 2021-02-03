@@ -51,7 +51,7 @@
 
 - [x] **1.2** [Lection 2. Графика в интернете. А11Y и формы. Работа с контентом.](#task16)
 
-- [x] [Today I learned (TIL)](#task17)
+- [x] [Today I learned (TIL) - AMA session](#task17)
 
 - [ ] **1.3** [Lection 3. DOM and Layout Trees](#task18)
 
@@ -1044,7 +1044,7 @@ CSS свойство hyphens указывает, как следует пере�
 
 ---
 
-## `Today I learned (TIL)` <span id="task18"></span>
+## `Today I learned (TIL)` <span id="task17"></span>
 
 Lecturer:
 [Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
