@@ -1,6 +1,7 @@
 <h1 id="contents" align="center">Front-End Course. Contents</h1>
 
 ---
+---
 
 # `Stage 0`
 
@@ -50,7 +51,9 @@
 
 - [x] **1.2** [Lection 2. Графика в интернете. А11Y и формы. Работа с контентом.](#task16)
 
-- [ ] **1.3** [Lection 3. DOM and Layout Trees](#task17)
+- [x] [Today I learned (TIL)](#task17)
+
+- [ ] **1.3** [Lection 3. DOM and Layout Trees](#task18)
 
 ---
 ---
@@ -1041,7 +1044,50 @@ CSS свойство hyphens указывает, как следует пере�
 
 ---
 
-## `Lection 3. DOM and Layout Trees` <span id="task17"></span>
+## `Today I learned (TIL)` <span id="task18"></span>
+
+Lecturer:
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+
+#### [Video of Lection (1h 50m)](https://www.youtube.com/watch?v=njReJACd5Hw&feature=youtu.be)
+
+#### Additional materials:
+
+---
+
+[Scroll Bouncing On Your Websites](https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/)
+
+When you scroll to the very top of a page or HTML element, or to the bottom of a page or element, on a device using a touchscreen or a trackpad, and empty space can be seen for a moment before the element or page springs back and aligns itself back to its top/bottom (when you release your touch/fingers)
+
+[git-bisect](https://git-scm.com/docs/git-bisect)
+
+This command uses a binary search algorithm to find which commit in your project’s history introduced a bug
+
+[prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+
+The prefers-color-scheme CSS media feature is used to detect if the user has requested the system use a light or dark color theme.
+
+[Websockets: что такое вебсокеты и как они работают? Часть 1](https://www.youtube.com/watch?v=QagWmnZBPKM&list=PLS8sEUxbfFY-Xjv3JPLUAgMqGgF8CbcjZ&index=33)
+
+The WebSocket API is an advanced technology that makes it possible to open a two-way interactive communication session between the user's browser and a server. With this API, you can send messages to a server and receive event-driven responses without having to poll the server for a reply.
+
+[Using CSS counters](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters)
+
+CSS counters let you adjust the appearance of content based on its location in a document.
+
+[The attr() CSS function](https://developer.mozilla.org/en-US/docs/Web/CSS/attr())
+
+The attr() CSS function is used to retrieve the value of an attribute of the selected element and use it in the stylesheet. It can also be used on pseudo-elements, in which case the value of the attribute on the pseudo-element's originating element is returned.
+
+[Schema.org](https://schema.org/)
+
+Your web pages have an underlying meaning that people understand when they read the web pages. But search engines have a limited understanding of what is being discussed on those pages. By adding additional tags to the HTML of your web pages—tags that say, "Hey search engine, this information describes this specific movie, or place, or person, or video"—you can help search engines and other applications better understand your content and display it in a useful, relevant way. Microdata is a set of tags, introduced with HTML5, that allows you to do this.
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 3. DOM and Layout Trees` <span id="task18"></span>
 
 Lecturer:
 [Christina Landvytovych](https://github.com/Croftyland)
