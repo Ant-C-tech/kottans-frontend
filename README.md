@@ -594,6 +594,10 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ##### [JavaScript for beginners (RUS) - Hexlet course](https://ru.code-basics.com/languages/javascript)
 
+##### [Кирилл Мокевнин - Ментальное программирование](https://www.youtube.com/watch?v=EEq1wdM2M2w)
+
+В своем докладе я расскажу про "самодокументируемый код", принцип су-ха-ри, о контекстах, контрактах, декларативном программировании, зависимостях и многом другом.
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
