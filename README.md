@@ -592,7 +592,15 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ##### [Introduction to programming (RUS) - Hexlet course](https://ru.hexlet.io/courses/introduction_to_programming)
 
-##### [JavaScript for beginners (RUS) - Hexlet course](https://ru.code-basics.com/languages/javascript)
+##### [JavaScript for beginners (RUS) - ru.code course](https://ru.code-basics.com/languages/javascript)
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_js_basics/scrEx1.jpg)
+
+</p>
+</details>
 
 ##### [Кирилл Мокевнин - Ментальное программирование](https://www.youtube.com/watch?v=EEq1wdM2M2w)
 
@@ -904,7 +912,7 @@ Lecturer:
 
 * [CSS Grid - Wes Bos - course](https://www.youtube.com/watch?v=T-slCsOrLcc&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG&ab_channel=WesBos)
 
-Homework:
+##### Homework:
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr7.jpg">](https://ant-c-tech.github.io/Cinema-Application/)
 
