@@ -53,7 +53,7 @@
 
 - [x] [Today I learned (TIL) - AMA session](#task17)
 
-- [ ] **1.3** [Lection 3. DOM and Layout Trees](#task18)
+- [x] **1.3** [Lection 3. Знайомство з інтернетом](#task18)
 
 ---
 ---
@@ -1091,7 +1091,29 @@ Your web pages have an underlying meaning that people understand when they read 
 
 ---
 
-## `Lection 3. DOM and Layout Trees` <span id="task18"></span>
+## `Lection 3. Знайомство з інтернетом` <span id="task18"></span>
 
 Lecturer:
 [Christina Landvytovych](https://github.com/Croftyland)
+
+#### [Slides for Lection](https://slides.com/antonchyvikov/how-browser-works)
+
+#### Additional materials:
+
+---
+
+[KONTRA](https://application.security/free/owasp-top-10)
+
+At KONTRA, we believe every software engineer should have free access to developer security training. KONTRA OWASP Top 10 is our first step in that direction. Inspired by real-world vulnerabilities and case studies, we have created a series of interactive application security training modules to help developers understand, identify and mitigate security vulnerabilities in their applications.
+
+[How HTTPs works](https://howhttps.works/episodes/)
+
+[How DNS works](https://howdns.works/)
+
+[HTTP Cats](https://http.cat/)
+
+[Roman Yakobchuk - A tale of one request. How Internet works under the hood](https://www.youtube.com/watch?app=desktop&v=uXXdYCd93F8&list=PLnkLrCUX4Qh4RH-BltBk03Eet1UAF-S7S&index=4)
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
