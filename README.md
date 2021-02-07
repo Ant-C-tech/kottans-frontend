@@ -592,7 +592,9 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ##### [Introduction to programming (RUS) - Hexlet course](https://ru.hexlet.io/courses/introduction_to_programming)
 
-##### [JavaScript for beginners (RUS) - ru.code course](https://ru.code-basics.com/languages/javascript)
+##### [Recursion - Part 7 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=k7-N8R0-KY4)
+
+##### [JavaScript for beginners (RUS) - Code Basics course](https://ru.code-basics.com/languages/javascript)
 
 <details><summary>My results</summary>
 <p>
@@ -601,6 +603,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 </p>
 </details>
+
+##### [Visualize JavaScript code execution](http://pythontutor.com/javascript.html#mode=display)
 
 ##### [Кирилл Мокевнин - Ментальное программирование](https://www.youtube.com/watch?v=EEq1wdM2M2w)
 
