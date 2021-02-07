@@ -594,6 +594,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ##### [Recursion - Part 7 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=k7-N8R0-KY4)
 
+##### [Тонкости модульной системы ECMAScript 2015 (ES6)](https://habr.com/ru/post/267639/)
+
 ##### [JavaScript for beginners (RUS) - Code Basics course](https://ru.code-basics.com/languages/javascript)
 
 <details><summary>My results</summary>
