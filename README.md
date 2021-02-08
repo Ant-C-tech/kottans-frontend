@@ -1110,6 +1110,10 @@ Your web pages have an underlying meaning that people understand when they read 
 Lecturer:
 [Christina Landvytovych](https://github.com/Croftyland)
 
+#### [Video of Lection (1h 05m)](https://www.youtube.com/watch?v=0l7ikOmdGGQ)
+
+#### [Text of Lection](https://www.notion.so/3-2c1899a6247245ec835551a8d24d4e4c)
+
 #### [Slides for Lection](https://slides.com/antonchyvikov/how-browser-works)
 
 #### Additional materials:
