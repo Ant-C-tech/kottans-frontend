@@ -31,7 +31,7 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **0.4** [Responsive Web Design](#task4)
 
-- [x] **0.5** [HTML & CSS Practice](#task5)
+- [x] **0.5** [HTML & CSS Practice](#task5) - practice
 
 - [x] **0.6** [JavaScript Basics](#task6)
 
@@ -529,7 +529,7 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 
-My comment:
+##### My comment:
 I used to made dropdown menu with pure css but it was the first time when this technique seems to me very convenient. It was a good practice.
 Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request.
 
@@ -656,7 +656,11 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
-### `Practical task`
+## `Practical task`
+
+#### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
+
+##### My comment:
 
 Unfortunately, I have spent too much time for this task. Let's accelerating! I want to thanks Bohdan Kovalchuk for his review. It made me thought again about many aspects of my code. I formerly worked as an engineer and I good understanding how it is boring to check students works. But for me I think this code review was the most important part of this course. Now I understand why nobody wants to work with people without experience. Bohdan made a great job.
 
@@ -672,6 +676,9 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 
 ## `Building a Tiny JS World (pre-OOP)` <span id="task8"></span>
 
+#### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
+
+##### My comment:
 I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review - strictly but fair). Every code review make my code better.
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr3.jpg">](https://ant-c-tech.github.io/a-tiny-JS-world/)
@@ -694,7 +701,11 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 </p>
 </details>
 
-### [Frogger Game - Udacity course](https://classroom.udacity.com/courses/ud015)
+## `Practical task`
+
+#### [Requirements](https://classroom.udacity.com/courses/ud015/lessons/3072058665/concepts/30962186380923#)
+
+##### My comment:
 
 I thank Oleksiy Rudenko for his time and work with my code. Code review is very important for me and always makes my code better.
 I made some mistakes in my code which I hope I wouldn't do next time.
@@ -721,9 +732,14 @@ I made some mistakes in my code which I hope I wouldn't do next time.
 
 With this task I got a set of articles that helped me to start my way in OOP. It is a good start but there is a lot of work and practice in the feature to feel at least the same confident that using functional programming. I am sure I will get this opportunity with "Kottans".
 
-[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr3.jpg">](https://ant-c-tech.github.io/a-tiny-JS-world/)
+## `Practical task`
 
+#### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
+
+##### My comment:
 In fact, the "Tiny JS world" and its "Post-OOP" part for me was the most difficult task in this course. Sometimes the hope that one day I will finally do it properly left me. Anyway, I understand that my solution for this task was approve as in advance and I will try to work more hardly to comprehend this Zen in my next steps. I want to thanks Oleksiy Rudenko for his reviews and patient in work with my code.
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr3.jpg">](https://ant-c-tech.github.io/a-tiny-JS-world/)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
@@ -751,6 +767,9 @@ In fact, the "Tiny JS world" and its "Post-OOP" part for me was the most difficu
 
 ## `Memory – Pair Game` <span id="task12"></span>
 
+#### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
+
+##### My comment:
 I thank Maksym Kalashnyk for his time and work with my code. Code review is very important for me and always makes my code better.
 Having pay attention to his notices about using event delegation and template strings, I tried to implement them both by reconstruction my app. I hope that this deep changes didn't make his work harder with checking my code.
 
@@ -838,10 +857,15 @@ The technique of choosing between the "async" and "defer" attributes of the "scr
 
 ## `Friends App` <span id="task14"></span>
 
+#### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md)
+
+##### My comment:
 When I was starting to do this task I have remembered that I have always wanted to try some library with google like styles and some basic functionality. I have chosen MaterializeCss and it was the biggest mistake. Those problems that I have got did not cost it. When I was finishing my work with this task I have noticed, that I almost did not use any possibility of this library because I just did not need them instead I have many troubles with positioning elements with float that use MaterializeCss. Long story short "Never again".
 I want to thank Ivan Tytarenko for his time and work with review of my code. I have tried to make all changes according his notices and video of AMA helped me very much. It was forgetless experience for me and I am sure that it gave me huge new knowledges that I did not have before.
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr6.jpg">](https://ant-c-tech.github.io/friends_app/)
+
+#### [Code review - AMA session](https://www.youtube.com/watch?v=iqdUtYGYdDE&t=4446s)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
@@ -930,7 +954,9 @@ Lecturer:
 
 * [CSS Grid - Wes Bos - course](https://www.youtube.com/watch?v=T-slCsOrLcc&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG&ab_channel=WesBos)
 
-##### Homework:
+## `Practical task`
+
+#### [To requirements](https://www.notion.so/Kottans-Frontend-2021-353da14284ef4c5f93f91c7323172995?p=30f07df81c3244239fe6964cd317a730)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr7.jpg">](https://ant-c-tech.github.io/Cinema-Application/)
 
