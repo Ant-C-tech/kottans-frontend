@@ -5,6 +5,18 @@
 
 # `Stage 0`
 
+---
+
+#### Requirements:
+
+For each article, you are required to read please post the answers to the following questions in your respective repo. Don't worry, your answers will not be graded. It's just a way to reflect on what you have learned.
+
+* name (at least) one thing that was new to you
+* name (at least) one thing that surprised you
+* name (at least) one thing you intend to use in the future
+
+---
+
 ### `General`
 
 - [x] **0.** [Git Basics](#task0)
