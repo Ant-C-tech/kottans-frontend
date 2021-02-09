@@ -638,6 +638,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
+#### [Functional programming in JavaScript - FunFunFunction course](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
