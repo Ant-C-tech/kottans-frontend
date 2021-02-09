@@ -606,6 +606,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 ##### [JavaScript modules](https://v8.dev/features/modules)
 
+##### [Understanding ES6 Modules](https://www.sitepoint.com/understanding-es6-modules/)
+
 #### [JavaScript for beginners (RUS) - Code Basics course](https://ru.code-basics.com/languages/javascript)
 
 <details><summary>My results</summary>
@@ -619,6 +621,16 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 ##### [Visualize JavaScript code execution](http://pythontutor.com/javascript.html#mode=display)
 
 ##### [Кирилл Мокевнин - Ментальное программирование](https://www.youtube.com/watch?v=EEq1wdM2M2w)
+
+#### [Pure Functions - EricElliott course](https://ericelliottjs.com/premium-content/lesson-pure-functions)
+
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_js_basics/scrEx2.jpg)
+
+</p>
+</details>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
