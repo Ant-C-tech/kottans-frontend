@@ -600,7 +600,13 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 #### [Introduction to programming (RUS) - Hexlet course](https://ru.hexlet.io/courses/introduction_to_programming)
 
-##### [Recursion - Part 7 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=k7-N8R0-KY4)
+<details><summary>My results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_js_basics/scrEx3.jpg)
+
+</p>
+</details>
 
 ##### [Тонкости модульной системы ECMAScript 2015 (ES6)](https://habr.com/ru/post/267639/)
 
