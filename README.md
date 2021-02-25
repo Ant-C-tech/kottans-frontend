@@ -73,6 +73,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.5** [Lection 5. Scope. Execution context](#task21)
 
+- [x] [Ревью задач серии JS OOP - AMA session](#task23)
+
 ---
 ---
 
@@ -1207,6 +1209,8 @@ Lecturers:
 
 #### [Video of Lection (1h 02m)](https://www.youtube.com/watch?v=wvNrygF37dM)
 
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
 ---
 
 ## `Lection 4. Як браузер візуалізує HTML. DOM` <span id="task20"></span>
@@ -1254,6 +1258,26 @@ Lecturer:
 
 
 [Обучение JavaScript "Объекты" You don't know js](https://www.youtube.com/watch?app=desktop&v=xltVJZbTl4Y)
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Ревью задач серии JS OOP` <span id="task23"></span>
+
+Lecturers:
+[Oleksiy Rudenko](https://www.linkedin.com/in/oleksiyrudenko/)
+
+
+#### [Video of Lection (1h 44m)](https://www.youtube.com/watch?v=nqJ5AlibLlI)
+
+#### Additional materials:
+
+---
+
+[Naming](https://gist.github.com/tmcw/35849b7e9b86bb0c125972b2bb275bc7)
+
+[Kottans Frontend Tasks Review Checklist](https://gist.github.com/OleksiyRudenko/44bc64f66e73bc2f99a151a544374a20)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
