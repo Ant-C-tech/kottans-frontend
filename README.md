@@ -1254,7 +1254,7 @@ Lecturer:
 
 ---
 
-[Обучение JavaScript "Scope and Closures" You don't know js](https://www.youtube.com/watch?v=uI-hjpmNeYI&feature=youtu.be)
+[You Don't Know JS Yet: Scope & Closures - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 
 [Обучение JavaScript "Scope and Closures" You don't know js](https://www.youtube.com/watch?v=uI-hjpmNeYI&feature=youtu.be)
 
