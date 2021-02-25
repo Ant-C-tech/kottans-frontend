@@ -71,6 +71,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.4** [Lection 4. Як бразер візуалізує HTML. DOM](#task20)
 
+- [x] **1.5** [Lection 5. Scope. Execution context](#task21)
+
 ---
 ---
 
@@ -1207,10 +1209,52 @@ Lecturers:
 
 ---
 
-## `Lection 4. Як бразер візуалізує HTML. DOM` <span id="task20"></span>
+## `Lection 4. Як браузер візуалізує HTML. DOM` <span id="task20"></span>
 
 Lecturer:
 [Christina Landvytovych](https://github.com/Croftyland)
 
 #### [Video of Lection. Part 1 (0h 58m)](https://www.youtube.com/watch?v=7xy--CqvcDk)
 #### [Video of Lection. Part 2 (1h 15m)](https://www.youtube.com/watch?v=sSLSp7uz3Mo&t=8s)
+
+## `Practical task`
+
+#### Завдання:
+
+**1**. Створити плажку, де буде відображатись місця,які вибрали (дизайн на ваш розуд)
+**2**. По кліку на сидіння повинно відбражатись ряд та місце
+**3**. При повторному місце знакає
+
+###### Завдання із зірочкою(не обов’язково)
+**1**. Створити кнопку підтвердження  та модальне вікно.
+**2**. В модальному вікні показати кількість мість та їхню суму
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr7.jpg">](https://ant-c-tech.github.io/Cinema-Application/)
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 5. Scope. Execution context` <span id="task21"></span>
+
+Lecturer:
+[Christina Landvytovych](https://github.com/Croftyland)
+
+#### [Video of Lection. Part 1 (0h 07m)](https://www.youtube.com/watch?v=ft_8tuRj9CE)
+
+#### [Video of Lection. Part 2 (0h 12m)](https://www.youtube.com/watch?v=b52XdijI2ns)
+
+#### Additional materials:
+
+---
+
+[Обучение JavaScript "Scope and Closures" You don't know js](https://www.youtube.com/watch?v=uI-hjpmNeYI&feature=youtu.be)
+
+[Обучение JavaScript "Scope and Closures" You don't know js](https://www.youtube.com/watch?v=uI-hjpmNeYI&feature=youtu.be)
+
+
+[Обучение JavaScript "Объекты" You don't know js](https://www.youtube.com/watch?app=desktop&v=xltVJZbTl4Y)
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
