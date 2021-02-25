@@ -73,6 +73,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.5** [Lection 5. Scope. Execution context](#task21)
 
+- [x] [Scope/Closure discussion - AMA session](#task22)
+
 - [x] [Ревью задач серии JS OOP - AMA session](#task23)
 
 ---
@@ -1258,6 +1260,17 @@ Lecturer:
 
 
 [Обучение JavaScript "Объекты" You don't know js](https://www.youtube.com/watch?app=desktop&v=xltVJZbTl4Y)
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Scope/Closure discussion` <span id="task22"></span>
+
+Lecturer:
+[Christina Landvytovych](https://github.com/Croftyland)
+
+#### [Video of Lection (0h 55m)](https://www.youtube.com/watch?v=VHnAj7hfKdE)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
