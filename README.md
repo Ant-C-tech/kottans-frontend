@@ -67,6 +67,10 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.3** [Lection 3. Знайомство з інтернетом](#task18)
 
+- [x] [How browser works - AMA session](#task19)
+
+- [x] **1.4** [Lection 4. Як бразер візуалізує HTML. DOM](#task20)
+
 ---
 ---
 
@@ -1191,3 +1195,22 @@ At KONTRA, we believe every software engineer should have free access to develop
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
+
+## `How browser works` <span id="task19"></span>
+
+Lecturers:
+[Ivan Tytarenko](https://www.linkedin.com/in/ititarenko/)
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+[Christina Landvytovych](https://github.com/Croftyland)
+
+#### [Video of Lection (1h 02m)](https://www.youtube.com/watch?v=wvNrygF37dM)
+
+---
+
+## `Lection 4. Як бразер візуалізує HTML. DOM` <span id="task20"></span>
+
+Lecturer:
+[Christina Landvytovych](https://github.com/Croftyland)
+
+#### [Video of Lection. Part 1 (0h 58m)](https://www.youtube.com/watch?v=7xy--CqvcDk)
+#### [Video of Lection. Part 2 (1h 15m)](https://www.youtube.com/watch?v=sSLSp7uz3Mo&t=8s)
