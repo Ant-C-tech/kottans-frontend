@@ -71,7 +71,7 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.4** [Lection 4. Як бразер візуалізує HTML. DOM](#task20)
 
-- [x] **1.5** [Lection 5. Scope. Execution context](#task21)
+- [x] **1.5** [Lection 5. Scope. Execution context. Hoisting. Closure](#task21)
 
 - [x] [Scope/Closure discussion - AMA session](#task22)
 
@@ -1241,7 +1241,7 @@ Lecturer:
 
 ---
 
-## `Lection 5. Scope. Execution context` <span id="task21"></span>
+## `Lection 5. Scope. Execution context. Hoisting. Closure` <span id="task21"></span>
 
 Lecturer:
 [Christina Landvytovych](https://github.com/Croftyland)
@@ -1249,6 +1249,12 @@ Lecturer:
 #### [Video of Lection. Part 1 (0h 07m)](https://www.youtube.com/watch?v=ft_8tuRj9CE)
 
 #### [Video of Lection. Part 2 (0h 12m)](https://www.youtube.com/watch?v=b52XdijI2ns)
+
+#### [Video of Lection. Part 3 (0h 9m)](https://www.youtube.com/watch?v=0Vb_Sse3xak)
+
+#### [Video of Lection. Part 3 (0h 6m)](https://www.youtube.com/watch?v=PIFGtdLgwi4)
+
+#### [Slides for Lection](https://slides.com/antonchyvikov/scope-closure)
 
 #### Additional materials:
 
