@@ -1264,6 +1264,7 @@ Lecturer:
 
 [Обучение JavaScript "Scope and Closures" You don't know js](https://www.youtube.com/watch?v=uI-hjpmNeYI&feature=youtu.be)
 
+[Обучение JavaScript "this - контекст исполнения функции" You don't know js](https://www.youtube.com/watch?v=3btM1eujf9s&list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP&index=2)
 
 [Обучение JavaScript "Объекты" You don't know js](https://www.youtube.com/watch?app=desktop&v=xltVJZbTl4Y)
 
