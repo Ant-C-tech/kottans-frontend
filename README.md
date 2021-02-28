@@ -1263,6 +1263,8 @@ Lecturer:
 
 #### [Video of Lection. Part 3 (0h 6m)](https://www.youtube.com/watch?v=PIFGtdLgwi4)
 
+#### [Text of Lection](https://www.notion.so/1-9a83cb1f515a453982bb3cd20dcd33b0)
+
 #### [Slides for Lection](https://slides.com/antonchyvikov/scope-closure)
 
 #### Additional materials:
