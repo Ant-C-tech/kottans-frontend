@@ -77,6 +77,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] [Ревью задач серии JS OOP - AMA session](#task23)
 
+- [x] **1.5** [Lection 6. Objects & this](#task24)
+
 ---
 ---
 
@@ -1266,8 +1268,6 @@ Lecturer:
 
 [Обучение JavaScript "this - контекст исполнения функции" You don't know js](https://www.youtube.com/watch?v=3btM1eujf9s&list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP&index=2)
 
-[Обучение JavaScript "Объекты" You don't know js](https://www.youtube.com/watch?app=desktop&v=xltVJZbTl4Y)
-
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
@@ -1298,6 +1298,39 @@ Lecturers:
 [Naming](https://gist.github.com/tmcw/35849b7e9b86bb0c125972b2bb275bc7)
 
 [Kottans Frontend Tasks Review Checklist](https://gist.github.com/OleksiyRudenko/44bc64f66e73bc2f99a151a544374a20)
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 6. Objects & this` <span id="task24"></span>
+
+Lecturer:
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+
+#### [Video of Lection (2h 02m)](https://www.youtube.com/watch?v=CuEErkIQP5c&feature=youtu.be)
+
+#### Materials for lection:
+
+* [Intro (0h 03m)](https://www.youtube.com/watch?v=vBZ_sAdtT1M&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=10)
+
+* [Object props (0h 12m)](https://www.youtube.com/watch?v=mIXdx7hSwIk&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=11)
+
+* [Property descriptors (0h 11m)](https://www.youtube.com/watch?v=1CNa1_tfS5U&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=12)
+
+* [Object creation (0h 15m)](https://www.youtube.com/watch?v=KJYW-TTrJxE&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=13)
+
+* [This & execution context (0h 21m)](https://www.youtube.com/watch?v=gsd2RE7lP00&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=14)
+
+#### Additional materials:
+
+---
+
+[Обучение JavaScript "Объекты" You don't know js](https://www.youtube.com/watch?app=desktop&v=xltVJZbTl4Y)
+
+## `Practical task`
+
+Домашнее задание по желанию: написать свою реализацию Function.prototype.bind. Чтобы работала, как обычный bind, но называлась, например, myBind.
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
