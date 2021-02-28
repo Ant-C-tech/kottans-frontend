@@ -71,6 +71,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.4** [Lection 4. Як браузер візуалізує HTML. DOM](#task20)
 
+### `Module 2. YDKJS`
+
 - [x] **1.5** [Lection 5. Scope. Execution context. Hoisting. Closure](#task21)
 
 - [x] [Scope/Closure discussion - AMA session](#task22)
@@ -1247,6 +1249,10 @@ Lecturer:
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr7.jpg">](https://ant-c-tech.github.io/Cinema-Application/)
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+<h2 align="center">Module 2. YDKJS</h2>
 
 ---
 
