@@ -69,7 +69,7 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] [How browser works - AMA session](#task19)
 
-- [x] **1.4** [Lection 4. Як бразер візуалізує HTML. DOM](#task20)
+- [x] **1.4** [Lection 4. Як браузер візуалізує HTML. DOM](#task20)
 
 - [x] **1.5** [Lection 5. Scope. Execution context. Hoisting. Closure](#task21)
 
@@ -1223,18 +1223,25 @@ Lecturer:
 [Christina Landvytovych](https://github.com/Croftyland)
 
 #### [Video of Lection. Part 1 (0h 58m)](https://www.youtube.com/watch?v=7xy--CqvcDk)
+
 #### [Video of Lection. Part 2 (1h 15m)](https://www.youtube.com/watch?v=sSLSp7uz3Mo&t=8s)
+
+#### [Text of Lection](https://www.notion.so/4-854504e56e534c57a3befafc16921ea2)
 
 ## `Practical task`
 
 #### Завдання:
 
 **1**. Створити плажку, де буде відображатись місця,які вибрали (дизайн на ваш розуд)
+
 **2**. По кліку на сидіння повинно відбражатись ряд та місце
+
 **3**. При повторному місце знакає
 
 ###### Завдання із зірочкою(не обов’язково)
+
 **1**. Створити кнопку підтвердження  та модальне вікно.
+
 **2**. В модальному вікні показати кількість мість та їхню суму
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr7.jpg">](https://ant-c-tech.github.io/Cinema-Application/)
