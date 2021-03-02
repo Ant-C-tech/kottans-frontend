@@ -79,7 +79,7 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] [Ревью задач серии JS OOP - AMA session](#task23)
 
-- [x] **1.5** [Lection 6. Objects & this](#task24)
+- [x] **1.6** [Lection 6. Objects & this](#task24)
 
 ---
 ---
