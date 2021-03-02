@@ -1184,6 +1184,8 @@ Lecturer:
 
 #### [Text of Lection](https://www.notion.so/3-2c1899a6247245ec835551a8d24d4e4c)
 
+#### [Alternative Text of Lection](https://github.com/yaripey/kottans-fe-compendium/blob/master/lections/lection3/lection3.md)
+
 #### [Slides for Lection](https://slides.com/antonchyvikov/how-browser-works)
 
 #### Additional materials:
@@ -1229,6 +1231,8 @@ Lecturer:
 #### [Video of Lection. Part 2 (1h 15m)](https://www.youtube.com/watch?v=sSLSp7uz3Mo&t=8s)
 
 #### [Text of Lection](https://www.notion.so/4-854504e56e534c57a3befafc16921ea2)
+
+#### [Alternative Text of Lection](https://github.com/yaripey/kottans-fe-compendium/blob/master/lections/lection4/lection4.md)
 
 ## `Practical task`
 
