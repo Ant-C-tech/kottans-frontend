@@ -1399,6 +1399,8 @@ Lecturer:
 
 #### [Video of Lection (2h 02m)](https://www.youtube.com/watch?v=CuEErkIQP5c&feature=youtu.be)
 
+#### [Text of Lection](https://github.com/yaripey/kottans-fe-compendium/blob/master/lections/lection6/lection6.md)
+
 #### Materials for lection:
 
 * [Intro (0h 03m)](https://www.youtube.com/watch?v=vBZ_sAdtT1M&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=10)
