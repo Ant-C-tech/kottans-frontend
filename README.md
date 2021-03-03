@@ -81,6 +81,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.6** [Lection 6. Objects & this](#task24)
 
+- [x] [Objects & this - AMA session](#task25)
+
 ---
 ---
 
@@ -118,6 +120,8 @@ For each article, you are required to read please post the answers to the follow
 
 </p>
 </details>
+
+<br>
 
 ### `Extras`
 
@@ -158,6 +162,8 @@ Began to practice. 50 lessons a day and see what would be...
 ##### [How to learn and deal with negative thoughts](https://guides.hexlet.io/learning/)
 
 Very good motivation article. I always have been liking Rahim with his clear and deep explanations. Thanks for it.
+
+<br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
@@ -209,6 +215,8 @@ Very good motivation article. I always have been liking Rahim with his clear and
 
 I cannot call the material presented in two parts of the article absolutely new for me, but this time the immersion into the material was much deeper than a simple listing of the server response status codes. I hope that repeated reading of the material allowed me to create a certain theoretical foundation, which will become the beginning of a deeper study of this topic for next practical creating of REST services.
 
+<br>
+
 ### `Extras`
 
 #### [Command Line Basics (RUS) - Hexlet course](https://ru.hexlet.io/courses/cli-basics)
@@ -234,6 +242,8 @@ I think that the best in this article is this words: "It goes without saying tha
 ##### [How JavaScript works: Deep dive into WebSockets and HTTP/2](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
 
 I had many difficulties with this article. First, it's English was too complicated for me, the second was that the material itself was new and difficult for me. Anyway, it was interesting and I hope useful. I am planning to return one day and read all set of articles from this author.
+
+<br>
 
 ### `Optional`
 
@@ -271,6 +281,8 @@ This course was a good way to understand of basics of Internet's work like Netca
 </p>
 </details>
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
@@ -305,6 +317,8 @@ I studied this set of lessons with part #0 Git Basic. So my emotions after study
 </p>
 </details>
 
+<br>
+
 ### `Extras`
 
 ##### [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A&feature=youtu.be)
@@ -338,6 +352,8 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 </p>
 </details>
+
+<br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
@@ -382,6 +398,8 @@ It is one of the most completed manual for Git troubles. One part of these issue
 
 </p>
 </details>
+
+<br>
 
 ### `Extras`
 
@@ -445,6 +463,8 @@ It is one of the most completed manual for Git troubles. One part of these issue
 </p>
 </details>
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
@@ -476,6 +496,8 @@ I heard a lot about this game but I have never been playing it before. So, it wa
 
 </p>
 </details>
+
+<br>
 
 ### `Extras`
 
@@ -531,11 +553,15 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 
 - _One thing I intend to use in the future_: [screensiz.es.](https://screensiz.es/)
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
 ## `HTML & CSS practice` <span id="task5"></span>
+
+### `Practical task`
 
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 
@@ -576,6 +602,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 }
 ```
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
@@ -609,6 +637,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 </p>
 </details>
+
+<br>
 
 ### `Extras`
 
@@ -656,6 +686,8 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 
 #### [Algorithms - Khan Academy course](https://www.khanacademy.org/computing/computer-science/algorithms)
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
@@ -688,7 +720,9 @@ Again I did not pay my attention to notice from tutors). They said "Make sure yo
 </p>
 </details>
 
-## `Practical task`
+<br>
+
+### `Practical task`
 
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
 
@@ -707,6 +741,8 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 ---
 
 ## `Building a Tiny JS World (pre-OOP)` <span id="task8"></span>
+
+### `Practical task`
 
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
 
@@ -733,7 +769,7 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 </p>
 </details>
 
-## `Practical task`
+### `Practical task`
 
 #### [Requirements](https://classroom.udacity.com/courses/ud015/lessons/3072058665/concepts/30962186380923#)
 
@@ -756,6 +792,8 @@ I made some mistakes in my code which I hope I wouldn't do next time.
 </p>
 </details>
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
@@ -764,7 +802,7 @@ I made some mistakes in my code which I hope I wouldn't do next time.
 
 With this task I got a set of articles that helped me to start my way in OOP. It is a good start but there is a lot of work and practice in the feature to feel at least the same confident that using functional programming. I am sure I will get this opportunity with "Kottans".
 
-## `Practical task`
+### `Practical task`
 
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
 
@@ -793,11 +831,15 @@ In fact, the "Tiny JS world" and its "Post-OOP" part for me was the most difficu
 </p>
 </details>
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
 ## `Memory – Pair Game` <span id="task12"></span>
+
+### `Practical task`
 
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
 
@@ -806,6 +848,8 @@ I thank Maksym Kalashnyk for his time and work with my code. Code review is very
 Having pay attention to his notices about using event delegation and template strings, I tried to implement them both by reconstruction my app. I hope that this deep changes didn't make his work harder with checking my code.
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr5.jpg">](https://ant-c-tech.github.io/Memory-Pair-Game/)
+
+<br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
@@ -883,11 +927,15 @@ Once again these magic "transform: translateZ(0)" and "will-change". I need help
 
 The technique of choosing between the "async" and "defer" attributes of the "script" tag is explained and argued in a cool and accessible way.
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
 ## `Friends App` <span id="task14"></span>
+
+### `Practical task`
 
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md)
 
@@ -899,6 +947,8 @@ I want to thank Ivan Tytarenko for his time and work with review of my code. I h
 
 #### [Code review - AMA session](https://www.youtube.com/watch?v=iqdUtYGYdDE&t=4446s)
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
@@ -908,6 +958,8 @@ I want to thank Ivan Tytarenko for his time and work with review of my code. I h
 In the course I liked a thorough approach to the selection of material - a huge number of very useful materials and courses, the opportunity to improve the level of technical and spoken English (course materials, communication with mentors in GitHub), and, of course, code review from mentors - experience, which can hardly be obtained anywhere else but real work.
 
 [Frontend Course Stage 0 (self-study). Finalists](https://github.com/kottans/frontend/blob/master/students/stage0-finishers.md)
+
+<br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
@@ -934,9 +986,9 @@ Lecturer:
 
 #### [Slides for Lection](https://slides.com/antonchyvikov/html-css)
 
-#### Additional materials:
+<br>
 
----
+#### Additional materials:
 
 ##### HTML
 
@@ -986,7 +1038,9 @@ Lecturer:
 
 * [CSS Grid - Wes Bos - course](https://www.youtube.com/watch?v=T-slCsOrLcc&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG&ab_channel=WesBos)
 
-## `Practical task`
+<br>
+
+### `Practical task`
 
 #### [To requirements](https://www.notion.so/Kottans-Frontend-2021-353da14284ef4c5f93f91c7323172995?p=30f07df81c3244239fe6964cd317a730)
 
@@ -1007,9 +1061,9 @@ Lecturer:
 
 #### [Slides for Lection](https://slides.com/antonchyvikov/frontend)
 
-#### Additional materials:
+<br>
 
----
+#### Additional materials:
 
 ##### Graphiсs on the Web
 
@@ -1128,20 +1182,22 @@ CSS свойство hyphens указывает, как следует пере�
 
 * [The online studio of Ahmad Shadeed](https://ishadeed.com/)
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
-## `Today I learned (TIL)` <span id="task17"></span>
+## `Today I learned (TIL) - AMA session` <span id="task17"></span>
 
 Lecturer:
 [Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
 
 #### [Video of Lection (1h 50m)](https://www.youtube.com/watch?v=njReJACd5Hw&feature=youtu.be)
 
-#### Additional materials:
+<br>
 
----
+#### Additional materials:
 
 [Scroll Bouncing On Your Websites](https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/)
 
@@ -1171,6 +1227,8 @@ The attr() CSS function is used to retrieve the value of an attribute of the sel
 
 Your web pages have an underlying meaning that people understand when they read the web pages. But search engines have a limited understanding of what is being discussed on those pages. By adding additional tags to the HTML of your web pages—tags that say, "Hey search engine, this information describes this specific movie, or place, or person, or video"—you can help search engines and other applications better understand your content and display it in a useful, relevant way. Microdata is a set of tags, introduced with HTML5, that allows you to do this.
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
@@ -1188,9 +1246,9 @@ Lecturer:
 
 #### [Slides for Lection](https://slides.com/antonchyvikov/how-browser-works)
 
-#### Additional materials:
+<br>
 
----
+#### Additional materials:
 
 [KONTRA](https://application.security/free/owasp-top-10)
 
@@ -1204,11 +1262,13 @@ At KONTRA, we believe every software engineer should have free access to develop
 
 [Roman Yakobchuk - A tale of one request. How Internet works under the hood](https://www.youtube.com/watch?app=desktop&v=uXXdYCd93F8&list=PLnkLrCUX4Qh4RH-BltBk03Eet1UAF-S7S&index=4)
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
-## `How browser works` <span id="task19"></span>
+## `How browser works - AMA session` <span id="task19"></span>
 
 Lecturers:
 [Ivan Tytarenko](https://www.linkedin.com/in/ititarenko/)
@@ -1216,6 +1276,8 @@ Lecturers:
 [Christina Landvytovych](https://github.com/Croftyland)
 
 #### [Video of Lection (1h 02m)](https://www.youtube.com/watch?v=wvNrygF37dM)
+
+<br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
@@ -1234,7 +1296,9 @@ Lecturer:
 
 #### [Alternative Text of Lection](https://github.com/yaripey/kottans-fe-compendium/blob/master/lections/lection4/lection4.md)
 
-## `Practical task`
+<br>
+
+### `Practical task`
 
 #### Завдання:
 
@@ -1277,9 +1341,9 @@ Lecturer:
 
 #### [Slides for Lection](https://slides.com/antonchyvikov/scope-closure)
 
-#### Additional materials:
+<br>
 
----
+#### Additional materials:
 
 [You Don't Know JS Yet: Scope & Closures - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 
@@ -1287,22 +1351,26 @@ Lecturer:
 
 [Обучение JavaScript "this - контекст исполнения функции" You don't know js](https://www.youtube.com/watch?v=3btM1eujf9s&list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP&index=2)
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
-## `Scope/Closure discussion` <span id="task22"></span>
+## `Scope/Closure discussion - AMA session` <span id="task22"></span>
 
 Lecturer:
 [Christina Landvytovych](https://github.com/Croftyland)
 
 #### [Video of Lection (0h 55m)](https://www.youtube.com/watch?v=VHnAj7hfKdE)
 
+<br>
+
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
 
-## `Ревью задач серии JS OOP` <span id="task23"></span>
+## `Ревью задач серии JS OOP - AMA session` <span id="task23"></span>
 
 Lecturers:
 [Oleksiy Rudenko](https://www.linkedin.com/in/oleksiyrudenko/)
@@ -1310,13 +1378,15 @@ Lecturers:
 
 #### [Video of Lection (1h 44m)](https://www.youtube.com/watch?v=nqJ5AlibLlI)
 
-#### Additional materials:
+<br>
 
----
+#### Additional materials:
 
 [Naming](https://gist.github.com/tmcw/35849b7e9b86bb0c125972b2bb275bc7)
 
 [Kottans Frontend Tasks Review Checklist](https://gist.github.com/OleksiyRudenko/44bc64f66e73bc2f99a151a544374a20)
+
+<br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
@@ -1341,15 +1411,33 @@ Lecturer:
 
 * [This & execution context (0h 21m)](https://www.youtube.com/watch?v=gsd2RE7lP00&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=14)
 
-#### Additional materials:
+<br>
 
----
+#### Additional materials:
 
 [Обучение JavaScript "Объекты" You don't know js](https://www.youtube.com/watch?app=desktop&v=xltVJZbTl4Y)
 
-## `Practical task`
+<br>
+
+### `Practical task`
 
 Домашнее задание по желанию: написать свою реализацию Function.prototype.bind. Чтобы работала, как обычный bind, но называлась, например, myBind.
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Objects & this - AMA session` <span id="task25"></span>
+
+Lecturers:
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+[Ivan Tytarenko](https://www.linkedin.com/in/ititarenko/)
+
+#### [Video of Lection (1h 17m)](https://www.youtube.com/watch?v=MWMd1vafvR4&feature=youtu.be)
+
+<br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
