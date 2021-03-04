@@ -1425,33 +1425,7 @@ Lecturer:
 
 Домашнее задание по желанию: написать свою реализацию Function.prototype.bind. Чтобы работала, как обычный bind, но называлась, например, myBind.
 
-```JavaScript
-Function.prototype.myCall = function (context, ...args) {
-  context.foo = this;
-  const result = context.foo(...args);
-  delete context.foo;
-  return result;
-};
-
-Function.prototype.myApply = function (context, argsArray) {
-  context.foo = this;
-  const result = context.foo(...argsArray);
-  delete context.foo;
-  return result;
-};
-
-Function.prototype.myBind = function (context, ...args) {
-  context.foo = this;
-
-  const result = () => {
-    const result = context.foo(...args);
-    delete context.foo;
-    return result
-  };
-
-  return result;
-}
-```
+[My solution on CodePen](https://codepen.io/anton-chivikov/pen/abBKqbw)
 
 <br>
 
