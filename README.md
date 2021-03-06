@@ -83,6 +83,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] [Objects & this - AMA session](#task25)
 
+- [x] **1.7** [Lection 7. Prototype](#task26)
+
 ---
 ---
 
@@ -1446,3 +1448,36 @@ Lecturers:
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
+
+## `Lection 7. Prototype` <span id="task26"></span>
+
+Lecturer:
+[Christina Landvytovych](https://github.com/Croftyland)
+
+#### [Video of Lection (0h 27m)](https://www.youtube.com/watch?v=6qm63isN2BI)
+
+#### [Text of Lection](https://www.notion.so/JavaScript-a59d160519d24574ac3c706c7ecbdef8)
+
+#### [Slides for Lection](https://slides.com/antonchyvikov/prototype)
+
+<br>
+
+#### Additional materials:
+
+[You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch5.md)
+
+[What Makes JavaScript JavaScript? Prototypal Inheritance](https://dmitripavlutin.com/javascript-prototypal-inheritance/)
+
+[JavaScript properties: inheritance and enumerability](https://2ality.com/2011/07/js-properties.html)
+
+[JavaScript — Prototype](https://codeburst.io/javascript-prototype-cb29d82b8809)
+
+<br>
+
+### `Practical task`
+
+[Prototype Exersises](https://github.com/Croftyland/YDKJS-kottans/tree/master/3.%20this%26prototypes)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
