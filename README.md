@@ -1458,6 +1458,8 @@ Lecturer:
 
 #### [Text of Lection](https://www.notion.so/JavaScript-a59d160519d24574ac3c706c7ecbdef8)
 
+#### [Alternative Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection7/lection7.html)
+
 #### [Slides for Lection](https://slides.com/antonchyvikov/prototype)
 
 <br>
