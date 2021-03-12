@@ -773,7 +773,7 @@ This Udacity course for me was like some Evolution Theory of JavaScript OOP. It 
 
 ### `Practical task`
 
-#### [Requirements](https://classroom.udacity.com/courses/ud015/lessons/3072058665/concepts/30962186380923#)
+#### [Requirements](https://review.udacity.com/#!/rubrics/15/view)
 
 ##### My comment:
 
