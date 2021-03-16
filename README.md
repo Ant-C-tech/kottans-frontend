@@ -85,6 +85,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.7** [Lection 7. Prototype](#task26)
 
+- [x] **1.8** [Lection 8. Types in JavaScript](#task27)
+
 ---
 ---
 
@@ -1483,3 +1485,30 @@ Lecturer:
 <br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 8. Types in JavaScript` <span id="task27"></span>
+
+Lecturer:
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+
+#### [Video of Lection (1h 15m)](https://www.youtube.com/watch?v=Puj4cB7dY-E)
+
+#### Materials for lection:
+
+* [JavaScript Types: Intro (0h 12m)](https://www.youtube.com/watch?v=pM-i8dKB_F0)
+
+* [Natives: встроенные глобальные объекты (0h 12m)](https://www.youtube.com/watch?v=gbsjdst4hWU)
+
+<br>
+
+#### Additional materials:
+
+[You don't know js. Типы и грамматика](https://github.com/azat-io/you-dont-know-js-ru/blob/master/types%20%26%20grammar/README.md#you-dont-know-js-types--grammar)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
