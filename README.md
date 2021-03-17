@@ -1355,8 +1355,6 @@ Lecturer:
 
 [Обучение JavaScript "this - контекст исполнения функции" You don't know js](https://www.youtube.com/watch?v=3btM1eujf9s&list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP&index=2)
 
-[You Don't Know JS: Замыкания и объекты](https://github.com/Ant-C-tech/kottans-frontend/blob/master/books/types.pdf)
-
 <br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
@@ -1502,12 +1500,6 @@ Lecturer:
 * [JavaScript Types: Intro (0h 12m)](https://www.youtube.com/watch?v=pM-i8dKB_F0)
 
 * [Natives: встроенные глобальные объекты (0h 12m)](https://www.youtube.com/watch?v=gbsjdst4hWU)
-
-<br>
-
-#### Additional materials:
-
-[You don't know js. Типы и грамматика](https://github.com/Ant-C-tech/kottans-frontend/blob/master/books/types.pdf)
 
 <br>
 
