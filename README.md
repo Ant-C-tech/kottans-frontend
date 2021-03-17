@@ -1505,7 +1505,7 @@ Lecturer:
 
 #### Additional materials:
 
-[You don't know js. Типы и грамматика](https://github.com/azat-io/you-dont-know-js-ru/blob/master/types%20%26%20grammar/README.md#you-dont-know-js-types--grammar)
+[You don't know js. Типы и грамматика](https://github.com/Ant-C-tech/kottans-frontend/blob/master/task_js_basics/scr2.jpg)
 
 <br>
 
