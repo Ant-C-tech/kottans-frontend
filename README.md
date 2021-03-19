@@ -87,6 +87,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.8** [Lection 8. Types in JavaScript](#task27)
 
+- [x] [Type Coercion - AMA session](#task28)
+
 ---
 ---
 
@@ -1500,6 +1502,19 @@ Lecturer:
 * [JavaScript Types: Intro (0h 12m)](https://www.youtube.com/watch?v=pM-i8dKB_F0)
 
 * [Natives: встроенные глобальные объекты (0h 12m)](https://www.youtube.com/watch?v=gbsjdst4hWU)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Type Coercion - AMA session` <span id="task28"></span>
+
+Lecturer:
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+
+#### [Video of Lection (1h 37m)](https://www.youtube.com/watch?v=EYOl89jDMAE)
 
 <br>
 
