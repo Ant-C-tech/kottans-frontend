@@ -89,6 +89,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] [Type Coercion - AMA session](#task28)
 
+- [x] **1.9** [Lection 9. Sync & Async](#task29)
+
 ---
 ---
 
@@ -1515,6 +1517,25 @@ Lecturer:
 [Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
 
 #### [Video of Lection (1h 37m)](https://www.youtube.com/watch?v=EYOl89jDMAE)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 9. Sync & Async` <span id="task29"></span>
+
+Lecturer:
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+
+#### [Video of Lection. Part 1 (0h 52m)](https://www.youtube.com/watch?v=XdTjX0WIHHc)
+
+#### [Video of Lection. Part 2 (1h 23m)](https://www.youtube.com/watch?v=BcHwMykiqTc)
+
+#### Materials for lection:
+
+* [Филипп Робертс: Что за чертовщина такая event loop? (0h 27m)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 <br>
 
