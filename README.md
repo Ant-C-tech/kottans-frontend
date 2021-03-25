@@ -1539,6 +1539,8 @@ Lecturer:
 
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
+* [An open standard for sound, interoperable JavaScript promises—by implementers, for implementers](https://promisesaplus.com/)
+
 <br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
