@@ -1537,6 +1537,8 @@ Lecturer:
 
 * [Филипп Робертс: Что за чертовщина такая event loop? (0h 27m)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
+* [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+
 <br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
