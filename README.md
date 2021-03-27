@@ -91,6 +91,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.9** [Lection 9. Sync & Async](#task29)
 
+- [x] [Promise - AMA session](#task30)
+
 ---
 ---
 
