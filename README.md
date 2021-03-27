@@ -93,6 +93,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] [Promise - AMA session](#task30)
 
+- [x] **1.10** [Lection 10. Асинхронность в JS. Зачем и как. Промисы и асинхронные функции.](#task31)
+
 ---
 ---
 
@@ -1555,6 +1557,33 @@ Lecturer:
 [Christina Landvytovych](https://github.com/Croftyland)
 
 #### [Video of Lection (1h 40m)](https://www.youtube.com/watch?v=pJGNTEGgJUA)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 10. Асинхронность в JS. Зачем и как. Промисы и асинхронные функции.` <span id="task29"></span>
+
+Lecturer:
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+
+#### [Video of Lection (1h 35m)](https://www.youtube.com/watch?v=VVj252jlwpI)
+
+#### Additional materials:
+
+[We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+
+[Обещание бургерной вечеринки](https://medium.com/web-standards/%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D0%BD%D0%BE%D0%B9-%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%B8%D0%BD%D0%BA%D0%B8-b0ed209809ab)
+
+[Async functions - making promises friendly](https://developers.google.com/web/fundamentals/primers/async-functions)
+
+[Promise API workshop](https://github.com/kottans/promise-api-workshop)
+
+[async / await in JavaScript - What, Why and How - Fun Fun Function](https://www.youtube.com/watch?v=568g8hxJJp4)
+
+[Error handling Promises in JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=f8IgdnYIwOU)
 
 <br>
 
