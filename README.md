@@ -1548,3 +1548,16 @@ Lecturer:
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
+
+## `Promise - AMA session` <span id="task30"></span>
+
+Lecturer:
+[Christina Landvytovych](https://github.com/Croftyland)
+
+#### [Video of Lection (1h 40m)](https://www.youtube.com/watch?v=pJGNTEGgJUA)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
