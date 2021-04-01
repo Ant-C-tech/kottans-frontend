@@ -95,6 +95,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **1.10** [Lection 10. Асинхронность в JS. Зачем и как. Промисы и асинхронные функции.](#task31)
 
+- [x] [Асинхронность: сессия ответов на вопросы - AMA session](#task32)
+
 ---
 ---
 
@@ -1584,6 +1586,31 @@ Lecturer:
 [async / await in JavaScript - What, Why and How - Fun Fun Function](https://www.youtube.com/watch?v=568g8hxJJp4)
 
 [Error handling Promises in JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=f8IgdnYIwOU)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Асинхронность: сессия ответов на вопросы - AMA session` <span id="task32"></span>
+
+Lecturer:
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+
+#### [Video of Lection (1h 08m)](https://www.youtube.com/watch?v=CcC6G2JYwxg)
+
+#### Additional materials:
+
+[AbortController](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
+
+[Atomics](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics)
+
+[ES proposal: Shared memory and atomics](https://2ality.com/2017/01/shared-array-buffer.html)
+
+[Асинхронное программирование в Node.js и JavaScript - Тимур Шемсединов](https://www.youtube.com/watch?v=hY6Z6qNYzmc&list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T&t=0s)
+
+[Iterators & Generators](https://www.youtube.com/watch?v=-lBjpcC7Jcg&t=0s)
 
 <br>
 
