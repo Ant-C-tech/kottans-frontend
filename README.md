@@ -97,6 +97,9 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] [Асинхронность: сессия ответов на вопросы - AMA session](#task32)
 
+- [x] **1.11** [Lection 11. Итераторы и генераторы. Map, Set.](#task33)
+
+
 ---
 ---
 
@@ -1353,6 +1356,8 @@ Lecturer:
 
 #### [Text of Lection](https://www.notion.so/1-9a83cb1f515a453982bb3cd20dcd33b0)
 
+#### [Alternative Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection5/lection5.html)
+
 #### [Slides for Lection](https://slides.com/antonchyvikov/scope-closure)
 
 <br>
@@ -1414,6 +1419,8 @@ Lecturer:
 #### [Video of Lection (2h 02m)](https://www.youtube.com/watch?v=CuEErkIQP5c&feature=youtu.be)
 
 #### [Text of Lection](https://github.com/yaripey/kottans-fe-compendium/blob/master/lections/lection6/lection6.md)
+
+#### [Alternative Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection6/lection6.html)
 
 #### Materials for lection:
 
@@ -1505,6 +1512,8 @@ Lecturer:
 
 #### [Video of Lection (1h 15m)](https://www.youtube.com/watch?v=Puj4cB7dY-E)
 
+#### [Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection8/lection8.html)
+
 #### Materials for lection:
 
 * [JavaScript Types: Intro (0h 12m)](https://www.youtube.com/watch?v=pM-i8dKB_F0)
@@ -1539,6 +1548,8 @@ Lecturer:
 
 #### [Video of Lection. Part 2 (1h 23m)](https://www.youtube.com/watch?v=BcHwMykiqTc)
 
+#### [Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection9/lection9.html)
+
 #### Materials for lection:
 
 * [Филипп Робертс: Что за чертовщина такая event loop? (0h 27m)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
@@ -1566,12 +1577,14 @@ Lecturer:
 
 ---
 
-## `Lection 10. Асинхронность в JS. Зачем и как. Промисы и асинхронные функции.` <span id="task29"></span>
+## `Lection 10. Асинхронность в JS. Зачем и как. Промисы и асинхронные функции.` <span id="task31"></span>
 
 Lecturer:
 [Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
 
 #### [Video of Lection (1h 35m)](https://www.youtube.com/watch?v=VVj252jlwpI)
+
+#### [Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection10/lection10.html)
 
 #### Additional materials:
 
@@ -1611,6 +1624,21 @@ Lecturer:
 [Асинхронное программирование в Node.js и JavaScript - Тимур Шемсединов](https://www.youtube.com/watch?v=hY6Z6qNYzmc&list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T&t=0s)
 
 [Iterators & Generators](https://www.youtube.com/watch?v=-lBjpcC7Jcg&t=0s)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 11. Итераторы и генераторы. Map, Set.` <span id="task33"></span>
+
+Lecturer:
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+
+#### [Video of Lection (1h 47m)](https://www.youtube.com/watch?v=J7wiiAd01io)
+
+#### [Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection11/lection11.html)
 
 <br>
 
