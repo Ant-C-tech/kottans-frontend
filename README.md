@@ -73,32 +73,35 @@ For each article, you are required to read please post the answers to the follow
 
 ### `Module 2. YDKJS`
 
-- [x] **1.5** [Lection 5. Scope. Execution context. Hoisting. Closure](#task21)
+- [x] **2.1** [Lection 5. Scope. Execution context. Hoisting. Closure](#task21)
 
 - [x] [Scope/Closure discussion - AMA session](#task22)
 
 - [x] [Ревью задач серии JS OOP - AMA session](#task23)
 
-- [x] **1.6** [Lection 6. Objects & this](#task24)
+- [x] **2.2** [Lection 6. Objects & this](#task24)
 
 - [x] [Objects & this - AMA session](#task25)
 
-- [x] **1.7** [Lection 7. Prototype](#task26)
+- [x] **2.3** [Lection 7. Prototype](#task26)
 
-- [x] **1.8** [Lection 8. Types in JavaScript](#task27)
+- [x] **2.4** [Lection 8. Types in JavaScript](#task27)
 
 - [x] [Type Coercion - AMA session](#task28)
 
-- [x] **1.9** [Lection 9. Sync & Async](#task29)
+- [x] **2.5** [Lection 9. Sync & Async](#task29)
 
 - [x] [Promise - AMA session](#task30)
 
-- [x] **1.10** [Lection 10. Асинхронность в JS. Зачем и как. Промисы и асинхронные функции.](#task31)
+- [x] **2.6** [Lection 10. Асинхронность в JS. Зачем и как. Промисы и асинхронные функции.](#task31)
 
 - [x] [Асинхронность: сессия ответов на вопросы - AMA session](#task32)
 
-- [x] **1.11** [Lection 11. Итераторы и генераторы. Map, Set.](#task33)
+- [x] **2.7** [Lection 11. Итераторы и генераторы. Map, Set.](#task33)
 
+### `Module 3. Framework`
+
+- [x] **3.1** [Lection 12. Введение.](#task34)
 
 ---
 ---
@@ -1639,6 +1642,27 @@ Lecturer:
 #### [Video of Lection (1h 47m)](https://www.youtube.com/watch?v=J7wiiAd01io)
 
 #### [Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection11/lection11.html)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+<h2 align="center">Module 3. Framework</h2>
+
+---
+
+## `Lection 12. Введение.` <span id="task34"></span>
+
+Lecturer:
+[Nikita Shulipa](https://www.linkedin.com/in/nktssh/)
+
+#### [Video of Lection (1h 02m)](https://www.youtube.com/watch?v=yrQFB0o9-7s)
+
+#### [Slides for Lection](https://docs.google.com/presentation/d/11HE11G2gs4wajsPmDqHb7R6uomKjLoxp-ESDIyWwbbs/edit#slide=id.p)
+
+#### [Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection12/lection12.html)
 
 <br>
 
