@@ -1523,6 +1523,10 @@ Lecturer:
 
 * [Natives: встроенные глобальные объекты (0h 12m)](https://www.youtube.com/watch?v=gbsjdst4hWU)
 
+#### Additional materials:
+
+You Don't Know JS Yet: Types and grammar constructions
+
 <br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
@@ -1560,6 +1564,10 @@ Lecturer:
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
 * [An open standard for sound, interoperable JavaScript promises—by implementers, for implementers](https://promisesaplus.com/)
+
+#### Additional materials:
+
+You Don't Know JS Yet: Asynchronous processing and optimization
 
 <br>
 
@@ -1642,6 +1650,10 @@ Lecturer:
 #### [Video of Lection (1h 47m)](https://www.youtube.com/watch?v=J7wiiAd01io)
 
 #### [Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection11/lection11.html)
+
+#### Additional materials:
+
+You Don't Know JS Yet: ES6 and not only
 
 <br>
 
