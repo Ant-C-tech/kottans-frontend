@@ -103,6 +103,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **3.1** [Lection 12. Введение.](#task34)
 
+- [x] **3.2** [Lection 13. MVP, основа приложения.](#task35)
+
 ---
 ---
 
@@ -1675,6 +1677,35 @@ Lecturer:
 #### [Slides for Lection](https://docs.google.com/presentation/d/11HE11G2gs4wajsPmDqHb7R6uomKjLoxp-ESDIyWwbbs/edit#slide=id.p)
 
 #### [Text of Lection](https://yaripey.github.io/kottans-fe-compendium/lections/lection12/lection12.html)
+
+### `Practical task`
+
+* Выбрать тематику приложения, для которого есть (уже написано) API.
+* Написать требования к приложению в виде списка фич, реализуемых вами за вменяемую единицу времени (помните пункт про последовательное улучшение a.k.a. переписывание своего приложения?
+* Создать репозиторий с файлом readme.md на github.com, куда выложить требования списком, в порядке убывания важности.
+* Нельзя брать идею приложения для прогноза погоды!
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 13. MVP, основа приложения.` <span id="task35"></span>
+
+Lecturer:
+[Nikita Shulipa](https://www.linkedin.com/in/nktssh/)
+
+#### [Video of Lection (2h 06m)](https://www.youtube.com/watch?v=qx6MhWqDV1g)
+
+#### [Slides for Lection](https://docs.google.com/presentation/d/1vm5-inqvYK6NVjtIg5KTfabvrV2cBT1zYzPLENWVEdA/edit)
+
+#### [Text of Lection](https://github.com/yaripey/kottans-fe-compendium/blob/master/lections/lection13/lection13.md)
+
+### `Practical task`
+
+* Взять 3-4 первые фичи из вашего списка, отсортированного по убыванию важности.
+* Придумать для них общий UI и написать реализацию (MVP) приложения на чистом JS, используя компонентный подход.
 
 <br>
 
