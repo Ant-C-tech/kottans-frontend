@@ -105,6 +105,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **3.2** [Lection 13. MVP, основа приложения.](#task35)
 
+- [x] [MVP, основа приложения - AMA session](#task36)
+
 ---
 ---
 
@@ -1706,6 +1708,19 @@ Lecturer:
 
 * Взять 3-4 первые фичи из вашего списка, отсортированного по убыванию важности.
 * Придумать для них общий UI и написать реализацию (MVP) приложения на чистом JS, используя компонентный подход.
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `MVP, основа приложения - AMA session` <span id="task36"></span>
+
+Lecturer:
+[Nikita Shulipa](https://www.linkedin.com/in/nktssh/)
+
+#### [Video of Lection (0h 49m)](https://www.youtube.com/watch?v=gzobJbowOs8)
 
 <br>
 
