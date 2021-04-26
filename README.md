@@ -1,6 +1,7 @@
 <h1 id="contents" align="center">Front-End Course. Contents</h1>
 
 ---
+
 ---
 
 # `Stage 0. Self-Study`
@@ -11,9 +12,9 @@
 
 For each article, you are required to read please post the answers to the following questions in your respective repo. Don't worry, your answers will not be graded. It's just a way to reflect on what you have learned.
 
-* name (at least) one thing that was new to you
-* name (at least) one thing that surprised you
-* name (at least) one thing you intend to use in the future
+- name (at least) one thing that was new to you
+- name (at least) one thing that surprised you
+- name (at least) one thing you intend to use in the future
 
 ---
 
@@ -109,13 +110,16 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **3.3** [Lection 14. Коммуникация с сервером.](#task37)
 
+- [x] [Коммуникация с сервером - AMA session](#task38)
 
 ---
+
 ---
 
 <h2 align="center">Stage 0. Self-Study:</h2>
 
 ---
+
 ---
 
 <h3 align="center">General</h3>
@@ -593,6 +597,7 @@ A visual way to get an understanding of how CSS Specificity works, and how you c
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 
 ##### My comment:
+
 I used to made dropdown menu with pure css but it was the first time when this technique seems to me very convenient. It was a good practice.
 Again I did not pay my attention to notice from tutors). They said "Make sure you've added empty lines in each file from your PR - reason. If you forget to add an empty line at the end of the file GitHub will show it:". So, I had some problem with my pull request.
 
@@ -774,6 +779,7 @@ Unfortunately, I have spent too much time for this task. Let's accelerating! I w
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
 
 ##### My comment:
+
 I've made this task even though I not fully understand entire idea of this tiny world yet. Maybe that was a cause of some difficulties with this task. I want to thanks Oleksiy Rudenko for his review - strictly but fair). Every code review make my code better.
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr3.jpg">](https://ant-c-tech.github.io/a-tiny-JS-world/)
@@ -834,6 +840,7 @@ With this task I got a set of articles that helped me to start my way in OOP. It
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
 
 ##### My comment:
+
 In fact, the "Tiny JS world" and its "Post-OOP" part for me was the most difficult task in this course. Sometimes the hope that one day I will finally do it properly left me. Anyway, I understand that my solution for this task was approve as in advance and I will try to work more hardly to comprehend this Zen in my next steps. I want to thanks Oleksiy Rudenko for his reviews and patient in work with my code.
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr3.jpg">](https://ant-c-tech.github.io/a-tiny-JS-world/)
@@ -871,6 +878,7 @@ In fact, the "Tiny JS world" and its "Post-OOP" part for me was the most difficu
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
 
 ##### My comment:
+
 I thank Maksym Kalashnyk for his time and work with my code. Code review is very important for me and always makes my code better.
 Having pay attention to his notices about using event delegation and template strings, I tried to implement them both by reconstruction my app. I hope that this deep changes didn't make his work harder with checking my code.
 
@@ -967,6 +975,7 @@ The technique of choosing between the "async" and "defer" attributes of the "scr
 #### [Requirements](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md)
 
 ##### My comment:
+
 When I was starting to do this task I have remembered that I have always wanted to try some library with google like styles and some basic functionality. I have chosen MaterializeCss and it was the biggest mistake. Those problems that I have got did not cost it. When I was finishing my work with this task I have noticed, that I almost did not use any possibility of this library because I just did not need them instead I have many troubles with positioning elements with float that use MaterializeCss. Long story short "Never again".
 I want to thank Ivan Tytarenko for his time and work with review of my code. I have tried to make all changes according his notices and video of AMA helped me very much. It was forgetless experience for me and I am sure that it gave me huge new knowledges that I did not have before.
 
@@ -991,11 +1000,13 @@ In the course I liked a thorough approach to the selection of material - a huge 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
 
 ---
+
 ---
 
 <h1 align="center">Kottans Frontend 2021</h1>
 
 ---
+
 ---
 
 <h2 align="center">Module 1. HTML/CSS JS DOM</h2>
@@ -1019,51 +1030,51 @@ Lecturer:
 
 ##### HTML
 
-* [Memorandum of Understanding Between W3C and WHATWG](https://www.w3.org/2019/04/WHATWG-W3C-MOU.html)
+- [Memorandum of Understanding Between W3C and WHATWG](https://www.w3.org/2019/04/WHATWG-W3C-MOU.html)
 
-* [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
 
-* [Простые правила разметки](http://yoksel.github.io/easy-markup/first-steps/):
+- [Простые правила разметки](http://yoksel.github.io/easy-markup/first-steps/):
 
 Разметка страницы может быть непростым занятием, особенно поначалу. Какой тег выбрать? Какой класс добавить? Какой должна быть разметка, чтобы стили одного элемента не поломали другой?
 
 На все эти случаи есть простые правила, следуя которым вы сможете писать легко писать чистый, хорошо структурированный HTML-код, который будет удобно читать и приятно поддерживать.
 
-* [Markup Validation Service](https://validator.w3.org/#validate_by_uri)
+- [Markup Validation Service](https://validator.w3.org/#validate_by_uri)
 
-* [Can I Include](https://caninclude.glitch.me/)
+- [Can I Include](https://caninclude.glitch.me/)
 
-* [Генератор HTML-дерева](https://yoksel.github.io/html-tree/)
+- [Генератор HTML-дерева](https://yoksel.github.io/html-tree/)
 
 ##### CSS
 
-* [Cascading Style Sheets](https://www.w3.org/Style/CSS/)
+- [Cascading Style Sheets](https://www.w3.org/Style/CSS/)
 
-* [«Блочных и строчных элементов» в HTML больше нет](https://css-live.ru/articles/blochnyx-i-strochnyx-elementov-v-html-bolshe-net.html)
+- [«Блочных и строчных элементов» в HTML больше нет](https://css-live.ru/articles/blochnyx-i-strochnyx-elementov-v-html-bolshe-net.html)
 
-* [Kinds of content - instead of "inline" and "block"](https://html.spec.whatwg.org/multipage/dom.html#kinds-of-content)
+- [Kinds of content - instead of "inline" and "block"](https://html.spec.whatwg.org/multipage/dom.html#kinds-of-content)
 
-* [Reset CSS](https://cssdeck.com/blog/scripts/html5-doctor-css-reset-stylesheet/)
+- [Reset CSS](https://cssdeck.com/blog/scripts/html5-doctor-css-reset-stylesheet/)
 
-* [Normalize.css](https://necolas.github.io/normalize.css/)
+- [Normalize.css](https://necolas.github.io/normalize.css/)
 
-* [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words/)
+- [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words/)
 
-* [Specificity Calculator](https://specificity.keegan.st/)
+- [Specificity Calculator](https://specificity.keegan.st/)
 
-* [Удивительный и неизвестный inline-block](https://css-live.ru/articles-css/udivitelnyj-i-neizvestnyj-inline-block.html)
+- [Удивительный и неизвестный inline-block](https://css-live.ru/articles-css/udivitelnyj-i-neizvestnyj-inline-block.html)
 
-* [When do you use inline-block?](https://css-tricks.com/when-do-you-use-inline-block/)
+- [When do you use inline-block?](https://css-tricks.com/when-do-you-use-inline-block/)
 
-* [What The Flexbox?! - Wes Bos - course](https://flexbox.io/)
+- [What The Flexbox?! - Wes Bos - course](https://flexbox.io/)
 
-* [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-* [Things I’ve Learned About CSS Grid Layout](https://css-tricks.com/things-ive-learned-css-grid-layout/)
+- [Things I’ve Learned About CSS Grid Layout](https://css-tricks.com/things-ive-learned-css-grid-layout/)
 
-* [Grid by Example. Everything you need to learn CSS Grid Layout](https://gridbyexample.com/)
+- [Grid by Example. Everything you need to learn CSS Grid Layout](https://gridbyexample.com/)
 
-* [CSS Grid - Wes Bos - course](https://www.youtube.com/watch?v=T-slCsOrLcc&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG&ab_channel=WesBos)
+- [CSS Grid - Wes Bos - course](https://www.youtube.com/watch?v=T-slCsOrLcc&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG&ab_channel=WesBos)
 
 <br>
 
@@ -1094,120 +1105,119 @@ Lecturer:
 
 ##### Graphiсs on the Web
 
-* [Как отличить контентное изображение от декоративного](https://htmlacademy.ru/blog/education/all/content-or-decor-img)
+- [Как отличить контентное изображение от декоративного](https://htmlacademy.ru/blog/education/all/content-or-decor-img)
 
-* [The Image Embed element](https://developer.mozilla.org/en-us/docs/Web/HTML/Element/img)
+- [The Image Embed element](https://developer.mozilla.org/en-us/docs/Web/HTML/Element/img)
 
-* [The Picture element](https://developer.mozilla.org/en-us/docs/Web/HTML/Element/picture)
+- [The Picture element](https://developer.mozilla.org/en-us/docs/Web/HTML/Element/picture)
 
-* [The Figure with Optional Caption element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+- [The Figure with Optional Caption element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 
-* [Letting the browser pick the most appropriate CSS image from a given set](https://developer.mozilla.org/en-US/docs/Web/CSS/image-set())
+- [Letting the browser pick the most appropriate CSS image from a given set](<https://developer.mozilla.org/en-US/docs/Web/CSS/image-set()>)
 
+- [AVIF has landed](https://jakearchibald.com/2020/avif-has-landed/)
 
-* [AVIF has landed](https://jakearchibald.com/2020/avif-has-landed/)
+- [Browser-level image lazy-loading for the web](https://web.dev/browser-level-image-lazy-loading/)
 
-* [Browser-level image lazy-loading for the web](https://web.dev/browser-level-image-lazy-loading/)
+- [Using Intersection Observer as a custom lazy-loading](https://web.dev/lazy-loading-images/#images-inline-intersection-observer)
 
-* [Using Intersection Observer as a custom lazy-loading](https://web.dev/lazy-loading-images/#images-inline-intersection-observer)
+- [Using event handlers for Internet Explorer support](https://web.dev/lazy-loading-images/#images-inline-event-handlers)
 
-* [Using event handlers for Internet Explorer support](https://web.dev/lazy-loading-images/#images-inline-event-handlers)
+- [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
 
-* [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+- [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/)
 
-* [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/)
+- [Задавать Height и Width для изображений снова важно](https://habr.com/ru/post/524918/)
 
-* [Задавать Height и Width для изображений снова важно](https://habr.com/ru/post/524918/)
+- [The aspect-ratio CSS media feature](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/aspect-ratio)
 
-* [The aspect-ratio CSS media feature](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/aspect-ratio)
-
-* [Картинки как коробки — что внутри? Доклад в Яндексе](https://habr.com/ru/company/yandex/blog/493616/)
+- [Картинки как коробки — что внутри? Доклад в Яндексе](https://habr.com/ru/company/yandex/blog/493616/)
 
 ##### HTML \<FORM>
 
-* [The form element - specification](https://html.spec.whatwg.org/multipage/forms.html#the-form-element)
+- [The form element - specification](https://html.spec.whatwg.org/multipage/forms.html#the-form-element)
 
-* [Input type = ''text'' native validation](https://codepen.io/a-ostrovnyy/pen/BvKebM?editors=1100)
+- [Input type = ''text'' native validation](https://codepen.io/a-ostrovnyy/pen/BvKebM?editors=1100)
 
-* [Input type = ''email'' native validation](https://codepen.io/a-ostrovnyy/pen/zyqQmK?editors=1100)
+- [Input type = ''email'' native validation](https://codepen.io/a-ostrovnyy/pen/zyqQmK?editors=1100)
 
-* [Input type = ''password'' native validation](https://codepen.io/a-ostrovnyy/pen/KbroWV?editors=1000)
+- [Input type = ''password'' native validation](https://codepen.io/a-ostrovnyy/pen/KbroWV?editors=1000)
 
-* [The select element - specification](https://html.spec.whatwg.org/multipage/form-elements.html#the-select-element)
+- [The select element - specification](https://html.spec.whatwg.org/multipage/form-elements.html#the-select-element)
 
-* [Custom select label](https://codepen.io/a-ostrovnyy/pen/roaXVa?editors=1100)
+- [Custom select label](https://codepen.io/a-ostrovnyy/pen/roaXVa?editors=1100)
 
-* [Input type = ''file'' - specification](https://html.spec.whatwg.org/multipage/input.html#file-upload-state-(type=file))
+- [Input type = ''file'' - specification](<https://html.spec.whatwg.org/multipage/input.html#file-upload-state-(type=file)>)
 
-* [Custom input type =' 'file''](https://codepen.io/a-ostrovnyy/pen/VqYKoq)
+- [Custom input type =' 'file''](https://codepen.io/a-ostrovnyy/pen/VqYKoq)
 
-* [Input type = ''radio'' - specification](https://html.spec.whatwg.org/multipage/input.html#radio-button-state-(type%3Dradio))
+- [Input type = ''radio'' - specification](<https://html.spec.whatwg.org/multipage/input.html#radio-button-state-(type%3Dradio)>)
 
-* [Custom input type = ''radio''](https://codepen.io/a-ostrovnyy/pen/roNRyE)
+- [Custom input type = ''radio''](https://codepen.io/a-ostrovnyy/pen/roNRyE)
 
-* [Custom input type = ''checkbox''](https://codepen.io/a-ostrovnyy/pen/WLbwxG?editors=1100#0)
+- [Custom input type = ''checkbox''](https://codepen.io/a-ostrovnyy/pen/WLbwxG?editors=1100#0)
 
-* [Input type = ''range'' - specification](https://html.spec.whatwg.org/multipage/input.html#range-state-(type%3Drange))
+- [Input type = ''range'' - specification](<https://html.spec.whatwg.org/multipage/input.html#range-state-(type%3Drange)>)
 
-* [Custom input type = ''range''](https://codepen.io/a-ostrovnyy/pen/zyGqQm?editors=1100#0)
+- [Custom input type = ''range''](https://codepen.io/a-ostrovnyy/pen/zyGqQm?editors=1100#0)
 
 ##### Accessibility
 
-* [W3C Accessibility Guidelines (WCAG) 3.0](https://www.w3.org/TR/wcag-3.0/)
+- [W3C Accessibility Guidelines (WCAG) 3.0](https://www.w3.org/TR/wcag-3.0/)
 
-* [WCAG 3 Introduction](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
+- [WCAG 3 Introduction](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
 
-* [Что но­во­го в WCAG 3.0](https://web-standards.ru/articles/wcag3-changes/)
+- [Что но­во­го в WCAG 3.0](https://web-standards.ru/articles/wcag3-changes/)
 
-* [Notes on ARIA Use in HTML](https://www.w3.org/TR/using-aria/#NOTES)
+- [Notes on ARIA Use in HTML](https://www.w3.org/TR/using-aria/#NOTES)
 
-* [Using ARIA: Roles, states, and properties](https://developer.mozilla.org/en-us/docs/Web/Accessibility/ARIA/ARIA_Techniques)
+- [Using ARIA: Roles, states, and properties](https://developer.mozilla.org/en-us/docs/Web/Accessibility/ARIA/ARIA_Techniques)
 
-* [The tabindex global attribute](https://developer.mozilla.org/en-us/docs/Web/HTML/Global_attributes/tabindex)
+- [The tabindex global attribute](https://developer.mozilla.org/en-us/docs/Web/HTML/Global_attributes/tabindex)
 
-* [Accordion Example acc. WCAG](https://w3c.github.io/aria-practices/examples/accordion/accordion.html)
+- [Accordion Example acc. WCAG](https://w3c.github.io/aria-practices/examples/accordion/accordion.html)
 
-* [Breadcrumb Example acc. WCAG](https://w3c.github.io/aria-practices/examples/accordion/accordion.html)
+- [Breadcrumb Example acc. WCAG](https://w3c.github.io/aria-practices/examples/accordion/accordion.html)
 
-* [Modal Dialog Example acc. WCAG](https://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
+- [Modal Dialog Example acc. WCAG](https://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
 
-* [Navigation Menu Button Example acc. WCAG](https://w3c.github.io/aria-practices/examples/menu-button/menu-button-links.html)
+- [Navigation Menu Button Example acc. WCAG](https://w3c.github.io/aria-practices/examples/menu-button/menu-button-links.html)
 
-* [Scrollable Listbox Example acc. WCAG](https://w3c.github.io/aria-practices/examples/listbox/listbox-scrollable.html)
+- [Scrollable Listbox Example acc. WCAG](https://w3c.github.io/aria-practices/examples/listbox/listbox-scrollable.html)
 
-* [Example of Tabs with Automatic Activation acc. WCAG](https://w3c.github.io/aria-practices/examples/tabs/tabs-1/tabs.html)
+- [Example of Tabs with Automatic Activation acc. WCAG](https://w3c.github.io/aria-practices/examples/tabs/tabs-1/tabs.html)
 
-* [Example of Tabs with Manual Activation acc. WCAG](https://w3c.github.io/aria-practices/examples/tabs/tabs-2/tabs.html)
+- [Example of Tabs with Manual Activation acc. WCAG](https://w3c.github.io/aria-practices/examples/tabs/tabs-2/tabs.html)
 
-* [Как помочь слепым на вашем сайте](https://weblind.ru/)
+- [Как помочь слепым на вашем сайте](https://weblind.ru/)
 
-* [Inclusive Components](https://inclusive-components.design/)
+- [Inclusive Components](https://inclusive-components.design/)
 
-* [WAI-ARIA Authoring Practices 1.2](https://w3c.github.io/aria-practices/)
+- [WAI-ARIA Authoring Practices 1.2](https://w3c.github.io/aria-practices/)
 
 ##### Work with content
 
-* [The overflow-wrap CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap)
+- [The overflow-wrap CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap)
 
 CSS свойство overflow-wrap применяется к строковым элементам, устанавливая должен ли браузер расставлять переносы строк внутри неразрывной строки, чтобы избежать выхода текста за границы элемента.
 
-* [The hyphens CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
+- [The hyphens CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
 
 CSS свойство hyphens указывает, как следует переносить слова через дефис, когда текст переносится на несколько строк. Оно может полность запретить перенос, делать перенос в местах, заданных вручную или позволять браузеру автоматически расставлять переносы, где это необходимо.
 
-* [Line Clampin’ (Truncating Multiple Line Text)](https://css-tricks.com/line-clampin/)
+- [Line Clampin’ (Truncating Multiple Line Text)](https://css-tricks.com/line-clampin/)
 
 ##### More useful links for Web Development
 
-* [CSS Triks](https://css-tricks.com/)
+- [CSS Triks](https://css-tricks.com/)
 
-* [Веб-стандарты. Сообщество разработчиков](https://web-standards.ru/)
+- [Веб-стандарты. Сообщество разработчиков](https://web-standards.ru/)
 
-* [Дайджест свежих материалов из мира фронтенда за последнюю неделю](https://habr.com/ru/post/538972/)
+- [Дайджест свежих материалов из мира фронтенда за последнюю неделю](https://habr.com/ru/post/538972/)
 
-* [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
 
-* [The online studio of Ahmad Shadeed](https://ishadeed.com/)
+- [The online studio of Ahmad Shadeed](https://ishadeed.com/)
 
 <br>
 
@@ -1246,7 +1256,7 @@ The WebSocket API is an advanced technology that makes it possible to open a two
 
 CSS counters let you adjust the appearance of content based on its location in a document.
 
-[The attr() CSS function](https://developer.mozilla.org/en-US/docs/Web/CSS/attr())
+[The attr() CSS function](<https://developer.mozilla.org/en-US/docs/Web/CSS/attr()>)
 
 The attr() CSS function is used to retrieve the value of an attribute of the selected element and use it in the stylesheet. It can also be used on pseudo-elements, in which case the value of the attribute on the pseudo-element's originating element is returned.
 
@@ -1337,7 +1347,7 @@ Lecturer:
 
 ###### Завдання із зірочкою(не обов’язково)
 
-**1**. Створити кнопку підтвердження  та модальне вікно.
+**1**. Створити кнопку підтвердження та модальне вікно.
 
 **2**. В модальному вікні показати кількість мість та їхню суму
 
@@ -1404,7 +1414,6 @@ Lecturer:
 Lecturers:
 [Oleksiy Rudenko](https://www.linkedin.com/in/oleksiyrudenko/)
 
-
 #### [Video of Lection (1h 44m)](https://www.youtube.com/watch?v=nqJ5AlibLlI)
 
 <br>
@@ -1434,15 +1443,15 @@ Lecturer:
 
 #### Materials for lection:
 
-* [Intro (0h 03m)](https://www.youtube.com/watch?v=vBZ_sAdtT1M&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=10)
+- [Intro (0h 03m)](https://www.youtube.com/watch?v=vBZ_sAdtT1M&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=10)
 
-* [Object props (0h 12m)](https://www.youtube.com/watch?v=mIXdx7hSwIk&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=11)
+- [Object props (0h 12m)](https://www.youtube.com/watch?v=mIXdx7hSwIk&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=11)
 
-* [Property descriptors (0h 11m)](https://www.youtube.com/watch?v=1CNa1_tfS5U&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=12)
+- [Property descriptors (0h 11m)](https://www.youtube.com/watch?v=1CNa1_tfS5U&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=12)
 
-* [Object creation (0h 15m)](https://www.youtube.com/watch?v=KJYW-TTrJxE&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=13)
+- [Object creation (0h 15m)](https://www.youtube.com/watch?v=KJYW-TTrJxE&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=13)
 
-* [This & execution context (0h 21m)](https://www.youtube.com/watch?v=gsd2RE7lP00&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=14)
+- [This & execution context (0h 21m)](https://www.youtube.com/watch?v=gsd2RE7lP00&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=14)
 
 <br>
 
@@ -1526,9 +1535,9 @@ Lecturer:
 
 #### Materials for lection:
 
-* [JavaScript Types: Intro (0h 12m)](https://www.youtube.com/watch?v=pM-i8dKB_F0)
+- [JavaScript Types: Intro (0h 12m)](https://www.youtube.com/watch?v=pM-i8dKB_F0)
 
-* [Natives: встроенные глобальные объекты (0h 12m)](https://www.youtube.com/watch?v=gbsjdst4hWU)
+- [Natives: встроенные глобальные объекты (0h 12m)](https://www.youtube.com/watch?v=gbsjdst4hWU)
 
 #### Additional materials:
 
@@ -1566,11 +1575,11 @@ Lecturer:
 
 #### Materials for lection:
 
-* [Филипп Робертс: Что за чертовщина такая event loop? (0h 27m)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Филипп Робертс: Что за чертовщина такая event loop? (0h 27m)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-* [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
-* [An open standard for sound, interoperable JavaScript promises—by implementers, for implementers](https://promisesaplus.com/)
+- [An open standard for sound, interoperable JavaScript promises—by implementers, for implementers](https://promisesaplus.com/)
 
 #### Additional materials:
 
@@ -1685,10 +1694,10 @@ Lecturer:
 
 ### `Practical task`
 
-* Выбрать тематику приложения, для которого есть (уже написано) API.
-* Написать требования к приложению в виде списка фич, реализуемых вами за вменяемую единицу времени (помните пункт про последовательное улучшение a.k.a. переписывание своего приложения?
-* Создать репозиторий с файлом readme.md на github.com, куда выложить требования списком, в порядке убывания важности.
-* Нельзя брать идею приложения для прогноза погоды!
+- Выбрать тематику приложения, для которого есть (уже написано) API.
+- Написать требования к приложению в виде списка фич, реализуемых вами за вменяемую единицу времени (помните пункт про последовательное улучшение a.k.a. переписывание своего приложения?
+- Создать репозиторий с файлом readme.md на github.com, куда выложить требования списком, в порядке убывания важности.
+- Нельзя брать идею приложения для прогноза погоды!
 
 <br>
 
@@ -1709,8 +1718,8 @@ Lecturer:
 
 ### `Practical task`
 
-* Взять 3-4 первые фичи из вашего списка, отсортированного по убыванию важности.
-* Придумать для них общий UI и написать реализацию (MVP) приложения на чистом JS, используя компонентный подход.
+- Взять 3-4 первые фичи из вашего списка, отсортированного по убыванию важности.
+- Придумать для них общий UI и написать реализацию (MVP) приложения на чистом JS, используя компонентный подход.
 
 <br>
 
@@ -1739,6 +1748,21 @@ Lecturer:
 #### [Video of Lection (1h 07m)](https://www.youtube.com/watch?v=Q27TVN3OUi8)
 
 #### [Slides for Lection](https://docs.google.com/presentation/d/1jMdmyQ44Ht34BBE_LwAAZIVC1R3klycugvn5R8IrOsc/edit#slide=id.g8d769a31cb_0_0)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Коммуникация с сервером - AMA session.` <span id="task38"></span>
+
+Lecturer:
+[Oleksiy Rudenko](https://www.linkedin.com/in/oleksiyrudenko/)
+[Anastasiya Mashoshyna](https://www.linkedin.com/in/anastasiya-mashoshyna-33711682/)
+[Ivan Tytarenko](https://www.linkedin.com/in/ititarenko/)
+
+#### [Video of Lection (1h 05m)](https://www.youtube.com/watch?v=AU2YiSt6lR8)
 
 <br>
 
