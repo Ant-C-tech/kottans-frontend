@@ -107,6 +107,9 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] [MVP, основа приложения - AMA session](#task36)
 
+- [x] **3.3** [Lection 14. Коммуникация с сервером.](#task37)
+
+
 ---
 ---
 
@@ -1715,12 +1718,27 @@ Lecturer:
 
 ---
 
-## `MVP, основа приложения - AMA session` <span id="task36"></span>
+## `MVP, основа приложения - AMA session.` <span id="task36"></span>
 
 Lecturer:
 [Nikita Shulipa](https://www.linkedin.com/in/nktssh/)
 
 #### [Video of Lection (0h 49m)](https://www.youtube.com/watch?v=gzobJbowOs8)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 14.Коммуникация с сервером.` <span id="task37"></span>
+
+Lecturer:
+[Nikita Shulipa](https://www.linkedin.com/in/nktssh/)
+
+#### [Video of Lection (1h 07m)](https://www.youtube.com/watch?v=Q27TVN3OUi8)
+
+#### [Slides for Lection](https://docs.google.com/presentation/d/1jMdmyQ44Ht34BBE_LwAAZIVC1R3klycugvn5R8IrOsc/edit#slide=id.g8d769a31cb_0_0)
 
 <br>
 
