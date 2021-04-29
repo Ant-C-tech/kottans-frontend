@@ -106,11 +106,13 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **3.2** [Lection 13. MVP, основа приложения.](#task35)
 
-- [x] [MVP, основа приложения - AMA session](#task36)
+- [x] [MVP, основа приложения. - AMA session](#task36)
 
 - [x] **3.3** [Lection 14. Коммуникация с сервером.](#task37)
 
-- [x] [Коммуникация с сервером - AMA session](#task38)
+- [x] [Коммуникация с сервером. Part 1. - AMA session](#task38)
+
+- [x] [Коммуникация с сервером. Part 2. - AMA session](#task39)
 
 ---
 
@@ -1755,7 +1757,7 @@ Lecturer:
 
 ---
 
-## `Коммуникация с сервером - AMA session.` <span id="task38"></span>
+## `Коммуникация с сервером. Part 1. - AMA session.` <span id="task38"></span>
 
 Lecturer:
 [Oleksiy Rudenko](https://www.linkedin.com/in/oleksiyrudenko/)
@@ -1763,6 +1765,19 @@ Lecturer:
 [Ivan Tytarenko](https://www.linkedin.com/in/ititarenko/)
 
 #### [Video of Lection (1h 05m)](https://www.youtube.com/watch?v=AU2YiSt6lR8)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Коммуникация с сервером. Part 2. - AMA session.` <span id="task39"></span>
+
+Lecturer:
+[Nikita Shulipa](https://www.linkedin.com/in/nktssh/)
+
+#### [Video of Lection (1h 35m)](https://www.youtube.com/watch?v=PCnGI5UmY00)
 
 <br>
 
