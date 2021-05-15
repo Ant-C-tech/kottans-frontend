@@ -1751,6 +1751,42 @@ Lecturer:
 
 #### [Slides for Lection](https://docs.google.com/presentation/d/1jMdmyQ44Ht34BBE_LwAAZIVC1R3klycugvn5R8IrOsc/edit#slide=id.g8d769a31cb_0_0)
 
+### `Practical task`
+
+- P0: use real network API requests instead of fixtures in your app.
+
+- P0: Client-Server communications: read [Сетевые запросы](https://learn.javascript.ru/network).
+
+- P1: GraphQL vs REST:
+  - read [Что же такое этот GraphQL? @ habr](https://habr.com/ru/post/326986/).
+  - read [Сравнение REST и GraphQL @ habr](https://habr.com/ru/post/335158/).
+
+- P1: template literals:
+
+  - read [Template literals & tagged literals @ MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals).
+
+  - implement [template literal tag function/handler](https://github.com/OleksiyRudenko/js-template-literal-handler).
+
+- P2: parsing source code (JS, HTML/HTMLx):
+
+  - read [Как работает JS: абстрактные синтаксические деревья, парсинг и его оптимизация @ habr](https://habr.com/ru/company/ruvds/blog/415269/).
+
+  - read [HTML5 Parser @ MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_Parser).
+
+  - read [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html).
+
+  - read [How to build an HTML parser? @ SO](https://stackoverflow.com/questions/17999309/how-to-build-an-html-parser/17999893).
+
+  - TL; DR [13.2 Parsing HTML documents @ whatwg.org](https://html.spec.whatwg.org/multipage/parsing.html#parsing).
+
+  - quasi-JSX based on template literals using [DOMParser Web API](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser), [ES6 Quiasi-literal for JSX](https://gist.github.com/lygaret/a68220defa69174bdec5)
+
+  - implement your own HTML or JSX parser.
+
+  - code reading [github.com/tmont/html-parser](https://github.com/tmont/html-parser).
+
+  [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/demo/scr8.jpg">](https://ant-c-tech.github.io/lexicon/)
+
 <br>
 
 [<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
