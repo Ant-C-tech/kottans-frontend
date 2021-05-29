@@ -122,6 +122,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **3.5** [Lection 16. События, Состояние и Хуки в Web-приложениях.](#task43)
 
+- [x] [События, Состояние и Хуки в Web-приложениях - AMA session](#task45)
+
 - [x] **3.6** [Lection 17. Контекст, Управление состоянием приложения.](#task44)
 
 ---
@@ -1884,6 +1886,19 @@ Lecturer:
 #### [Video of Lection (0h 54m)](https://www.youtube.com/watch?v=pw-I9SNLhcA)
 
 #### [Slides for Lection](https://docs.google.com/presentation/d/1eZ9I2cNujgZJxSblaagGFRhx5UgjGm9paibetTTj1zQ/edit#slide=id.gd457ca9993_3_0)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `События, Состояние и Хуки в Web-приложениях - AMA session.` <span id="task45"></span>
+
+Lecturer:
+[Vitalii Ovcharenko](https://www.linkedin.com/in/vitalii-ovcharenko-0ab579135/)
+
+#### [Video of Lection (1h 23m)](https://drive.google.com/file/d/147CmX3Ur0aA1x5li2kzX3CRLiM6cT_sc/view)
 
 <br>
 
