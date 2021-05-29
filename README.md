@@ -116,6 +116,8 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] **3.4** [Lection 15. Рефакторим структуру проекта. Внедряем JSX.](#task40)
 
+- [x] [Масштабируем приложение. - AMA session](#task41)
+
 ---
 
 ---
@@ -1831,6 +1833,19 @@ Lecturer:
 #### [Video of Lection. Part 1. Рефакторим структуру проекта (0h 54m)](https://www.youtube.com/watch?v=r375E7H6QeA)
 
 #### [Video of Lection. Part 2. Внедряем JSX (1h 55m)](https://www.youtube.com/watch?v=IGXWKcJt2Fc)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Масштабируем приложение. - AMA session.` <span id="task41"></span>
+
+Lecturer:
+[Oleksiy Rudenko](https://www.linkedin.com/in/oleksiyrudenko/)
+
+#### [Video of Lection (0h 56m)](https://www.youtube.com/watch?v=Y418sgGslXU)
 
 <br>
 
