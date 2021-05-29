@@ -120,6 +120,10 @@ For each article, you are required to read please post the answers to the follow
 
 - [x] [Масштабируем приложение. Part 2. - AMA session](#task42)
 
+- [x] **3.5** [Lection 16. События, Состояние и Хуки в Web-приложениях.](#task43)
+
+- [x] **3.6** [Lection 17. Контекст, Управление состоянием приложения.](#task44)
+
 ---
 
 ---
@@ -1863,6 +1867,41 @@ Lecturer:
 [Oleksiy Rudenko](https://www.linkedin.com/in/oleksiyrudenko/)
 
 #### [Video of Lection (0h 55m)](https://www.youtube.com/watch?v=JCp1HV2OqG4)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 16. События, Состояние и Хуки в Web-приложениях` <span id="task43"></span>
+
+Целью данной лекции является систематизация знаний для понимания логики дальнейшего построения фреймворка в контексте нашего курса, а также реализация хуков useState и useEffect.
+
+Lecturer:
+[Vitalii Ovcharenko](https://www.linkedin.com/in/vitalii-ovcharenko-0ab579135/)
+
+#### [Video of Lection (0h 54m)](https://www.youtube.com/watch?v=pw-I9SNLhcA)
+
+#### [Slides for Lection](https://docs.google.com/presentation/d/1eZ9I2cNujgZJxSblaagGFRhx5UgjGm9paibetTTj1zQ/edit#slide=id.gd457ca9993_3_0)
+
+<br>
+
+[<img src="https://github.com/Ant-C-tech/kottans-frontend/blob/master/img/back-arrow.png"> Back to contents](#contents)
+
+---
+
+## `Lection 17. Контекст, Управление состоянием приложения.` <span id="task44"></span>
+
+- Даем определение "data flow"
+- Имплементируем и внедряем Context
+
+Lecturer:
+[Bohdan Kovalchuk](https://www.linkedin.com/in/babayko/)
+
+#### [Video of Lection (0h 24m)](https://www.youtube.com/watch?v=iXv7KvOxKxU)
+
+#### [Slides for Lection](https://docs.google.com/presentation/d/1Ah3kjbDVfOd7GsV7SjChmm8LfFRMRmBr5qMGC74QYeo/edit)
 
 <br>
 
